@@ -1,6 +1,8 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
+// This assumes the BASE export is available
+import { BASE } from '../../astro.config.mjs';
 ---
 
 <header>
@@ -8,8 +10,8 @@ import { SITE_TITLE } from '../consts';
 		<h2><a href="/">{SITE_TITLE}</a></h2>
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href={Astro.site?.pathname + 'blog/'}>Blog</HeaderLink>
-			<HeaderLink href={Astro.site?.pathname + 'about/'}>About</HeaderLink>
+			<HeaderLink href={`${BASE}blog/`}>Blog</HeaderLink>
+			<HeaderLink href={`${BASE}about/`}>About</HeaderLink>
 		</div>
 		<div class="social-links">
 			<a href="https://m.webtoo.ls/@astro" target="_blank">
