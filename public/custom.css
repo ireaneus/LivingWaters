@@ -1,0 +1,28 @@
+body {
+  font-family: 'Georgia', serif;
+  background: #f8fafc;
+  color: #222;
+}
+h1, h2, h3 {
+  color: #2266aa;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.2em;
+}
+a {
+  color: #1c7ed6;
+  text-decoration: underline;
+}
+blockquote {
+  background: #e3f0ff;
+  border-left: 4px solid #2266aa;
+  margin: 1em 0;
+  padding: 1em;
+  font-style: italic;
+}
+pre {
+  background: #2d2d2d;
+  color: #f8fafc;
+  border-radius: 8px;
+  padding: 1em;
+  overflow-x: auto;
+}
