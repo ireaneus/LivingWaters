@@ -1,5 +1,7 @@
 # [Astro](https://astro.build) Blog Template
 
+[livingwaters](https://ireaneus.git.io/LivingWaters/)
+
 [![Screenshot](screenshot.png)](https://astro-blog-template.netlify.app/)
 
 ## 👉 Check out the ✨ [Live Demo](https://astro-blog-template.netlify.app/) ✨
