@@ -1,3 +1,7 @@
+---
+const BASE = import.meta.env.BASE_URL;
+---
+
 <style>
   img {
     display: block;
@@ -11,6 +15,6 @@
   }
 </style>
 
-<a href="/">
+<a href={BASE}>
   <img alt="Blog Logo" src="/assets/logo.webp" width="75" height="50" />
 </a>
