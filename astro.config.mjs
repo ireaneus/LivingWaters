@@ -10,7 +10,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://ireaneus.github.io/LivingWaters/',
-  base: '/LivingWaters',
+  base: '/LivingWaters/',
   integrations: [mdx(), svelte(), sitemap()],
   markdown: {
     shikiConfig: {
