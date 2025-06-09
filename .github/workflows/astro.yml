@@ -11,3 +11,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: withastro/action@v2
+        with:
+          deploy-branch: gh-pages
