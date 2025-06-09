@@ -2,28 +2,46 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const title = 'Living Waters';
-const description = 'The perfect starter for your perfect blog.';
+const description = 'Making Jesus real - helping others glorify God and enjoy Him forever';
 const permalink = Astro.site.href;
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink}>
   <div class="home-container">
     <div class="home-copy">
-      <h1>Welcome to your new Astro Blog</h1>
-      <p>Check out the docs on <a href="https://www.github.com/Charca/astro-blog-template" target="_blank" rel="noopener">GitHub</a> to get started.</p>
-    </div>
+      <h1>Living Waters Ministry</h1>
+      <h2 class="tagline">Making Jesus Real</h2>
+      
+      <div class="mission-statement">
+        <p>"The chief end of man is to glorify God and enjoy Him forever"</p>
+        <sub>Q1. Westminister Catachism</sub>
+      </div>
 
-    <div class="hero-image-container">
-      <picture>
-        <source srcset="/LivingWaters/assets/home-illustration.webp" media="(min-width: 600px)">
-        <img class="hero-image" alt="Illustration of person reading a book" src="/assets/home-illustration-small.webp" width="550" height="466">
-      </picture>
-      <p class="caption">
-        Illustration by
-        <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6" target="_blank" rel="noopener">Icons 8</a>
-        from
-        <a href="https://icons8.com/illustrations" target="_blank" rel="noopener">Ouch!</a>
-      </p>
+      <div class="content-sections">
+        <h3>Explore Our Resources</h3>
+        <div class="resource-grid">
+          <div class="resource-card">
+            <h4>Devotionals</h4>
+            <p>Daily reflections to deepen your walk with Christ</p>
+          </div>
+          <div class="resource-card">
+            <h4>Articles</h4>
+            <p>In-depth exploration of biblical truths and contemporary faith</p>
+          </div>
+          <div class="resource-card">
+            <h4>Notes</h4>
+            <p>Practical insights and study materials for spiritual growth</p>
+          </div>
+          <div class="resource-card">
+            <h4>Books</h4>
+            <p>Extended works on theology and Christian living</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="welcome-message">
+        <p>Welcome to Living Waters, where we strive to make the presence and power of Jesus Christ tangible in everyday life. Through our writings and resources, we hope to help you experience the reality of God's love and develop a deeper, more meaningful relationship with Him.</p>
+      </div>
     </div>
   </div>
 </BaseLayout>
@@ -41,47 +59,103 @@ const permalink = Astro.site.href;
   .home-copy {
     flex: 1;
     padding: 0 1em;
+    max-width: 900px;
+    margin: 0 auto;
   }
 
   .home-copy h1 {
+    font-family: var(--font-family-serif);
     font-weight: 700;
     margin-bottom: 0.5em;
     line-height: 1.3;
-  }
-
-  .home-copy p {
-    font-size: 1.4em;
-  }
-
-  .hero-image-container {
-    margin: 0 1em;
+    color: var(--text-main);
     text-align: center;
   }
 
-  .hero-image-container picture {
-    display: block;
-    min-height: 250px;
-  }
-
-  .caption {
-    font-size: .8em;
-    font-style: italic;
-    text-align: left;
-  }
-
-  .hero-image {
-    width: 100%;
-    max-width: 550px;
+  .tagline {
+    font-family: var(--font-family-sans);
+    font-weight: 300;
+    font-size: 1.8em;
+    color: var(--text-secondary);
     margin-bottom: 1em;
+    text-align: center;
+  }
+
+  .mission-statement {
+    font-family: var(--font-family-serif);
+    font-style: italic;
+    font-size: 1.4em;
+    margin: 1.5em auto;
+    padding: 1.5em;
+    border-left: 4px solid var(--primary-color);
+    border-right: 4px solid var(--primary-color);
+    background: color-mix(in srgb, var(--background-body) 85%, var(--primary-color) 15%);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+    max-width: 800px;
+  }
+
+  .content-sections {
+    margin: 2em 0;
+  }
+
+  .content-sections h3 {
+    font-family: var(--font-family-sans);
+    font-weight: 600;
+    color: var(--text-main);
+    margin-bottom: 1em;
+    text-align: center;
+  }
+
+  .resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5em;
+    margin-top: 1em;
+  }
+
+  .resource-card {
+    padding: 1.5em;
+    background: color-mix(in srgb, var(--background-body) 95%, var(--primary-color) 5%);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+  }
+
+  .resource-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--primary-color);
+    background: color-mix(in srgb, var(--background-body) 90%, var(--primary-color) 10%);
+  }
+
+  .resource-card h4 {
+    font-family: var(--font-family-sans);
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0.5em;
+  }
+
+  .resource-card p {
+    font-size: 1.4em;
+    color: var(--text-secondary);
+  }
+
+  .welcome-message {
+    margin-top: 2em;
+    line-height: 1.6;
+    text-align: center;
+  }
+
+  .welcome-message p {
+    font-size: 1.4em;
+    color: var(--text-main);
   }
 
   @media (max-width: 1200px) {
-    p {
+    .resource-card p {
       font-size: 1.2em;
-    }
-
-    .hero-image {
-      max-width: 400px;
     }
   }
 
@@ -93,7 +167,17 @@ const permalink = Astro.site.href;
     .home-copy {
       flex: 0;
       padding-bottom: 2em;
-      text-align: center;
+    }
+
+    .resource-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .resource-card p {
+      font-size: 1.2rem;
+      margin: 1em 0;
     }
   }
 </style>

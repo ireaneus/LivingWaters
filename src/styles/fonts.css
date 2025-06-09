@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-display: swap;
   src: url(/LivingWaters/assets/fonts/va9B4kDNxMZdWfMOD5VnLK3eRhf6Xl7Glw.woff2)
     format('woff2');
@@ -14,7 +14,7 @@
 @font-face {
   font-family: 'Merriweather';
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   font-display: swap;
   src: url(/LivingWaters/assets/fonts/u-440qyriQwlOrhSvowK_l5-fCZMdeX3rg.woff2)
     format('woff2');
@@ -26,7 +26,7 @@
 @font-face {
   font-family: 'Merriweather';
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-display: swap;
   src: url(/LivingWaters/assets/fonts/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6hPvhPQ.woff2)
     format('woff2');
