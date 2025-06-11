@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name":  "LivingWaters",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
