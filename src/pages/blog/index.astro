@@ -15,7 +15,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
     <h1>Blog</h1>
     <div class="post-grid">
       {allPosts.map((post) => {
-        const href = `/blog/${post.data.slug}`;
+        const href = `${import.meta.env.BASE_URL}blog/${post.data.slug}`;
         return (
           <article class="post-card">
             <div class="post-content">

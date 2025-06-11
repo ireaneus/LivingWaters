@@ -21,19 +21,19 @@ const permalink = Astro.site.href;
         <h3>Explore Our Resources</h3>
         <div class="resource-grid">
           <div class="resource-card">
-            <h4><a href="/blog/label/devotional" class="resource-link">Devotionals</a></h4>
+            <h4><a href={`${import.meta.env.BASE_URL}blog/label/devotional`} class="resource-link">Devotionals</a></h4>
             <p>Daily reflections to deepen your walk with Christ</p>
           </div>
           <div class="resource-card">
-            <h4><a href="/blog/label/article" class="resource-link">Articles</a></h4>
+            <h4><a href={`${import.meta.env.BASE_URL}blog/label/article`} class="resource-link">Articles</a></h4>
             <p>In-depth exploration of biblical truths and contemporary faith</p>
           </div>
           <div class="resource-card">
-            <h4><a href="/blog/label/note" class="resource-link">Notes</a></h4>
+            <h4><a href={`${import.meta.env.BASE_URL}blog/label/note`} class="resource-link">Notes</a></h4>
             <p>Practical insights and study materials for spiritual growth</p>
           </div>
           <div class="resource-card">
-            <h4><a href="/blog/label/book" class="resource-link">Books</a></h4>
+            <h4><a href={`${import.meta.env.BASE_URL}blog/label/book`} class="resource-link">Books</a></h4>
             <p>Extended works on theology and Christian living</p>
           </div>
         </div>
