@@ -3,6 +3,7 @@ title: God's Grace Defined
 slug: Gods-grace
 publishDate: 30 Nov 2024
 description: Irresistible or Prevenient Grace
+label: Article
 ---
 
 # God's Grace Defined

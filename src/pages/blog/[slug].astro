@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props
-const { title, slug, description, publishDate } = post.data;
+const { title, slug, description, publishDate, label } = post.data;
 const readingTimeEstimate = readingTime(post.body).text
 const permalink = `${Astro.site.href}blog/${slug}`;
 const { Content } = await render(post)
@@ -22,6 +22,10 @@ const { Content } = await render(post)
   <header>
     <p>{publishDate} ~ {readingTimeEstimate}</p>
     <h1>{title}</h1>
+    <div class="post-meta">
+      <span class="post-label">{label}</span>
+      <span class="post-description">{description}</span>
+    </div>
     <hr />
   </header>
   <div class="container">
@@ -51,5 +55,29 @@ const { Content } = await render(post)
   header hr {
     min-width: 100px;
     width: 30%;
+  }
+
+  .post-meta {
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    margin-bottom: 1em;
+    font-family: var(--font-family-sans);
+    font-size: 1.1em;
+    color: var(--text-secondary);
+  }
+
+  .post-label {
+    background: var(--primary-color);
+    color: #fff;
+    border-radius: 6px;
+    padding: 0.2em 0.8em;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .post-description {
+    font-style: italic;
   }
 </style>

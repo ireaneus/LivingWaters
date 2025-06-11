@@ -7,11 +7,15 @@ import rehypeExternalLinks from 'rehype-external-links'
 import sitemap from '@astrojs/sitemap';
 
 
+import tailwindcss from '@tailwindcss/vite';
+
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://ireaneus.github.io/LivingWaters/',
   base: '/LivingWaters/',
   integrations: [mdx(), svelte(), sitemap()],
+
   markdown: {
     shikiConfig: {
       theme: 'nord',
@@ -25,5 +29,9 @@ export default defineConfig({
         },
       ],
     ],
+  },
+
+  vite: {
+    plugins: [tailwindcss()],
   },
 })

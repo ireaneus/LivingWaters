@@ -21,19 +21,19 @@ const permalink = Astro.site.href;
         <h3>Explore Our Resources</h3>
         <div class="resource-grid">
           <div class="resource-card">
-            <h4>Devotionals</h4>
+            <h4><a href="/blog/label/devotional" class="resource-link">Devotionals</a></h4>
             <p>Daily reflections to deepen your walk with Christ</p>
           </div>
           <div class="resource-card">
-            <h4>Articles</h4>
+            <h4><a href="/blog/label/article" class="resource-link">Articles</a></h4>
             <p>In-depth exploration of biblical truths and contemporary faith</p>
           </div>
           <div class="resource-card">
-            <h4>Notes</h4>
+            <h4><a href="/blog/label/note" class="resource-link">Notes</a></h4>
             <p>Practical insights and study materials for spiritual growth</p>
           </div>
           <div class="resource-card">
-            <h4>Books</h4>
+            <h4><a href="/blog/label/book" class="resource-link">Books</a></h4>
             <p>Extended works on theology and Christian living</p>
           </div>
         </div>
@@ -122,6 +122,7 @@ const permalink = Astro.site.href;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     transition: all 0.2s ease;
     border: 1px solid transparent;
+    text-decoration: none;
   }
 
   .resource-card:hover {
@@ -151,6 +152,18 @@ const permalink = Astro.site.href;
   .welcome-message p {
     font-size: 1.4em;
     color: var(--text-main);
+  }
+
+  .resource-link {
+    text-decoration: none !important;
+    color: inherit;
+    transition: color 0.2s;
+    box-shadow: none !important;
+  }
+  .resource-link:hover {
+    color: var(--primary-color);
+    text-decoration: underline !important;
+    box-shadow: none !important;
   }
 
   @media (max-width: 1200px) {
