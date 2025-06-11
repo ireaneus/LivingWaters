@@ -7,9 +7,6 @@ import rehypeExternalLinks from 'rehype-external-links'
 import sitemap from '@astrojs/sitemap';
 
 
-import tailwindcss from '@tailwindcss/vite';
-
-
 // https://astro.build/config
 export default defineConfig({
   site: 'https://ireaneus.github.io/LivingWaters/',
@@ -29,9 +26,5 @@ export default defineConfig({
         },
       ],
     ],
-  },
-
-  vite: {
-    plugins: [tailwindcss()],
-  },
+  }
 })
