@@ -96,11 +96,26 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
   .post-title a {
     color: var(--primary-color);
     text-decoration: none;
-    transition: color 0.2s ease;
+    transition: color 0.2s;
+    box-shadow: none;
   }
 
   .post-title a:hover {
-    color: color-mix(in srgb, var(--primary-color) 80%, var(--text-main) 20%);
+    color: #2196f3;
+    text-decoration: none;
+    box-shadow: none;
+  }
+
+  a {
+    text-decoration: none;
+    box-shadow: none;
+    transition: color 0.2s;
+  }
+
+  a:hover {
+    text-decoration: none;
+    box-shadow: none;
+    color: #2196f3;
   }
 
   .post-label {
