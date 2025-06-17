@@ -1,23 +1,24 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 const BASE = Astro.site.pathname ?? '/';
-
 const title = 'Living Waters';
 const description = 'Making Jesus real - helping others glorify God and enjoy Him forever';
 const permalink = Astro.site.href;
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink}>
+  {/* Main container for the home page content */}
   <div class="home-container">
     <div class="home-copy">
+      {/* Site title and tagline */}
       <h1>Living Waters Ministry</h1>
       <h2 class="tagline">Making Jesus Real</h2>
-      
+      {/* Mission statement section */}
       <div class="mission-statement">
         <p>"The chief end of man is to glorify God and enjoy Him forever"</p>
         <sub>Q1. Westminister Catachism</sub>
       </div>
-
+      {/* Resource cards for navigation by label */}
       <div class="content-sections">
         <h3>Explore Our Resources</h3>
         <div class="resource-grid">
@@ -39,7 +40,7 @@ const permalink = Astro.site.href;
           </div>
         </div>
       </div>
-
+      {/* Welcome message section */}
       <div class="welcome-message">
         <p>Welcome to Living Waters, where we strive to make the presence and power of Jesus Christ tangible in everyday life. Through our writings and resources, we hope to help you experience the reality of God's love and develop a deeper, more meaningful relationship with Him.</p>
       </div>
@@ -48,6 +49,7 @@ const permalink = Astro.site.href;
 </BaseLayout>
 
 <style>
+  /* Layout and responsive styles for the home page */
   .home-container {
     align-items: center;
     display: flex;

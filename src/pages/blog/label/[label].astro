@@ -19,8 +19,10 @@ filteredPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink} current="blog">
+  {/* Label-filtered blog main container */}
   <div class="container">
     <h1>{title}</h1>
+    {/* Filtered blog post grid */}
     <div class="post-grid">
       {filteredPosts.length === 0 && <p>No posts found for this label.</p>}
       {filteredPosts.map((post) => {
@@ -28,11 +30,14 @@ filteredPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a
         return (
           <article class="post-card">
             <div class="post-content">
+              {/* Blog post title and label */}
               <h2 class="post-title">
                 <a href={href}>{post.data.title}</a>
                 <span class="post-label">{post.data.label}</span>
               </h2>
+              {/* Blog post description */}
               <p class="post-description">{post.data.description}</p>
+              {/* Blog post footer with publish date */}
               <div class="post-footer">
                 <span class="post-date">
                   {new Date(post.data.publishDate).toLocaleDateString('en-US', {
@@ -51,6 +56,7 @@ filteredPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a
 </BaseLayout>
 
 <style>
+  /* Label-filtered blog page layout and card styles */
   .container {
     margin: 0 auto;
     max-width: 1200px;

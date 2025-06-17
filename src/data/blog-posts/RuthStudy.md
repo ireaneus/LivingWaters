@@ -23,6 +23,8 @@ label: book
 
 ## Pictures from the story of Ruth
 
+![Illustration of Ruth in the field](/LivingWaters/assets/blog/Ruth.jpg)
+
 1. A picture of God's plan to provide a monarch
 2. A picture of a coming Messiah, redeeming sinners both Jew and Gentile from the curse of Law
 3. Reveals how the Lord will bring our age to an end and fulfill all His promises to Israel and the nations of the earth

@@ -11,19 +11,24 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink} current="blog">
+  {/* Blog main container */}
   <div class="container">
     <h1>Blog</h1>
+    {/* Blog post grid */}
     <div class="post-grid">
       {allPosts.map((post) => {
         const href = `${import.meta.env.BASE_URL}blog/${post.data.slug}`;
         return (
           <article class="post-card">
             <div class="post-content">
+              {/* Blog post title and label */}
               <h2 class="post-title">
                 <a href={href}>{post.data.title}</a>
                 <span class="post-label">{post.data.label}</span>
               </h2>
+              {/* Blog post description */}
               <p class="post-description">{post.data.description}</p>
+              {/* Blog post footer with publish date */}
               <div class="post-footer">
                 <span class="post-date">
                   {new Date(post.data.publishDate).toLocaleDateString('en-US', {
@@ -42,6 +47,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
 </BaseLayout>
 
 <style>
+  /* Blog index layout and card styles */
   .container {
     margin: 0 auto;
     max-width: 1200px;
