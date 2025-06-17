@@ -377,10 +377,6 @@ label: book
 
 ---
 
-Certainly! Here's **Ruth 1:12** in your consistent **beautified markdown format**, including cross-references that connect to Naomi’s logic and sorrow — especially highlighting her sense of hopelessness about remarriage and the loss of future generations.
-
----
-
 ### 🧷 Verse 12
 
 > ***Ruth 1:12***  
@@ -914,5 +910,3 @@ Certainly! Here's **Ruth 1:12** in your consistent **beautified markdown format*
 
 > *"Greetings, favored one! The Lord is with you."*
 > ➤ Ruth, like Mary, receives **unexpected favor and grace** — not based on status, but faith.
-
----
