@@ -3,18 +3,23 @@ const BASE = import.meta.env.BASE_URL;
 ---
 
 <style>
-  img {
+  .logo-img {
     display: block;
     width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    opacity: 0.9;
   }
-
   @media screen and (max-width: 520px) {
-    img {
+    .logo-img {
       display: none;
     }
   }
 </style>
 
 <a href={BASE}>
-  <img alt="Blog Logo" src={`${BASE}assets/logo.webp`} width="75" height="50" />
+  <img alt="Blog Logo" src={`${BASE}assets/brokencisterns.png`} class="logo-img" />
 </a>
