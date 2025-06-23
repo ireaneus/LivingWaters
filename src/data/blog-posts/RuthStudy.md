@@ -6,8 +6,6 @@ description: Jesus the Kinsman Redeemer
 label: book
 ---
 
-# The Book of Ruth
-
 ## 📑 Table of Contents
 
 - [Table of Contents](#-table-of-contents)
@@ -82,7 +80,7 @@ label: book
   
 > *"Now it came about in the days when the judges governed, that there was a famine in the land. And a man of Bethlehem in Judah went to reside in the land of Moab with his wife and his two sons."*  
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:1
 
 #### 🌧️ Deuteronomy 11:13–17  
 >
@@ -128,18 +126,18 @@ label: book
 
 ---
 
-## 🕊️ Verse 2
+## 🕊️ Verse 1:2
 
 > **Ruth 1:2**  
 > *"The name of the man was Elimelech, and the name of his wife, Naomi; and the names of his two sons were Mahlon and Chilion, Ephrathites of Bethlehem in Judah. Now they entered the land of Moab and remained there."*  
 > — *Ruth 1:2 NASB2020*
 
-### 📖 Cross References
+### 📖 Cross References for verse 1:2
 
 #### 📜 Deuteronomy 23:3–6  
 >
-> *“No Ammonite or Moabite may enter the assembly of the Lord; none of their descendants, even to the tenth generation, may ever enter the assembly of the Lord,  
-> because they did not meet you with food and water on the way when you came out of Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to curse you.  
+> *“No Ammonite or Moabite may enter the assembly of the Lord; none of their descendants, even to the tenth generation, may ever enter the assembly of the Lord, because they did not meet you with food and water on the way when you came out of Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to curse you.
+>
 > Nevertheless, the Lord your God was unwilling to listen to Balaam, but the Lord your God turned the curse into a blessing for you because the Lord your God loves you.  
 > You shall never seek their peace or their prosperity all your days.*
 
@@ -149,13 +147,13 @@ label: book
 
 ---
 
-### 🧷 Verse 3
+### 🧷 Verse 1:3
 
 > **Ruth 1:3**  
 > *"Then Elimelech, Naomi’s husband, died; and she was left with her two sons."*  
 > — *Ruth 1:3 NASB2020*
 
-### 📖 Cross References
+### 📖 Cross References for verse 3
 
 #### 💔 Deuteronomy 10:18  
 >
@@ -174,13 +172,13 @@ label: book
 
 ---
 
-### 🧷 Verse 4
+### 🧷 Verse 1:4
 
 > **Ruth 1:4**  
 > *"And they took Moabite women as their wives; the name of the one was Orpah, and the name of the other Ruth. And they lived there about ten years."*  
 > — *Ruth 1:4 NASB2020*
 
-### 📖 Cross References
+### 📖 Cross References for verse 1:4
 
 #### ⚠️ Deuteronomy 7:1–4  
 >
@@ -203,13 +201,13 @@ label: book
 
 ---
 
-### 🧷 Verse 5
+### 🧷 Verse 1:5
 
 > ***Ruth 1:5***  
 > *"Then both Mahlon and Chilion also died, and the woman was left without her two sons and her husband."*  
 > — **Ruth 1:5 NASB2020**
 
-### 📖 Cross Reference
+### 📖 Cross Reference for verse 1:5
 
 #### 🕊️ *Ephesians 2:11–13*  
 >
@@ -220,13 +218,13 @@ label: book
 
 ---
 
-### 🧷 Verse 6
+### 🧷 Verse 1:6
 
 > ***Ruth 1:6***  
 > *"Then she got up with her daughters-in-law to return from the land of Moab, because she had heard in the land of Moab that the Lord had visited His people by giving them food."*  
 > — **Ruth 1:6 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:6
 
 #### 🙏 *Exodus 4:31*  
 >
@@ -290,13 +288,13 @@ label: book
 
 ---
 
-### 🧷 Verse 7
+### 🧷 Verse 1:7
 
 > ***Ruth 1:7***  
 > *"So she left the place where she was, and her two daughters-in-law with her; and they started on the way to return to the land of Judah."*  
 > — **Ruth 1:7 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:7
 
 #### 🔥 *Ezekiel 20:33–38*  
 >
@@ -312,20 +310,19 @@ label: book
 #### 🤲 *2 Timothy 1:16*  
 >
 > *"The Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains..."*
-
 > 📝 **Thematic Note**:  
 > Naomi’s physical **return to the land** foreshadows the greater story of **God regathering His people**.  
 > Just as Naomi set out from Moab, **God in His covenant faithfulness regathers the remnant of Israel**—a promise visibly fulfilled in **1948** when the nation of Israel was reestablished. This return, both physical and prophetic, echoes through Scripture and aligns with the pattern of divine restoration seen in Ruth.
 
 ---
 
-### 🧷 Verse 8
+### 🧷 Verse 1:8
 
 > ***Ruth 1:8***  
 > *"But Naomi said to her two daughters-in-law, 'Go, return each of you to your mother’s house. May the Lord deal kindly with you as you have dealt with the dead and with me.'"*  
 > — **Ruth 1:8 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:8
 
 #### 💗 *Genesis 24:12, 27*  
 >
@@ -345,7 +342,7 @@ label: book
 
 ---
 
-### 🧷 Verse 9
+### 🧷 Verse 1:9
 
 > ***Ruth 1:9***  
 > *"May the Lord grant that you may find rest, each one in the house of her husband." Then she kissed them, and they raised their voices and wept."*  
@@ -353,7 +350,7 @@ label: book
 
 ---
 
-### 🧷 Verse 10
+### 🧷 Verse 1:10
 
 > ***Ruth 1:10***  
 > *"However, they said to her, 'No, but we will return with you to your people.'"*  
@@ -361,13 +358,13 @@ label: book
 
 ---
 
-### 🧷 Verse 11
+### 🧷 Verse 1:11
 
 > ***Ruth 1:11***  
 > *"But Naomi said, 'Return, my daughters. Why should you go with me? Do I still have sons in my womb, that they may be your husbands?'"*  
 > — **Ruth 1:11 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:11
 
 #### 🧑‍🍼 *Genesis 38:11*  
 >
@@ -377,13 +374,13 @@ label: book
 
 ---
 
-### 🧷 Verse 12
+### 🧷 Verse 1:12
 
 > ***Ruth 1:12***  
 > *"Return, my daughters! Go, for I am too old to have a husband. If I said I have hope, if I were even to have a husband tonight and also give birth to sons..."*  
 > — **Ruth 1:12 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:12
 
 #### 💬 *Genesis 18:11–12*  
 >
@@ -392,18 +389,17 @@ label: book
 
 ---
 
-### 🧷 Verse 13
+### 🧷 Verse 1:13
 
 > ***Ruth 1:13***  
 > *"Would you therefore wait until they were grown? Would you therefore refrain from marrying? No, my daughters; for it is much **harder** for me than for you, for the hand of the Lord has come out against me."*  
 > — **Ruth 1:13 NASB2020**
-
 > 📝 **Translation Note**:  
 > The word translated “*harder*” is **literally** *more bitter* in Hebrew (Heb. *mar-li*) — expressing Naomi’s deep sorrow, grief, and sense of divine affliction.
 
 ---
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:13
 
 #### ⚔️ *Judges 2:15*  
 >
@@ -421,13 +417,13 @@ label: book
 
 ---
 
-### 🧷 Verse 14
+### 🧷 Verse 1:14
 
 > ***Ruth 1:14***  
 > *"And they raised their voices and wept again; and Orpah kissed her mother-in-law, but Ruth clung to her."*  
 > — **Ruth 1:14 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:14
 
 #### 🌍 *Isaiah 55:5–6*  
 >
@@ -454,13 +450,13 @@ label: book
 
 ---
 
-### 🧷 Verse 15
+### 🧷 Verse 1:15
 
 > ***Ruth 1:15***  
 > *"Then she said, 'Behold, your sister-in-law has gone back to her people and her gods; return after your sister-in-law.'"*  
 > — **Ruth 1:15 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 1:15
 
 #### 🛐 *Joshua 24:15*  
 >
@@ -478,7 +474,7 @@ label: book
 
 ---
 
-### 🧷 Verse 16
+### 🧷 Verse 1:16
 
 > ***Ruth 1:16***  
 > *"But Ruth said, 'Do not urge me to leave you or to turn back from following you;  
@@ -488,19 +484,18 @@ label: book
 
 ---
 
-### 🧷 Verse 17
+### 🧷 Verse 1:17
 
 > ***Ruth 1:17***  
 > *"Where you die, I will die, and there I will be buried.  
 > May the Lord do so to me, and worse, if anything but death separates me from you."*  
 > — **Ruth 1:17 NASB2020**
-
 > 📝 **Covenantal Weight**:  
 > Ruth’s declaration mirrors the **language of solemn oath formulas** in the Old Testament. She calls on **Yahweh Himself** to judge her if she breaks this vow — a striking move for a Moabitess, showing that her **faith is real, not cultural**.
 
 ---
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 17
 
 #### ⚖️ *1 Samuel 3:17*  
 >
@@ -521,11 +516,10 @@ label: book
 > ***Ruth 1:18***  
 > *"When she saw that she was determined to go with her, she said no more to her."*  
 > — **Ruth 1:18 NASB2020**
-
 > 📝 **Translation Note**:  
 > The phrase *"she said no more to her"* is **literally** *“ceased to speak”* — a Hebraism suggesting Naomi no longer tried to persuade Ruth otherwise.
 
-### 📖 Cross Reference
+### 📖 Cross Reference for verse 18
 
 #### 🤐 *Acts 21:14*  
 >
@@ -541,7 +535,7 @@ label: book
 > And when they had come to Bethlehem, all the city was stirred because of them, and the women said, 'Is this Naomi?'"*  
 > — **Ruth 1:19 NASB2020**
 
-### 📖 Cross Reference
+### 📖 Cross Reference for verse 19
 
 #### 🌆 *Matthew 21:10*  
 >
@@ -555,14 +549,14 @@ label: book
 > ***Ruth 1:20***  
 > *"But she said to them, 'Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.'"*  
 > — **Ruth 1:20 NASB2020**
-
+>
 > 📝 **Name Notes**:  
 >
 > - **Naomi** means *“pleasant”*  
 > - **Mara** means *“bitter”*  
 > - **"The Almighty"** is *El Shaddai*, a name of **divine sovereignty and sufficiency**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 20
 
 #### 📛 *Exodus 6:3*  
 >
@@ -584,7 +578,7 @@ label: book
 > Why do you call me Naomi, since the Lord has testified against me and the Almighty has afflicted me?"*  
 > — **Ruth 1:21 NASB2020**
 
-### 📖 Cross Reference
+### 📖 Cross Reference for verse 21
 
 #### ⚖️ *Job 1:21*  
 >
@@ -600,14 +594,14 @@ label: book
 > *"So Naomi returned, and with her Ruth the Moabitess, her daughter-in-law, who returned from the land of Moab.  
 > And they came to Bethlehem at the beginning of barley harvest."*  
 > — **Ruth 1:22 NASB2020**
-
+>
 > 📝 **Prophetic Note**:  
 > The **beginning of barley harvest** corresponds to **Nisan (March–April)** in the Hebrew calendar — the time of **Passover** and **First Fruits** (see *Leviticus 23*). This is **not just agricultural** — it's **prophetic**:
-
+>
 > - Naomi and Ruth return during the **season of redemption**  
 > - It foreshadows **resurrection and provision**, pointing ahead to the **Church Age** and Christ as the **First Fruits**.
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 22
 
 #### 🌾 *Exodus 9:31*  
 >
@@ -625,21 +619,21 @@ label: book
 
 ## 📖 Ruth Chapter 2 – Study Guide
 
-### 🧷 Verse 1
+### 🧷 Verse 2:1
 
 > ***Ruth 2:1***  
 > *"Now Naomi had a relative of her husband, a man of great wealth, from the family of Elimelech, whose name was Boaz."*  
 > — **Ruth 2:1 NASB2020**
-
+>
 > 📝 **Textual Notes**:  
 >
 > - *"a relative"* — Hebrew: could also mean **“a kinsman”** or **“an acquaintance”**  
 > - *"a man of great wealth"* — Hebrew: **“a mighty man of valor”**, sometimes implying strength, influence, or noble character  
-> - *"Elimelech"* — first introduced in *[Ruth 1:2](#verse-2)* as Naomi’s husband
+> - *"Elimelech"* — first introduced in [Ruth 1:2](#-verse-112) * as Naomi’s husband
 
 ---
 
-### 🧷 Verse 2
+### 🧷 Verse 2:2
 
 > ***Ruth 2:2***  
 > *"And Ruth the Moabitess said to Naomi, 'Please let me go to the field and glean among the ears of grain following one in whose eyes I may find favor.' And she said to her, 'Go, my daughter.'"*  
@@ -647,7 +641,7 @@ label: book
 
 ---
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 2:2
 
 #### 🌾 *Leviticus 19:9–10*  
 >
@@ -674,12 +668,12 @@ label: book
 
 ---
 
-### 🧷 Verse 3
+### 🧷 Verse 2:3
 
 > ***Ruth 2:3***  
 > *"So she left, and went and gleaned in the field after the reapers; and **she happened to come** to the portion of the field belonging to Boaz, who was of the family of Elimelech."*  
 > — **Ruth 2:3 NASB2020**
-
+>
 > 📝 **Translation Note**:  
 >
 > - *“She happened to come”* — literally in Hebrew: **“her chance chanced upon”** (*miqreh qarah*)  
@@ -687,7 +681,7 @@ label: book
 
 ---
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 2:3
 
 #### 🌿 *Proverbs 16:9*  
 >
@@ -709,19 +703,19 @@ label: book
 
 ---
 
-### 🧷 Verse 4
+### 🧷 Verse 2:4
 
 > ***Ruth 2:4***  
 > *"Now behold, Boaz came from Bethlehem and said to the reapers, 'May the Lord be with you.' And they said to him, 'May the Lord bless you.'"*  
 > — **Ruth 2:4 NASB2020**
-
+>
 > 📝 **Textual Note**:  
 >
 > - *“May the Lord be with you”* is a **common covenantal greeting** in Israel that carries **spiritual weight**, especially when spoken by or to one chosen for a divine role.
 
 ---
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 2:4
 
 #### ⚔️ *Judges 6:12*  
 >
@@ -748,36 +742,36 @@ label: book
 
 ---
 
-### 🧷 Verse 5
+### 🧷 Verse 2:5
 
 > ***Ruth 2:5***  
 > *"Then Boaz said to his servant who was in charge of the reapers, 'Whose young woman is this?'"*  
 > — **Ruth 2:5 NASB2020**
-
+>
 > 📝 **Note**:  
 > Boaz's question reflects a **cultural identification** through household or tribal connection. He’s not asking who she is merely out of curiosity but **what family or house** she belongs to.
 
 ---
 
-### 🧷 Verse 6
+### 🧷 Verse 2:6
 
 > ***Ruth 2:6***  
 > *"And the servant in charge of the reapers replied, 'She is the young Moabite woman who returned with Naomi from the land of Moab.'"*  
 > — **Ruth 2:6 NASB2020**
-
+>
 > 📝 **Note**:  
 > Ruth’s **Moabite identity** is emphasized again, reminding the reader of her outsider status — and the magnitude of Boaz’s kindness in what follows.
 
 ---
 
-### 🧷 Verse 7
+### 🧷 Verse 2:7
 
 > ***Ruth 2:7***  
 > *"And she said, ‘Please let me glean and gather after the reapers among the sheaves.’  
 > So she came and has continued from the morning until now; she has been sitting in the house for a little while."*  
 > — **Ruth 2:7 NASB2020**
 
-### 📖 Cross Reference
+### 📖 Cross Reference for verse 2:7
 
 #### 🛐 *Ruth 2:2*  
 >
@@ -791,7 +785,7 @@ label: book
 > ***Ruth 2:8***  
 > *"Then Boaz said to Ruth, 'Listen carefully, my daughter: do not go to glean in another field; furthermore, do not go on from this one, but stay here with my female workers.'"*  
 > — **Ruth 2:8 NASB2020**
-
+>
 > 📝 **Note**:  
 > Boaz refers to Ruth as **“my daughter”** — a term of **respect, protection, and affection**, signaling a **safe and honorable environment**.
 
@@ -841,14 +835,14 @@ label: book
 
 ---
 
-### 🧷 Verse 11
+### 🧷 Verse 2:11
 
 > ***Ruth 2:11***
 > *"Boaz replied to her, 'All that you have done for your mother-in-law after the death of your husband has been fully reported to me,
 > and how you left your father and your mother and the land of your birth, and came to a people that you did not previously know.'"*
 > — **Ruth 2:11 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 2:11
 
 #### ✨ *Genesis 12:1*
 
@@ -863,14 +857,14 @@ label: book
 
 ---
 
-### 🧷 Verse 12
+### 🧷 Verse 2:12
 
 > ***Ruth 2:12***
 > *"May the Lord reward your work, and may your wages be full from the Lord, the God of Israel,
 > under whose wings you have come to take refuge.”*
 > — **Ruth 2:12 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 2:12
 
 #### 🕊️ *Psalm 91:4*
 
@@ -891,14 +885,14 @@ label: book
 
 ---
 
-### 🧷 Verse 13
+### 🧷 Verse 2:13
 
 > ***Ruth 2:13***
 > *"Then she said, 'I have found favor in your eyes, my lord, for you have comforted me and indeed have spoken kindly to your servant,
 > though I am not like one of your female servants.’"*
 > — **Ruth 2:13 NASB2020**
 
-### 📖 Cross References
+### 📖 Cross Reference for verse 2:13
 
 #### 💬 *Isaiah 40:1–2*
 

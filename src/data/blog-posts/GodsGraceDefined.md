@@ -1,5 +1,5 @@
 ---
-title: God's Grace Defined
+title: ✨ God's Grace Defined
 slug: gods-grace
 publishDate: 30 Nov 2024
 description: Irresistible or Prevenient Grace
@@ -8,16 +8,14 @@ label: Article
 
 ![Grace Banner](https://your-site.com/images/grace-banner.jpg)
 
-# ✨ God's Grace Defined
-
 A comparison of **Irresistible Grace** and **Prevenient Grace**—two profound theological perspectives on how God draws people to Himself.
 
 ---
 
 ## 📚 Table of Contents
 
-- [Irresistible Grace (TULIP)](#irresistible-grace-tulip)
-- [Prevenient Grace](#prevenient-grace)
+- [Irresistible Grace (TULIP)](#-irresistible-grace-tulip)
+- [Prevenient Grace](#️-prevenient-grace)
 
 ---
 
@@ -32,19 +30,30 @@ A comparison of **Irresistible Grace** and **Prevenient Grace**—two profound t
 ### 🔑 Key Aspects
 
 #### 1. **Effectual Calling**
+
 God’s effectual call always results in a saving response.  
-📖 _Romans 8:30_
+📖 _Romans 8:29-30_
+> "29 For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brothers and sisters;
+>
+> 30 and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified."
 
 #### 2. **Monergistic Work**
+
 Salvation is solely God's doing—not a partnership between divine initiative and human effort.
 
 #### 3. **Transforming the Will**
+
 God replaces the heart of stone with a heart of flesh.  
 📖 _Ezekiel 36:26-27_
+> "26 Moreover, I will give you a new heart and put a new spirit within you; and I will remove the heart of stone from your flesh and give you a heart of flesh.
+>
+> 27 And I will put My Spirit within you and bring it about that you walk in My statutes, and are careful and follow My ordinances."
 
 #### 4. **The Holy Spirit’s Role**
+
 The Spirit draws the elect with a power that cannot ultimately be resisted.  
 📖 _John 6:44_
+> "No one can come to Me unless the Father who sent Me draws him; and I will raise him up on the last day."
 
 ---
 
@@ -61,9 +70,11 @@ The Spirit draws the elect with a power that cannot ultimately be resisted.
 ## 🧠 Theological Perspectives
 
 ### Reformed View
+
 God’s grace **guarantees** salvation for the elect. Human resistance may occur, but it will be overcome.
 
 ### Arminian View
+
 God’s grace is **resistible**. Salvation is possible but not assured; it respects human freedom.
 
 ---
@@ -85,18 +96,22 @@ Imagine a shepherd seeking his lost sheep—not calling from afar, but climbing 
 ### 🔑 Key Aspects
 
 #### 1. **God’s Initiative**
+
 God moves first, not man.  
 📖 _John 6:44_, _Philippians 2:13_
 
 #### 2. **Enabling Grace**
+
 Though spiritually dead, the sinner is enabled to respond.  
 📖 _Ephesians 2:4-5_, _Romans 2:4_
 
 #### 3. **Universal Offer**
+
 This grace is extended to all.  
 📖 _Titus 2:11_, _John 12:32_
 
 #### 4. **Conviction of Sin**
+
 The Holy Spirit convicts and draws.  
 📖 _John 16:8_
 
@@ -104,7 +119,7 @@ The Holy Spirit convicts and draws.
 
 ## ✍️ Summary
 
-**Prevenient Grace** is God's **initial spark**—a universal grace that awakens the heart, convicts the soul, and gives the sinner the **freedom to choose** salvation. It is _not irresistible_, but it is always divine in origin.
+**Prevenient Grace** is God's **initial spark** —a universal grace that awakens the heart, convicts the soul, and gives the sinner the **freedom to choose** salvation. It is _not irresistible_, but it is always divine in origin.
 
 📖 _Ephesians 2:8-9_ — _"For by grace you have been saved through faith..."_
 
@@ -114,5 +129,3 @@ The Holy Spirit convicts and draws.
 > Both doctrines affirm that **salvation begins with God**, not man. Whether one believes grace is **irresistible** or **prevenient**, the result is the same: **God gets all the glory.**
 
 ---
-
-![Grace Divider](https://your-site.com/images/grace-divider.png)
