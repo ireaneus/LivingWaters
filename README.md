@@ -1,9 +1,6 @@
 # [Living Waters Ministry](https://ireaneus.git.io/LivingWaters/)
 
-
-
 ![brokencisterns](https://github.com/user-attachments/assets/5f1ea58f-2172-4b88-bede-76ac7b2e922e)
-
 
 **Jeremiah 2:13 (NASB 2020)** says:
 
@@ -14,7 +11,7 @@
 > Broken cisterns
 > That do not hold water.”
 
-### **Spiritual Meaning of Jeremiah 2:13**
+## **Spiritual Meaning of Jeremiah 2:13**
 
 This verse carries deep spiritual symbolism, drawing from everyday images in the ancient world to express a profound truth about humanity's relationship with God.
 
@@ -27,10 +24,11 @@ This verse carries deep spiritual symbolism, drawing from everyday images in the
 * Abandoning the fountain symbolizes turning away from a vibrant, relational trust in God.
 
 **Cross-reference**:  
->  *“Therefore you will joyously draw water"*  
->  *"From the springs of salvation.”* (Isaiah 12:3)
+> *“Therefore you will joyously draw water"*  
+> *"From the springs of salvation.”* (Isaiah 12:3)
 >
->  *Jesus said... “Whoever believes in Me... ‘From his innermost being will flow rivers of living water.’”* (John 7:38)
+> *Jesus said... "If anyone is thirsty, let him come to Me and drink. 38The one who believes in Me, as the Scripture said,  
+> ‘From his innermost being will flow rivers of living water.’”* (John 7:38)
 
 ---
 
@@ -64,5 +62,3 @@ It calls us to:
 * Return to **God as our Source**, our Spring of Living Water.
 * Reject any false sources of comfort, identity, or purpose.
 * Recognize that **only in Christ** can our thirst be truly quenched (John 4:14).
-
-
