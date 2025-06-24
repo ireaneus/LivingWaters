@@ -8,57 +8,67 @@ label: article
 
 ## Table of Contents
 
-1. [The Message of the Bible](#the-message-of-the-bible)
-2. [The Glory of God, Man’s Purpose, and Divine Providence](#the-glory-of-god-mans-purpose-and-divine-providence)
-3. [The Bible](#the-bible)
-4. [The Nature of God](#the-nature-of-god)
-   - [Attributes of God](#attributes-of-god)
-   - [The Trinity](#the-trinity)
-4. [The Nature of God: God the Father](#the-nature-of-god-god-the-father)
-5. [The Nature of God: God the Son](#the-nature-of-god-god-the-son)
-   - [Key Roles and Attributes of God the Son](#key-roles-and-attributes-of-god-the-son)
-6. [The Nature of God: God the Holy Spirit](#the-nature-of-god-god-the-holy-spirit)
-   - [Key Roles and Attributes of God the Holy Spirit](#key-roles-and-attributes-of-god-the-holy-spirit)
-7. [The Decrees of God](#the-decrees-of-god)
-8. [About Angels](#about-angels)
-   - [Roles and Classes of Angels](#roles-and-classes-of-angels)
-   - [Destiny of Angels](#destiny-of-angels)
-9. [About Satan](#about-satan)
-10. [The Nature of Man](#the-nature-of-man)
-11. [About Sin](#about-sin)
-    - [Clarification on Total Depravity](#clarification-on-total-depravity)
-12. [Salvation](#salvation)
-    - [The Basis of Salvation](#the-basis-of-salvation)
-    - [The Process of Salvation](#the-process-of-salvation)
-    - [Why Repentance is Essential](#why-repentance-is-essential)
-    - [The Result of Salvation](#the-result-of-salvation)
-13. [The Church](#the-church)
-    - [The Universal and Local Church](#the-universal-and-local-church)
-    - [The Purpose of the Church](#the-purpose-of-the-church)
-    - [The Functions of the Church](#the-functions-of-the-church)
-    - [The Future of the Church](#the-future-of-the-church)
-14. [Heaven and Hell](#heaven-and-hell)
-    - [Heaven](#heaven)
-    - [Hell](#hell)
-    - [The Lake of Fire](#the-lake-of-fire)
-15. [The Resurrection](#the-resurrection)
-    - [Phases of the Resurrection](#phases-of-the-resurrection)
-16. [Judgements](#judgements)
-    - [Judgement for Believers](#judgement-for-believers)
-    - [Judgement for Unbelievers](#judgement-for-unbelievers)
-    - [Judgement for Angels](#judgement-for-angels)
-    - [The Nature of God’s Judgement](#the-nature-of-gods-judgement)
-    - [The Final Judgement and Eternal Destinies](#the-final-judgement-and-eternal-destinies)
-17. [The Second Coming of the Messiah](#the-second-coming-of-the-messiah)
-18. [Eternity](#eternity)
-    - [Eternal Life with God](#eternal-life-with-god)
-    - [Eternal Separation from God](#eternal-separation-from-god)
+- [Table of Contents](#table-of-contents)
+- [The Message of the Bible](#the-message-of-the-bible)
+- [The Glory of God, Man’s Purpose, and Divine Providence](#the-glory-of-god-mans-purpose-and-divine-providence)
+  - [(Chiastic Structure)](#chiastic-structure)
+- [The Bible](#the-bible)
+- [The Nature of God](#the-nature-of-god)
+  - [Attributes of God](#attributes-of-god)
+  - [The Trinity](#the-trinity)
+- [The Nature of God: God the Father](#the-nature-of-god-god-the-father)
+- [The Nature of God: God the Son](#the-nature-of-god-god-the-son)
+  - [Key Roles and Attributes of God the Son](#key-roles-and-attributes-of-god-the-son)
+- [The Nature of God: God the Holy Spirit](#the-nature-of-god-god-the-holy-spirit)
+  - [Key Roles and Attributes of God the Holy Spirit](#key-roles-and-attributes-of-god-the-holy-spirit)
+  - [The Decrees of God](#the-decrees-of-god)
+- [About Angels](#about-angels)
+  - [Roles and Classes of Angels](#roles-and-classes-of-angels)
+  - [Destiny of Angels](#destiny-of-angels)
+- [About Satan](#about-satan)
+- [The Nature of Man](#the-nature-of-man)
+- [About Sin](#about-sin)
+  - [Clarification on Total Depravity](#clarification-on-total-depravity)
+- [Salvation](#salvation)
+  - [(Soteriology)](#soteriology)
+  - [The Basis of Salvation](#the-basis-of-salvation)
+  - [The Process of Salvation](#the-process-of-salvation)
+  - [Why Repentance is Essential](#why-repentance-is-essential)
+  - [The Result of Salvation](#the-result-of-salvation)
+- [The Church](#the-church)
+  - [The Universal and Local Church](#the-universal-and-local-church)
+  - [The Purpose of the Church](#the-purpose-of-the-church)
+  - [The Functions of the Church](#the-functions-of-the-church)
+  - [The Future of the Church](#the-future-of-the-church)
+- [Heaven and Hell](#heaven-and-hell)
+  - [Heaven](#heaven)
+  - [Hell](#hell)
+  - [The Lake of Fire](#the-lake-of-fire)
+  - [(Gehenna)](#gehenna)
+- [The Resurrection](#the-resurrection)
+  - [Phases of the Resurrection](#phases-of-the-resurrection)
+  - [Significance of the Resurrection](#significance-of-the-resurrection)
+- [Judgements](#judgements)
+  - [Judgement for Believers](#judgement-for-believers)
+  - [The Bema Seat of Christ](#the-bema-seat-of-christ)
+  - [Judgement for Unbelievers](#judgement-for-unbelievers)
+  - [The Great White Throne](#the-great-white-throne)
+  - [The Judgement of Angels](#the-judgement-of-angels)
+  - [The Nature of God’s Judgement](#the-nature-of-gods-judgement)
+  - [The Final Judgement and Eternal Destinies](#the-final-judgement-and-eternal-destinies)
+- [The Second Coming of the Messiah](#the-second-coming-of-the-messiah)
+- [Eternity](#eternity)
+  - [Eternal Life with God](#eternal-life-with-god)
+  - [Eternal Separation from God](#eternal-separation-from-god)
 
 ---
 
 ## The Message of the Bible
 
-The central message of the Bible is the revelation of God’s Kingdom, the redemption of His people, and the glory of God—all accomplished through the person and work of Jesus Christ. From Genesis to Revelation, the Bible testifies to Jesus as the principal actor in God’s redemptive plan, the sovereign King who reigns over His Kingdom, and the Redeemer who secures salvation for His people.
+[↑ Table of Contents](#table-of-contents)
+
+**Revelation 1:1** *"The Revelation of Jesus Christ"*  
+From Genesis to Revelation, the Bible testifies to Jesus as the principal actor in God’s redemptive plan, the sovereign King who reigns over His Kingdom, and the Redeemer who secures salvation for His people.
 
 The Old Testament anticipates and points to Jesus Christ, declaring God’s promises of redemption and His plan to establish a Kingdom where righteousness dwells. *"I will raise up for David a righteous Branch; and He will reign as king and act wisely and do justice and righteousness in the land."* **(Jeremiah 23:5)**. The sacrificial system, the covenants, and the prophecies all find their fulfillment in Christ, who is the Lamb of God, the promised Messiah, and the eternal King.
 
@@ -73,9 +83,11 @@ The Bible culminates in the glorious rule of Christ over all creation. In the fi
 
 The entirety of Scripture declares that the person and work of Jesus Christ is the central theme. He is the promised King, the Redeemer of God’s people, and the One through whom God’s glory is displayed. The Bible’s narrative demonstrates that all things exist for the glory of God, as Paul proclaims: *"For from Him and through Him and to Him are all things. To Him be the glory forever."* **(Romans 11:36)**.
 
-
 ## The Glory of God, Man’s Purpose, and Divine Providence
-**(Chiastic Structure)**
+
+[↑ Table of Contents](#table-of-contents)
+
+### (Chiastic Structure)
 
 **A. The Glory of God and the Ultimate Purpose of Man**  
 I believe that the chief end of man is to glorify God and to enjoy Him forever, finding our ultimate satisfaction in Him. *"Bring My sons from afar and My daughters from the ends of the earth, everyone who is called by My name, and whom I have created for My glory."* **(Isaiah 43:6-7)**
@@ -95,6 +107,9 @@ In all aspects of life, we are called to glorify God, giving thanks for His good
 ---
 
 ## The Bible
+
+[↑ Table of Contents](#table-of-contents)
+
 I believe that the Bible is God’s written revelation to humanity, consisting of the sixty-six books of the Old and New Testaments. It is *"inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; so that the man of God may be adequate, equipped for every good work"* **(2 Timothy 3:16-17)**. These Scriptures, being *"spoken from God as men were moved by the Holy Spirit"* **(2 Peter 1:21)**, are inerrant, infallible, and immutable in their original form, serving as the perfect and authoritative guide for faith and practice.
 
 God's Word endures forever, for *"until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished"* **(Matthew 5:18)**. It is "truth," as Jesus prayed, *"Sanctify them in the truth; Your word is truth"* **(John 17:17)**. The Bible is to be interpreted literally and contextually, recognizing its historical and grammatical context, such as *"God saw all that He had made, and behold, it was very good. And there was evening and there was morning, the sixth day"* **(Genesis 1:31)**.
@@ -104,6 +119,9 @@ While there is but one true interpretation of each passage, there are many appli
 ---
 
 ## The Nature of God
+
+[↑ Table of Contents](#table-of-contents)
+
 I believe that God is eternal, infinite, and unchanging, existing as one essence in three distinct persons: Father, Son, and Holy Spirit. *"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God"* **(Psalm 90:2)**. He is omnipotent, omnipresent, and omniscient, possessing all power and knowledge, and *"His sovereignty rules over all"* **(Psalm 103:19)**. God is perfectly holy and just, *"Holy, holy, holy, is the Lord of hosts, the whole earth is full of His glory"* **(Isaiah 6:3)**, and His judgments are always righteous.
 
 God is also good, the source of all that is good, as it is written, *"Taste and see that the Lord is good; How blessed is the man who takes refuge in Him!"* **(Psalm 34:8)**. He is self-existent, declaring, *"I AM WHO I AM"* **(Exodus 3:14)**, having no beginning or end, and *"His throne is established in the heavens"* **(Psalm 103:19)**.
@@ -111,6 +129,7 @@ God is also good, the source of all that is good, as it is written, *"Taste and 
 ---
 
 ### Attributes of God
+
 **Eternal**: God exists outside of time, without beginning or end.  
 *"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God."* **(Psalm 90:2)**
 
@@ -156,6 +175,9 @@ Each person of the Trinity is holy. The Father’s holiness is manifested in His
 ---
 
 ## The Nature of God: God the Father
+
+[↑ Table of Contents](#table-of-contents)
+
 God the Father, the first person of the Trinity, is the sovereign Creator of all things. *"For us there is but one God, the Father, from whom are all things and we exist for Him."* **(1 Corinthians 8:6)**. He ordains all things according to His will and purpose, exercising authority over all creation, providence, and redemption. His fatherhood is twofold: He is the Creator and Father of all humanity, **"one God and Father of all who is over all and through all and in all."** **(Ephesians 4:6)**, but He is the spiritual Father only to those who are in Christ, having adopted them into His family through faith, *"For all who are being led by the Spirit of God, these are sons of God."* **(Romans 8:14)**.
 
 God the Father has decreed all things for His glory and continually upholds and governs all creatures and events, *"Yours, O Lord, is the greatness and the power… indeed everything that is in the heavens and the earth."* **(1 Chronicles 29:11)**. In His holiness, He neither authors nor approves of sin, *"Your eyes are too pure to approve evil."* **(Habakkuk 1:13)**, and He preserves the moral accountability of His creation. From eternity past, He graciously chose those whom He would adopt as His children, *"to the praise of the glory of His grace."* **(Ephesians 1:6)**, blessing them with every spiritual blessing in Christ, *"just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him."* **(Ephesians 1:4)**.
@@ -163,13 +185,17 @@ God the Father has decreed all things for His glory and continually upholds and 
 ---
 
 ## The Nature of God: God the Son
+
+[↑ Table of Contents](#table-of-contents)
+
 I believe that Jesus Christ, the second person of the Trinity, is fully God and fully man, possessing two distinct natures in one person. He is the eternal Son of God, *"In the beginning was the Word, and the Word was with God, and the Word was God"* **(John 1:1)**. *Through Him, all things were created, and He is the radiance of God’s glory, "upholding all things by the word of His power"* **(Hebrews 1:3)**.
 
 Jesus was born of a virgin (Matthew 1:23), lived a sinless life, and fulfilled the Law perfectly. He willingly went to the cross, *"bearing our sins in His body on the tree"* **(1 Peter 2:24)**, and died as a substitutionary atonement for humanity’s sins. He rose bodily from the dead on the third day, *"according to the Scriptures"* **(1 Corinthians 15:3-4)**, *conquering sin and death, and ascended into heaven, where He is seated at the right hand of the Father* **(Hebrews 1:3)**.
 
 Christ will return to judge the living and the dead, establishing His eternal kingdom, *"for He must reign until He has put all His enemies under His feet"* **(1 Corinthians 15:25)**.
 
-### Key Roles and Attributes of God the Son:
+### Key Roles and Attributes of God the Son
+
 - **Eternal Sonship: Jesus is eternally God, distinct in person, but equal in essence with the Father.**  
 *"In the beginning was the Word, and the Word was with God, and the Word was God." (John 1:1)*
 
@@ -188,13 +214,16 @@ Christ will return to judge the living and the dead, establishing His eternal ki
 - **Exalted King: He ascended into heaven and is seated at the right hand of the Father.**  
 *"He sat down at the right hand of the Majesty on high."* **(Hebrews 1:3)**
 
-
 ## The Nature of God: God the Holy Spirit
+
+[↑ Table of Contents](#table-of-contents)
+
 I believe that the Holy Spirit, the third person of the Trinity, is fully God, co-equal with the Father and the Son. The Holy Spirit was active in creation, *"moving over the surface of the waters"* **(Genesis 1:2)**, and is now the divine agent in regeneration and sanctification. *He convicts the world of sin, righteousness, and judgment* **(John 16:8)** and indwells every believer, *sealing them for the day of redemption* **(Ephesians 1:13-14)**.
 
 The Holy Spirit empowers believers for service, imparts spiritual gifts, and produces the fruit of the Spirit in their lives. He leads and guides believers into all truth, *"for He will guide you into all the truth"* **(John 16:13)**, and illuminates the Word of God, enabling its application.
 
-### Key Roles and Attributes of God the Holy Spirit:
+### Key Roles and Attributes of God the Holy Spirit
+
 - **Divine Person: The Holy Spirit is fully God and co-equal with the Father and Son.**  
 *"Now the Lord is the Spirit, and where the Spirit of the Lord is, there is liberty."* **(2 Corinthians 3:17)**
 
@@ -229,7 +258,7 @@ I believe that the **Decrees of God** are His eternal ordinances, established in
 - **Comprehensive Determination of All Things**: God comprehends and determines all events that come to pass, working all things according to His sovereign will.  
   *"He works all things after the counsel of His will."* **(Ephesians 1:11)**.  
   *Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care. And even the very hairs of your head are all numbered* **(Matt. 10:29-30)**  
-  *"The king's heart is like channels of water in the hand of the Lord; He turns it wherever He wishes."* **(Proverbs 21:1)**.    
+  *"The king's heart is like channels of water in the hand of the Lord; He turns it wherever He wishes."* **(Proverbs 21:1)**.  
 
 - **God’s Relationship to Sin**: Although God decrees all things, He is not the author of sin and does not commit evil. God permits sin but always superintends it for His purposes, bringing about His perfect plan.  
   *"This Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men."* **(Acts 2:23)**  
@@ -244,14 +273,16 @@ I believe that the **Decrees of God** are His eternal ordinances, established in
   *'Whatever the Lord pleases, He does, in heaven and in earth, in the seas and in all deeps.'* **(Psalm 135:6)**  
   *For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.* **(Eph. 2:10)**
   *"For who can resist His will?"* **(Romans 9:19)**  
-  *"My counsel shall stand, and I will accomplish all my purpose."* **(Isaiah 46:10, ESV)**
- 
+  *"My counsel shall stand, and I will accomplish all my purpose."* **(Isaiah 46:10, ESV)**  
+
 - **Consistency with God's Holy Nature**: God's decrees are always perfectly consistent with His holy character. He remains pure and righteous in all His plans.  
   *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor."* **(Habakkuk 1:13)**  
 
 ---
 
 ## About Angels
+
+[↑ Table of Contents](#table-of-contents)
 
 I believe that angels are spiritual beings created by God to serve as His messengers and to accomplish His will. The term "angel" means "messenger," and while it may refer to other functions, it primarily describes their role in delivering God's messages or worshiping Him. *"Are they not all ministering spirits, sent out to render service for the sake of those who will inherit salvation?"* **(Hebrews 1:14)**. Angels were created at a specific time by God, before the creation of humanity, to reflect His glory. *"For by Him all things were created, both in the heavens and on earth, visible and invisible."* **(Colossians 1:16)**. They are not eternal like God but exist as immortal beings. *"For they cannot even die anymore, because they are like angels, and are sons of God, being sons of the resurrection."* **(Luke 20:36)**.
 
@@ -270,13 +301,15 @@ Angels were created in great numbers and existed before the foundation of the wo
   *Then the cherubim lifted up their wings with the wheels beside them, and the glory of the God of Israel hovered over them.* **(Eze 11:22)**
   *and above it were the cherubim of glory overshadowing the mercy seat; but of these things we cannot now speak in detail.* **(Heb 9:5)**
 
-
 ### Destiny of Angels
+
 Angels will live eternally, either in God's presence or, for the fallen angels, in the Lake of Fire. *"Depart from Me, accursed ones, into the eternal fire which has been prepared for the devil and his angels."* **(Matthew 25:41)**.
 
 ---
 
 ## About Satan
+
+[↑ Table of Contents](#table-of-contents)
 
 I believe that Satan is a real and personal being, a fallen angel who actively opposes God and His purposes. He is referred to as *"a murderer from the beginning... and the father of lies,"* **(John 8:44)**. His name, "Satan," meaning "adversary," reflects his opposition to God's work, while other titles such as "the devil" (slanderer) and "Beelzebub" (lord of the flies) emphasize his malicious nature and intent to deceive and destroy.
 
@@ -289,6 +322,8 @@ Satan’s defeat was accomplished through the death and resurrection of Christ, 
 ---
 
 ## The Nature of Man
+
+[↑ Table of Contents](#table-of-contents)
 
 I believe, according to the testimony of Scripture, that man was created in the **image of God**, endowed with knowledge, righteousness, and holiness, designed to reflect the glory of his Maker. *"Then God said, 'Let Us make man in Our image, according to Our likeness.'"* **(Genesis 1:26)**. Yet, this divine image, though glorious, was marred and corrupted by sin through the fall of Adam, *"Through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned."* **(Romans 5:12)**. Thus, man now stands as a creature fallen, estranged from the righteousness of God.
 
@@ -306,6 +341,8 @@ Thus, man, created in glory but fallen in sin, finds hope not in himself but in 
 
 ## About Sin
 
+[↑ Table of Contents](#table-of-contents)
+
 I believe that **sin** is any deviation from God’s perfect and holy law, whether in thought, word, or deed. The Scriptures affirm that sin began with the rebellion of Satan, who, filled with pride, sought to exalt himself above the Most High. *"Your heart was lifted up because of your beauty; you corrupted your wisdom by reason of your splendor."* **(Ezekiel 28:17)**. Through the disobedience of Adam, sin entered the human race and brought death to all men, as *"Through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned."* **(Romans 5:12)**. Sin separates humanity from God, corrupting the **image of God** within us and bringing both physical and spiritual death, *"For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."* **(Romans 6:23)**.
 
 The nature of sin is pervasive, rooted deeply within the heart of man, affecting every aspect of our being—mind, will, and affections. *"The heart is more deceitful than all else and is desperately sick; who can understand it?"* **(Jeremiah 17:9)**. The total depravity of humanity means that there is none righteous or capable of seeking God in his natural state, *"There is none righteous, not even one; there is none who understands, there is none who seeks for God."* **(Romans 3:10-11)**. Sin is both an inherited condition—**original sin** passed from Adam—and an active rebellion in each person's life, *"Behold, I was brought forth in iniquity, and in sin my mother conceived me."* **(Psalm 51:5)**.
@@ -321,12 +358,16 @@ For those in Christ, victory over sin is realized through the power of the Holy 
 ---
 
 ### Clarification on Total Depravity
+
 I believe that **sin** pervades every aspect of human nature—mind, will, and emotions—rendering humanity incapable of pleasing God without His grace. However, **Total Depravity** does not imply that humans are as sinful as they could possibly be; rather, it means that sin affects every part of a person’s being. *"The heart is more deceitful than all else and is desperately sick; who can understand it?"* **(Jeremiah 17:9)**. While people may perform acts that appear virtuous or good by human standards, even these are tainted by sin and fall short of God’s perfect holiness. *"For all have sinned and fall short of the glory of God."* **(Romans 3:23)**.
 
 ---
 
 ## Salvation
-**(Soteriology)**
+
+[↑ Table of Contents](#table-of-contents)
+
+### (Soteriology)
 
 I believe that **Salvation** is the sovereign work of God’s grace, bestowed not through human merit but solely by His mercy. It is a divine gift received through faith in **Jesus Christ alone**, who achieved our redemption through His perfect life, atoning death, and victorious resurrection. Scripture declares, *"For by grace you have been saved through faith; and that not of yourselves, it is the gift of God, not as a result of works, so that no one may boast."* **(Ephesians 2:8-9)**. This salvation is wrought by God and secured by Christ’s finished work, applied by the regenerating power of the Holy Spirit.
 
@@ -351,6 +392,7 @@ Salvation unfolds through a divine process orchestrated by God:
 6. **Glorification**: The final culmination where believers are made perfect and free from sin, fully conformed to Christ’s image. *"Whom He predestined, He also called; and whom He called, He also justified; and whom He justified, He also glorified."* **(Romans 8:30)**.
 
 ### Why Repentance is Essential
+
 Repentance is inseparable from faith. A true saving faith always involves repentance—a turning from sin and self toward Christ. Jesus Himself preached:
 *"The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel."* **(Mark 1:15)**
 
@@ -360,10 +402,11 @@ Repentance is not a work that earns salvation but the evidence of a heart transf
 
 Salvation results in a restored relationship with God, adoption as His children, and the promise of eternal life. Through faith, believers are united with Christ, indwelt by the Holy Spirit, and sealed for eternity. *"For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life."* **(John 3:16)**. The ultimate purpose of salvation is the glory of God alone, showcasing His grace, love, and power. *"To Him who is able to keep you from stumbling... to the only God our Savior, through Jesus Christ our Lord, be glory."* **(Jude 1:24-25)**.
 
-
 ---
 
 ## The Church
+
+[↑ Table of Contents](#table-of-contents)
 
 I believe that the **Church** is the body of Christ, a spiritual organism consisting of all believers from the day of Pentecost until the Rapture. The Church is composed of those called out by God from every nation and background, forming one unified body through the work of the Holy Spirit. *"For by one Spirit we were all baptized into one body, whether Jews or Greeks, whether slaves or free, and we were all made to drink of one Spirit."* **(1 Corinthians 12:13)**. This body is distinct from Israel, signifying a new covenant community established at Pentecost.
 
@@ -390,6 +433,8 @@ The future of the Church includes the hope of being raptured and united with Chr
 
 ## Heaven and Hell
 
+[↑ Table of Contents](#table-of-contents)
+
 I believe that **Heaven** and **Hell** are real and eternal destinations for all human beings after death. The existence of these places is clearly revealed in Scripture, and they reflect the ultimate outcomes of God's justice and grace.
 
 ### Heaven
@@ -400,14 +445,17 @@ Heaven is the eternal dwelling place of God, His elect angels, and all believers
 
 Hell is the present place of torment for the souls of the unrighteous, serving as a temporary state of suffering until the final judgment. Often referred to in Scripture as **Hades** (the Greek equivalent of **Sheol**), Hell is described as the realm of the dead, where the wicked await their ultimate fate. It is a place of conscious torment, as Jesus illustrated in the story of the rich man in Hades: *"In Hades he lifted up his eyes, being in torment."* **(Luke 16:23)**. The souls in Hell experience ongoing suffering and regret, *"There will be weeping and gnashing of teeth."* **(Matthew 13:42)**. This place is reserved for those who have turned away from God, *"The wicked will return to Sheol, even all the nations who forget God."* **(Psalm 9:17)**. Hell reflects God’s justice and the reality of separation from His presence for those who reject His salvation.
 
-### The Lake of Fire 
-**(Gehenna)**
+### The Lake of Fire
+
+### (Gehenna)
 
 The **Lake of Fire**, also known as **Gehenna**, is the final and eternal destination for the unrighteous following the final judgment. Unlike Hell (Hades), which is temporary, the Lake of Fire is a place of eternal punishment and separation from God, prepared for both fallen angels and humans who reject Christ. Scripture describes it as a place of unquenchable fire and utter darkness, *"It is better for you to enter life crippled, than, having your two hands, to go into hell, into the unquenchable fire."* **(Mark 9:43)**. This eternal separation from God is the ultimate penalty for sin, *"These will pay the penalty of eternal destruction, away from the presence of the Lord."* **(2 Thessalonians 1:9)**. At the final judgment, those not found written in the Book of Life will be cast into this Lake of Fire, *"And if anyone's name was not found written in the book of life, he was thrown into the lake of fire."* **(Revelation 20:15)**, marking an irreversible state of separation and suffering in God’s final judgment against sin.
 
 ---
 
 ## The Resurrection
+
+[↑ Table of Contents](#table-of-contents)
 
 I believe that the **Resurrection** is a multi-stage event in God's redemptive plan, ultimately bringing believers into eternal life with glorified bodies. It is central to the hope of the Christian faith and is described as taking place during what is often referred to as the **Rapture**. According to **1 Thessalonians 4:13-17**, this event encompasses the resurrection of the dead in Christ and the transformation of living believers. *"For the Lord Himself will descend from heaven with a shout, with the voice of the archangel and with the trumpet of God, and the dead in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord."* **(1 Thessalonians 4:16-17)**.
 
@@ -430,18 +478,22 @@ The resurrection fulfills the promise of eternal life and victory over death. *"
 
 ## Judgements
 
+[↑ Table of Contents](#table-of-contents)
+
 I believe that **Judgment** is an essential aspect of God's character and His ultimate plan of justice. Scripture reveals that every person will face judgment before God, who judges with perfect righteousness. *"For we will all stand before the judgment seat of God…So then each one of us will give an account of himself to God."* **(Romans 14:10,12)**. This includes both believers and unbelievers, with distinct judgments that reveal God's justice, holiness, and sovereignty.
 
 ### Judgement for Believers
-**The Bema Seat of Christ**
+
+### The Bema Seat of Christ
 
 Believers will appear before the **Bema Seat of Christ** (the Judgment Seat of Christ) to receive rewards for their faithful service.
 
 - **Purpose**: The Bema Seat is to evaluate believers' lives and reward them according to their works, *"For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them."* **(Ephesians 2:10)**.
 - **Rewards**: The rewards given at the Bema Seat reflect God’s recognition of the believer’s faithfulness, *"Each man's work will become evident; for the day will show it because it is to be revealed with fire, and the fire itself will test the quality of each man's work."* **(1 Corinthians 3:13)**. Believers are rewarded with crowns and other blessings, *"And when the Chief Shepherd appears, you will receive the unfading crown of glory."* **(1 Peter 5:4)**.
 
-### Judgement for Unbelievers: 
-**The Great White Throne**
+### Judgement for Unbelievers
+
+### The Great White Throne
 
 Unbelievers will face final judgment at the **Great White Throne**, where they will be judged for their rejection of Christ and their deeds. This judgment is one of condemnation, resulting in eternal separation from God.
 
@@ -474,6 +526,8 @@ The final judgment is the culmination of God’s redemptive plan, where all crea
 
 ## The Second Coming of the Messiah
 
+[↑ Table of Contents](#table-of-contents)
+
 I believe that the Second Coming of **Jesus Christ, the Messiah**, will occur at a time when it is not anticipated, as Scripture says, *"For you yourselves know full well that the day of the Lord will come just like a thief in the night."* **(1 Thessalonians 5:2)**. His return will be visible, physical, and triumphant, just as He ascended. *"They will see the Son of Man coming on the clouds of the sky with power and great glory."* **(Matthew 24:30)**. *"For just as the lightning comes from the east and flashes even to the west, so will the coming of the Son of Man be."* **(Matthew 24:27)**.
 
 Upon His return, Christ will bring **final judgment** to all nations, gathering them before Him as He sits on His glorious throne. *"When the Son of Man comes in His glory... He will sit on His glorious throne. All the nations will be gathered before Him; and He will separate them one from another."* **(Matthew 25:31-32)**. He will establish His eternal kingdom, fulfilling God’s plan of redemption. *"The kingdom of the world has become the kingdom of our Lord and of His Christ; and He will reign forever and ever."* **(Revelation 11:15)**.
@@ -484,11 +538,13 @@ At the culmination of this redemptive plan, Christ will defeat all evil, casting
 
 ## Eternity
 
+[↑ Table of Contents](#table-of-contents)
+
 I believe that **eternity** is the final state of existence for all souls, where time, as we know it, ceases, and each person experiences a permanent, unchanging destiny. The Scriptures reveal two eternal destinations: eternal life in the presence of God for believers and eternal separation from God for those who reject Him. *"And these will go away into eternal punishment, but the righteous into eternal life."* **(Matthew 25:46)**.
 
 ### Eternal Life with God
 
-For believers, eternity means **everlasting life in the presence of God**. This life is one of unbroken fellowship, worship, and joy, free from sin, suffering, and death. *"And I heard a loud voice from the throne, saying, 'Behold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them.'"* **(Revelation 21:3)**, and is the fulfillment of God’s promises and the ultimate hope of the Christian faith. *"And thus we shall always be with the Lord. Therefore comfort one another with these words."* **(1 Thessalonians 4:17-18)**. 
+For believers, eternity means **everlasting life in the presence of God**. This life is one of unbroken fellowship, worship, and joy, free from sin, suffering, and death. *"And I heard a loud voice from the throne, saying, 'Behold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them.'"* **(Revelation 21:3)**, and is the fulfillment of God’s promises and the ultimate hope of the Christian faith. *"And thus we shall always be with the Lord. Therefore comfort one another with these words."* **(1 Thessalonians 4:17-18)**.  
 
 - **The New Heaven and New Earth**: God will create a new heaven and a new earth, where righteousness dwells and all things are made new. *"Then I saw a new heaven and a new earth; for the first heaven and the first earth passed away."* **(Revelation 21:1)**.
 - **The Absence of Suffering**: In eternity with God, there will be no more pain, sorrow, or death. *"He will wipe away every tear from their eyes; and there will no longer be any death; there will no longer be any mourning, or crying, or pain."* **(Revelation 21:4)**.
@@ -499,5 +555,3 @@ For those who reject God, eternity means eternal separation from Him in a place 
 
 - **The Lake of Fire**: Unbelievers face eternity in the Lake of Fire, a place of punishment originally prepared for the devil and his angels. *"And if anyone's name was not found written in the book of life, he was thrown into the lake of fire."* **(Revelation 20:15)**.
 - **Eternal Conscious Punishment**: The suffering of eternal separation is continuous, and the consequences of sin remain without end. *"Where their worm does not die, and the fire is not quenched."* **(Mark 9:48)**.
-
----

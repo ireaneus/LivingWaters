@@ -1,7 +1,7 @@
 ---
-title: The Five Solas  
+title: "The Five Solas"  
 slug: five-solas  
-publishDate: 10 April 2024  
+publishDate: 10 Apr 2024  
 description: "These principles were central to the teachings of the Reformers and remain essential to many Protestant denominations today."  
 label: article  
 ---
@@ -27,12 +27,6 @@ And so the Reformers proclaimed:
 >
 > **2 Peter 1:21**  
 > *"for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God."*  
->
-> **2 Peter 3:15–16**  
-> *"…just as also our beloved brother Paul, according to the wisdom given him, wrote to you… as they do also the rest of the Scriptures, to their own destruction."*  
->
-> **1 Peter 1:23–25**  
-> *"…through the living and enduring word of God… The word of the Lord endures forever. And this is the word which was preached to you."*  
 >
 > **Isaiah 55:11**  
 > *"So will My word be which goes out of My mouth;  
@@ -123,5 +117,3 @@ And so the Reformers proclaimed:
 | Sola Gratia       | *Gratia sola*     | Eph 2:8–9; Rom 11:6                         |
 | Solus Christus    | *Christo solo*    | 1 Tim 2:5; Acts 4:12; John 14:6             |
 | Soli Deo Gloria   | *Deo gloria*      | 1 Cor 10:31; Rom 11:36; Ps 115:1            |
-
----
