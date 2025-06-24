@@ -3,7 +3,7 @@ title: The Five Solas
 slug: five-solas  
 publishDate: 10 April 2024  
 description: "These principles were central to the teachings of the Reformers and remain essential to many Protestant denominations today."  
-label: book  
+label: article  
 ---
 
 The "Five Solas" are foundational principles of the Protestant Reformation, firmly anchored in Scripture. As Paul said:
