@@ -21,13 +21,15 @@ label: book
 
 ## Pictures from the story of Ruth
 
-![Illustration of Ruth in the field](/LivingWaters/assets/blog/Ruth.jpg)
+![Illustration of Ruth in the field](/LivingWaters/assets/blog/Ruth.webp)
 
 1. A picture of God's plan to provide a monarch
 2. A picture of a coming Messiah, redeeming sinners both Jew and Gentile from the curse of Law
 3. Reveals how the Lord will bring our age to an end and fulfill all His promises to Israel and the nations of the earth
 
 ### Jesus our Kinsman Redeemer
+
+[↑ Table of Contents](#-table-of-contents)
 
 ## Scripture References
 
@@ -73,6 +75,8 @@ label: book
 ---
 
 ## 📖 Ruth Chapter 1 – Study Guide
+
+[↑ Table of Contents](#-table-of-contents)
 
 ---
 
@@ -128,6 +132,8 @@ label: book
 
 ## 🕊️ Verse 1:2
 
+[↑ Table of Contents](#-table-of-contents)
+
 > **Ruth 1:2**  
 > *"The name of the man was Elimelech, and the name of his wife, Naomi; and the names of his two sons were Mahlon and Chilion, Ephrathites of Bethlehem in Judah. Now they entered the land of Moab and remained there."*  
 > — *Ruth 1:2 NASB2020*
@@ -174,6 +180,8 @@ label: book
 
 ### 🧷 Verse 1:4
 
+[↑ Table of Contents](#-table-of-contents)
+
 > **Ruth 1:4**  
 > *"And they took Moabite women as their wives; the name of the one was Orpah, and the name of the other Ruth. And they lived there about ten years."*  
 > — *Ruth 1:4 NASB2020*
@@ -203,6 +211,8 @@ label: book
 
 ### 🧷 Verse 1:5
 
+[↑ Table of Contents](#-table-of-contents)
+
 > ***Ruth 1:5***  
 > *"Then both Mahlon and Chilion also died, and the woman was left without her two sons and her husband."*  
 > — **Ruth 1:5 NASB2020**
@@ -219,6 +229,8 @@ label: book
 ---
 
 ### 🧷 Verse 1:6
+
+[↑ Table of Contents](#-table-of-contents)
 
 > ***Ruth 1:6***  
 > *"Then she got up with her daughters-in-law to return from the land of Moab, because she had heard in the land of Moab that the Lord had visited His people by giving them food."*  
@@ -290,6 +302,8 @@ label: book
 
 ### 🧷 Verse 1:7
 
+[↑ Table of Contents](#-table-of-contents)
+
 > ***Ruth 1:7***  
 > *"So she left the place where she was, and her two daughters-in-law with her; and they started on the way to return to the land of Judah."*  
 > — **Ruth 1:7 NASB2020**
@@ -343,6 +357,8 @@ label: book
 ---
 
 ### 🧷 Verse 1:9
+
+[↑ Table of Contents](#-table-of-contents)
 
 > ***Ruth 1:9***  
 > *"May the Lord grant that you may find rest, each one in the house of her husband." Then she kissed them, and they raised their voices and wept."*  
@@ -419,6 +435,8 @@ label: book
 
 ### 🧷 Verse 1:14
 
+[↑ Table of Contents](#-table-of-contents)
+
 > ***Ruth 1:14***  
 > *"And they raised their voices and wept again; and Orpah kissed her mother-in-law, but Ruth clung to her."*  
 > — **Ruth 1:14 NASB2020**
@@ -451,6 +469,8 @@ label: book
 ---
 
 ### 🧷 Verse 1:15
+
+[↑ Table of Contents](#-table-of-contents)
 
 > ***Ruth 1:15***  
 > *"Then she said, 'Behold, your sister-in-law has gone back to her people and her gods; return after your sister-in-law.'"*  
@@ -529,6 +549,8 @@ label: book
 ---
 
 ### 🧷 Verse 19
+
+[↑ Table of Contents](#-table-of-contents)
 
 > ***Ruth 1:19***  
 > *"So they both went on until they came to Bethlehem.  
@@ -619,6 +641,8 @@ label: book
 
 ## 📖 Ruth Chapter 2 – Study Guide
 
+[↑ Table of Contents](#-table-of-contents)
+
 ### 🧷 Verse 2:1
 
 > ***Ruth 2:1***  
@@ -669,6 +693,8 @@ label: book
 ---
 
 ### 🧷 Verse 2:3
+
+[↑ Table of Contents](#-table-of-contents)
 
 > ***Ruth 2:3***  
 > *"So she left, and went and gleaned in the field after the reapers; and **she happened to come** to the portion of the field belonging to Boaz, who was of the family of Elimelech."*  
@@ -744,6 +770,8 @@ label: book
 
 ### 🧷 Verse 2:5
 
+[↑ Table of Contents](#-table-of-contents)
+
 > ***Ruth 2:5***  
 > *"Then Boaz said to his servant who was in charge of the reapers, 'Whose young woman is this?'"*  
 > — **Ruth 2:5 NASB2020**
@@ -793,6 +821,8 @@ label: book
 
 ### 🧷 Verse 9
 
+[↑ Table of Contents](#-table-of-contents)
+
 > ***Ruth 2:9***  
 > *"Have your eyes on the field which they reap, and go after them. Indeed, I have ordered the servants not to touch you.  
 > When you are thirsty, go to the water jars and drink from what the servants draw."*  
@@ -836,6 +866,8 @@ label: book
 ---
 
 ### 🧷 Verse 2:11
+
+[↑ Table of Contents](#-table-of-contents)
 
 > ***Ruth 2:11***
 > *"Boaz replied to her, 'All that you have done for your mother-in-law after the death of your husband has been fully reported to me,
@@ -904,3 +936,5 @@ label: book
 
 > *"Greetings, favored one! The Lord is with you."*
 > ➤ Ruth, like Mary, receives **unexpected favor and grace** — not based on status, but faith.
+
+[↑ Table of Contents](#-table-of-contents)

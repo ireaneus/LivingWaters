@@ -6,7 +6,7 @@ description: Irresistible or Prevenient Grace
 label: Article
 ---
 
-![Grace Banner](https://your-site.com/images/grace-banner.jpg)
+![Grace Banner](/LivingWaters/assets/blog/welcome.webp)
 
 A comparison of **Irresistible Grace** and **Prevenient Grace**—two profound theological perspectives on how God draws people to Himself.
 
@@ -21,111 +21,116 @@ A comparison of **Irresistible Grace** and **Prevenient Grace**—two profound t
 
 ## 🌿 Irresistible Grace (TULIP)
 
-> _“All that the Father gives Me will come to Me…”_ — **John 6:37**
+> _“All that the Father gives Me will come to Me, and the one who comes to Me I will certainly not cast out.”_ — **John 6:37**
 
-**Irresistible grace** is part of the Reformed doctrine known as the "Five Points of Calvinism," represented by the "I" in the TULIP acronym. It teaches that when God extends His saving grace to the elect, it results in guaranteed salvation—God’s will cannot be thwarted.
+**Irresistible Grace** is part of the Reformed doctrine known as the "Five Points of Calvinism," represented by the "I" in the TULIP acronym. It teaches that when God extends His saving grace to the elect, they will inevitably come to faith—God’s sovereign will cannot be thwarted.
 
-![Irresistible Grace Illustration](https://your-site.com/images/irresistible-grace.jpg)
+![Irresistible Grace Illustration](/LivingWaters/assets/blog/openbible-glasses.webp)
 
 ### 🔑 Key Aspects
 
 #### 1. **Effectual Calling**
 
-God’s effectual call always results in a saving response.  
-📖 _Romans 8:29-30_
-> "29 For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brothers and sisters;
->
-> 30 and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified."
+God’s call to salvation is not merely an invitation—it accomplishes what He intends.  
+📖 **Romans 8:29–30**  
+_"For those whom He foreknew, He also predestined to become conformed to the image of His Son... and these whom He predestined, He also called; and these whom He called, He also justified..."_
 
 #### 2. **Monergistic Work**
 
-Salvation is solely God's doing—not a partnership between divine initiative and human effort.
+Salvation is entirely God's work (monergism), not a cooperative effort with man.
 
 #### 3. **Transforming the Will**
 
-God replaces the heart of stone with a heart of flesh.  
-📖 _Ezekiel 36:26-27_
-> "26 Moreover, I will give you a new heart and put a new spirit within you; and I will remove the heart of stone from your flesh and give you a heart of flesh.
->
-> 27 And I will put My Spirit within you and bring it about that you walk in My statutes, and are careful and follow My ordinances."
+God regenerates the heart to respond.  
+📖 **Ezekiel 36:26–27**  
+_"I will give you a new heart and put a new spirit within you... I will put My Spirit within you and bring it about that you walk in My statutes..."_
 
 #### 4. **The Holy Spirit’s Role**
 
-The Spirit draws the elect with a power that cannot ultimately be resisted.  
-📖 _John 6:44_
-> "No one can come to Me unless the Father who sent Me draws him; and I will raise him up on the last day."
+God draws sinners powerfully and personally.  
+📖 **John 6:44**  
+_"No one can come to Me unless the Father who sent Me draws him..."_
 
 ---
 
-## 📖 Biblical Support
+## 📖 Further Biblical Support
 
-- **John 6:44** — _"No one can come to Me unless the Father who sent Me draws him..."_
-- **Acts 16:14** — _"The Lord opened her heart..."_
-- **Philippians 2:13** — _"It is God who is at work in you..."_
-- **Ezekiel 36:26-27**  
-- **Romans 8**, **Ephesians 1 & 2**
+- 📖 **Acts 16:14** — “The Lord opened her heart to respond to the things spoken by Paul.”
+- 📖 **Philippians 2:13** — “It is God who is at work in you, both to will and to work for His good pleasure.”
+- 📖 **Ephesians 1:4–5**, **Ephesians 2:4–10**
 
 ---
 
 ## 🧠 Theological Perspectives
 
-### Reformed View
+### 🔹 Reformed View
 
-God’s grace **guarantees** salvation for the elect. Human resistance may occur, but it will be overcome.
+- God’s grace is sovereign and effectual.
+- Grace regenerates, leading to repentance and faith.
+- Salvation is **guaranteed for the elect**.
 
-### Arminian View
+### 🔸 Arminian Response
 
-God’s grace is **resistible**. Salvation is possible but not assured; it respects human freedom.
+- God's grace is **resistible**.
+- While God initiates, man must respond.
+- Salvation is possible for all but not ensured for any.
 
 ---
 
 ## 🐑 Illustration
 
-Imagine a shepherd seeking his lost sheep—not calling from afar, but climbing into the thorns, lifting the lamb, and carrying it home. The sheep does not resist—it is rescued. So it is with God’s grace: **it saves effectively.**
+A shepherd finds his sheep entangled in thorns. He doesn’t merely call—it cannot come. Instead, he reaches in, untangles it, lifts it onto his shoulders, and carries it home. This is irresistible grace: it does not ask the sheep’s permission; it **saves**.
 
 ---
 
 ## 🌤️ Prevenient Grace
 
-> _"While we were still sinners, Christ died for us."_ — **Romans 5:8**
+> _"But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us."_ — **Romans 5:8**
 
-**Prevenient Grace** refers to the divine grace that comes before human decision. It prepares and enables the heart to respond freely to God’s call.
+**Prevenient Grace** is the grace that "goes before"—enabling the sinner to hear, respond, and choose, even though still dead in sin. It is a key concept in **Wesleyan-Arminian** theology.
 
-![Prevenient Grace Illustration](https://your-site.com/images/prevenient-grace.jpg)
+![Prevenient Grace Image](/LivingWaters/assets/blog/openbible-leaves.webp)
 
-### 🔑 Key Aspects for Prevenient Grace
+### 🔑 Key Aspects
 
 #### 1. **God’s Initiative**
 
-God moves first, not man.  
-📖 _John 6:44_, _Philippians 2:13_
+God acts first to initiate a response.  
+📖 **John 6:44**, **Philippians 2:13**
 
-#### 2. **Enabling Grace**
+#### 2. **Enabling the Dead**
 
-Though spiritually dead, the sinner is enabled to respond.  
-📖 _Ephesians 2:4-5_, _Romans 2:4_
+While man is spiritually dead, prevenient grace awakens a capacity to respond.  
+📖 **Ephesians 2:4–5**  
+_"God... made us alive with Christ even when we were dead in our transgressions..."_
 
-#### 3. **Universal Offer**
+#### 3. **Universal Extension**
 
-This grace is extended to all.  
-📖 _Titus 2:11_, _John 12:32_
+This grace is given to all humanity.  
+📖 **Titus 2:11**  
+_"For the grace of God has appeared, bringing salvation to all people..."_  
+📖 **John 12:32**  
+_"And I, if I am lifted up from the earth, will draw all people to Myself."_
 
-#### 4. **Conviction of Sin**
+#### 4. **Conviction and Illumination**
 
-The Holy Spirit convicts and draws.  
-📖 _John 16:8_
+The Spirit convicts and invites, not compels.  
+📖 **John 16:8**  
+_"And He, when He comes, will convict the world regarding sin, and righteousness, and judgment..."_
 
 ---
 
 ## ✍️ Summary
 
-**Prevenient Grace** is God's **initial spark** —a universal grace that awakens the heart, convicts the soul, and gives the sinner the **freedom to choose** salvation. It is _not irresistible_, but it is always divine in origin.
+**Irresistible Grace** assures that God’s chosen people will believe because of His sovereign intervention.  
+**Prevenient Grace** affirms that God enables **everyone** to believe, but they must choose to respond.
 
-📖 _Ephesians 2:8-9_ — _"For by grace you have been saved through faith..."_
-
----
-
-> 🧭 **Two Views, One Purpose:**  
-> Both doctrines affirm that **salvation begins with God**, not man. Whether one believes grace is **irresistible** or **prevenient**, the result is the same: **God gets all the glory.**
+> _“For by grace you have been saved through faith; and that not of yourselves, it is the gift of God...”_ — **Ephesians 2:8–9**
 
 ---
+
+> 🧭 **Two Views, One God**  
+> Both views affirm: Salvation begins with God.  
+> Reformed theology sees God’s grace as **unstoppable**;  
+> Arminian theology sees it as **indispensable yet resistible**.  
+> **In both cases, it is God who saves—and to Him belongs all glory.**

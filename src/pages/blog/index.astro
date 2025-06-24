@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
-const title = 'Blog';
+const title = 'Living Waters Articles, Devotionals, and Notes';
 const description = 'Latest articles.';
 const permalink = `${Astro.site.href}blog`;
 
@@ -10,10 +10,10 @@ let allPosts = await getCollection('posts')
 allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf());
 ---
 
-<BaseLayout title={title} description={description} permalink={permalink} current="blog">
+<BaseLayout title={title} description={description} permalink={permalink} current="articles">
   {/* Blog main container */}
   <div class="container">
-    <h1>Blog</h1>
+    <h1>Living Waters Articles</h1>
     {/* Blog post grid */}
     <div class="post-grid">
       {allPosts.map((post) => {
@@ -56,7 +56,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
 
   h1 {
     font-family: var(--font-family-serif);
-    font-weight: 700;
+    font-weight: 300;
     margin-bottom: 1em;
     text-align: center;
     color: var(--text-main);

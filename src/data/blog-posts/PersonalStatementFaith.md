@@ -8,6 +8,8 @@ label: article
 
 ## Table of Contents
 
+![Illustration of Open Bible with leaves](/LivingWaters/assets/blog/openbible-leaves.webp)
+
 - [Table of Contents](#table-of-contents)
 - [The Message of the Bible](#the-message-of-the-bible)
 - [The Glory of God, Man’s Purpose, and Divine Providence](#the-glory-of-god-mans-purpose-and-divine-providence)
@@ -359,7 +361,15 @@ For those in Christ, victory over sin is realized through the power of the Holy 
 
 ### Clarification on Total Depravity
 
-I believe that **sin** pervades every aspect of human nature—mind, will, and emotions—rendering humanity incapable of pleasing God without His grace. However, **Total Depravity** does not imply that humans are as sinful as they could possibly be; rather, it means that sin affects every part of a person’s being. *"The heart is more deceitful than all else and is desperately sick; who can understand it?"* **(Jeremiah 17:9)**. While people may perform acts that appear virtuous or good by human standards, even these are tainted by sin and fall short of God’s perfect holiness. *"For all have sinned and fall short of the glory of God."* **(Romans 3:23)**.
+Total depravity does not mean that all people are as evil as they could possibly be. Rather, it affirms that every part of the human being—mind, will, emotions, and body—has been corrupted by sin, rendering us incapable of seeking or pleasing God apart from His grace. As it is written, *"There is none righteous, not even one; there is none who understands, there is none who seeks for God."* **(Romans 3:10–11)**.
+
+Though mankind is utterly dependent on divine grace, God, in His common grace, restrains evil and upholds moral order even among unbelievers. Scripture gives us glimpses of this in His providential actions. In **Genesis 20**, God tells Abimelech, *“I also kept you from sinning against Me; therefore I did not let you touch her.”* **(Genesis 20:6)**, demonstrating that God actively intervenes to prevent sin even in pagan rulers.
+
+Moreover, Paul teaches in **Romans 1** that all people possess an innate awareness of God’s existence and moral truth: *“That which is known about God is evident within them; for God made it evident to them.”* **(Romans 1:19)**. The conscience serves as a witness—either accusing or defending them—as seen in **Romans 2:14–15**: *“They show the work of the Law written in their hearts, their conscience bearing witness…”* This confirms that while the heart is desperately wicked (**Jeremiah 17:9**), the remnants of God's image and moral awareness remain.
+
+Yet despite this internal witness and God's external restraint, unregenerate humanity still chooses rebellion against God. *“For even though they knew God, they did not honor Him as God or give thanks.”* **(Romans 1:21)**. Only by sovereign grace can this condition be overcome.
+
+Thus, total depravity highlights our absolute need for regeneration, the Spirit's awakening power, and the sovereign initiative of God in salvation. *“No one can come to Me unless the Father who sent Me draws him.”* **(John 6:44)**.
 
 ---
 

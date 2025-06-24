@@ -132,6 +132,14 @@ img {
   height: auto;
 }
 
+.content img,
+.markdown-body img,
+article img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 hr {
   padding: 0;
   border: 0;
@@ -297,7 +305,7 @@ a.anchor:hover {
 }
 
 em, i {
-  color: #d30303;
+  color: #ec1212;
 }
 
 @media (max-width: 1020px) {
