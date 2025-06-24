@@ -93,7 +93,7 @@ Imagine a shepherd seeking his lost sheep—not calling from afar, but climbing 
 
 ![Prevenient Grace Illustration](https://your-site.com/images/prevenient-grace.jpg)
 
-### 🔑 Key Aspects
+### 🔑 Key Aspects for Prevenient Grace
 
 #### 1. **God’s Initiative**
 

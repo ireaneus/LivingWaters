@@ -629,7 +629,7 @@ label: book
 >
 > - *"a relative"* — Hebrew: could also mean **“a kinsman”** or **“an acquaintance”**  
 > - *"a man of great wealth"* — Hebrew: **“a mighty man of valor”**, sometimes implying strength, influence, or noble character  
-> - *"Elimelech"* — first introduced in [Ruth 1:2](#-verse-112) * as Naomi’s husband
+> - *"Elimelech"* — first introduced in Ruth 1:2* as Naomi’s husband
 
 ---
 
