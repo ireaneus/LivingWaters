@@ -201,7 +201,7 @@ figure {
 table {
   border-collapse: collapse;
   font-family: var(--font-family-sans);
-  font-size: 1.125em;
+  font-weight: normal;
   margin: 2em 0;
 }
 
