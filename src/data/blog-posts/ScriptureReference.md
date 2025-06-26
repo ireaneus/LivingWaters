@@ -56,6 +56,8 @@ label: note
 
 ---
 
+[↑ Table of Contents](#-table-of-contents)
+
 ## 🔄 Conformed to His Image
 
 ### 2 Corinthians 3:18
@@ -117,6 +119,8 @@ These verses reinforce the biblical truth that Jesus is not just our Savior, but
 
 ---
 
+[↑ Table of Contents](#-table-of-contents)
+
 ## 🔥 Spirit-Filled, Living by Faith
 
 ### Psalm 33:20-22
@@ -168,6 +172,8 @@ Similar to Psalm 33:22, this passage connects waiting with receiving God’s goo
 
 ---
 
+[↑ Table of Contents](#-table-of-contents)
+
 ## 3️⃣ Rejoicing in God Because of Trust
 
 ### Philippians 4:4-7
@@ -212,3 +218,5 @@ Psalm 46:10 calls believers to **be still and recognize God’s sovereignty.** P
 ## 📜 Final Reflection
 
 Psalm 33:20-22 is a powerful reminder that waiting on the Lord is **not passive**—it is an active trust in God’s sovereignty, leading to joy, protection, and His favor. Other passages throughout Scripture confirm this, showing that **trust, patience, and faith bring strength and blessing.**
+
+[↑ Table of Contents](#-table-of-contents)
