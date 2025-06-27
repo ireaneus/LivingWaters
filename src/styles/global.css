@@ -3,7 +3,7 @@
   --text-main: #36393b;
   --text-secondary: #6b6f72;
   --primary-color: #548e9b;
-  --font-family-serif: Merriweather, serif;
+  --font-family-serif: 'EB Garamond', serif;
   --font-family-sans: 'Fira Sans', sans-serif;
 }
 
@@ -54,7 +54,7 @@ h6 {
 
 h1 {
   font-family: var(--font-family-serif);
-  font-size: 4em;
+  font-size: 3em;
   margin: 0 0 1em 0;
 }
 
@@ -83,8 +83,17 @@ p,
 ul,
 ol {
   font-size: 1.3rem;
-  line-height: 1.75em;
+  line-height: 1.15em;
   margin: 1.2em 0;
+}
+
+.markdown-body,
+.markdown-body p,
+.markdown-body ul,
+.markdown-body ol {
+  font-family: var(--font-family-sans) !important;
+  font-size: 1.3rem !important;
+  line-height: 2em !important;
 }
 
 ol,
@@ -176,6 +185,7 @@ blockquote {
   margin: 2rem 0;
   padding-left: 2rem;
   padding-right: 2rem;
+  line-height: 1.15em;
 }
 
 blockquote p {
@@ -274,6 +284,7 @@ input[name='theme-toggle'] {
   list-style: none;
   padding-left: 0;
   margin: 1em 0;
+  line-height: 1.15 !important;
 }
 .markdown-toc li {
   margin: 0.2em 0;
@@ -306,6 +317,21 @@ a.anchor:hover {
 
 em, i {
   color: #ec1212;
+}
+
+#logo-img {
+  display: block;
+  margin: 0 auto 1em auto;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 18px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+#about-me {
+  font-family: var(--font-family-sans);
+  line-height: 1.6;
 }
 
 @media (max-width: 1020px) {

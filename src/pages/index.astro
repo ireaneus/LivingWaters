@@ -12,7 +12,7 @@ const permalink = Astro.site.href;
     <div class="home-copy">
       {/* Site title and tagline */}
       <h1>Living Waters Ministry</h1>
-      <img src={`${BASE}assets/brokencisterns.png`} alt="Living Waters Logo" style="display: block; margin: 0 auto 1em auto; width: 100%; max-width: 400px; height: auto; border-radius: 18px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+      <img id="logo-img" src={`${BASE}assets/brokencisterns.png`} alt="Living Waters Logo" />
       {/* Mission statement section */}
       <div class="mission-statement">
         <p>“For My people have committed two evils: They have abandoned Me, The fountain of living waters, To carve out for themselves cisterns, Broken cisterns That do not hold water.”</p>
@@ -200,5 +200,15 @@ const permalink = Astro.site.href;
       font-size: 1.2rem;
       margin: 1em 0;
     }
+  }
+
+  #logo-img {
+    display: block;
+    margin: 0 auto 1em auto;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   }
 </style>
