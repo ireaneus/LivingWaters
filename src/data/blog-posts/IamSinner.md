@@ -5,16 +5,35 @@ publishDate: 30 Nov 2024
 description: I am a sinner and in need of a savior
 label: article
 ---
-![Illustration of lillies of the valley](/LivingWaters/assets/blog/welcome.webp)
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [General notes](#general-notes)
+  - [Scripture references](#scripture-references)
 - [What do you do?](#what-do-you-do)
+  - [The Gospel](#the-gospel)
 - [A Gospel Conversation](#a-gospel-conversation)
+  - [Opening Questions: The Reality of God’s Revelation](#opening-questions-the-reality-of-gods-revelation)
+  - [The Universal Problem: Our Sin](#the-universal-problem-our-sin)
+  - [The Solution: Jesus Christ](#the-solution-jesus-christ)
+  - [The Call: Repentance and Faith](#the-call-repentance-and-faith)
+  - [Closing Thought](#closing-thought)
 - [Sinners Saved by Grace](#sinners-saved-by-grace)
+  - [Scripture Reading and Message](#scripture-reading-and-message)
+  - [Let the Story Sink In](#let-the-story-sink-in)
+- [The Weight of Sin: Guilt, Shame, and Nakedness](#the-weight-of-sin-guilt-shame-and-nakedness)
+- [God’s Gentle Mercy](#gods-gentle-mercy)
+- [God’s Pursuit and Redemption Through Christ](#gods-pursuit-and-redemption-through-christ)
+- [Christ Alone, Our Hope and Salvation](#christ-alone-our-hope-and-salvation)
+
+---
+
+![Illustration of lillies of the valley](/LivingWaters/assets/blog/welcome.webp)
 
 ## General notes
+
+[↑ Table of Contents](#table-of-contents)
 
 - I am and you are sinners, we sin because we are sinners.  A lion kills its prey, because he is a lion, it is his nature.
 - How do we want to meet God, do we believe He is our own maker?
@@ -32,18 +51,21 @@ label: article
 - Genesis 3:8 God showing mercy and love, or instant judgement
 - Psalms 51 you only have I sinned
 
+---
+
 ## What do you do?
 
 [↑ Table of Contents](#table-of-contents)
 
 **Me:** *I am a full-time RV Missionary.*  
 **Person:** *What does that mean?*  
-**Me:** *I live in an RV and travel around and try to share the gospel and pray with people wherever I go*
+**Me:** *I live in an RV and travel around and try to share the gospel and pray with people wherever I go*  
 **Person:** *What does the gospel mean?*
 
 ### The Gospel
 
 *The Gospel is the incredible news that even though we are all sinners and separated from God, He made a way for us to be forgiven and restored to Him. God sent His Son, Jesus Christ, to live a perfect life that we could never live, to die the death that we deserve because of our sin, and then to rise from the dead, defeating sin and death. By trusting in Jesus and what He did for us, we can be forgiven, have a relationship with God, and receive the promise of eternal life. It’s not something we earn; it’s a gift of grace from God.*
+
 Here’s how a Gospel-sharing conversation might look if it were shaped by the approach of Reformers and influential theologians like Spurgeon, Calvin, Luther, Sproul, and John MacArthur, with a focus on the evidences of conscience and creation:
 
 ---
@@ -57,37 +79,33 @@ Here’s how a Gospel-sharing conversation might look if it were shaped by the a
 1. **Have you ever looked at the world around you—the vastness of the universe, the complexity of nature—and wondered if there is a Creator?**  
    - *Romans 1:20* tells us, “For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made.”  
    - *Charles Spurgeon* would say, “The stars and the heavens preach a silent but loud sermon, declaring God’s glory. Can you look at them and deny His handiwork?”
-
 2. **Do you ever feel that sense of right and wrong deep within you? Where do you think that comes from?**  
    - God has given each of us a conscience, an inner voice that testifies to His moral law. *Romans 2:15* says that the work of the law is written on our hearts.  
    - *R.C. Sproul* emphasized that even those who deny God cannot escape the moral law written on their consciences. He would ask, “Why do we instinctively know that things like murder or lying are wrong, even if we try to suppress it?”
 
 ### The Universal Problem: Our Sin
 
-3. **Have you ever done something you knew was wrong, even when no one was watching? How did it make you feel?**  
+1. **Have you ever done something you knew was wrong, even when no one was watching? How did it make you feel?**  
    - *Martin Luther* spoke of sin as a disease in the human heart. It’s not just that we sin; we sin because we are sinners by nature.  
    - *John MacArthur* would point out that our conscience accuses us because we are guilty before a holy God, and we know it deep down.
-
-4. **If God is the Creator and Judge of the world, what do you think He sees when He looks at us?**  
+2. **If God is the Creator and Judge of the world, what do you think He sees when He looks at us?**  
    - God’s standard is perfect holiness. *John Calvin* said, “Our hearts are idol factories,” constantly turning away from God. Our sin separates us from Him.  
    - We are not only sinners by our actions but by our very nature. We are in desperate need of God’s mercy.
 
 ### The Solution: Jesus Christ
 
-5. **Have you ever wondered why Jesus Christ is so central to the Christian faith? Why not just follow good moral teachings?**  
+1. **Have you ever wondered why Jesus Christ is so central to the Christian faith? Why not just follow good moral teachings?**  
    - Jesus didn’t come to show us how to live a better life; He came to rescue us. As *R.C. Sproul* put it, “We are not just in trouble; we are spiritually dead, and only Jesus can give us life.”  
    - *Spurgeon* would say, “It’s not your works, your prayers, or your tears that save you. It is Christ alone, dying in your place.”
-
-6. **If you were to stand before God and He asked you, ‘Why should I let you into My heaven?’ what would you say?**  
+2. **If you were to stand before God and He asked you, ‘Why should I let you into My heaven?’ what would you say?**  
    - *Luther* would remind you that no human effort or good works can earn salvation. It is *by grace alone, through faith alone, in Christ alone*.  
    - *John MacArthur* emphasizes the Gospel’s power: “Christ’s death paid the penalty for our sins, and His resurrection proves that the debt was paid in full.”
 
 ### The Call: Repentance and Faith
 
-7. **Would you be willing to acknowledge your sin before God and trust in Jesus Christ for forgiveness?**  
+1. **Would you be willing to acknowledge your sin before God and trust in Jesus Christ for forgiveness?**  
    - The Reformers believed in the necessity of repentance—a turning away from sin—and faith in Christ. *Calvin* said that faith is a gift from God, and *Spurgeon* often invited people with urgency: “Come to Christ as you are. He will make you clean.”
-
-8. **What’s stopping you from surrendering your life to Him today?**  
+2. **What’s stopping you from surrendering your life to Him today?**  
    - *Luther* called the Gospel “good news” because it is an offer of grace, not a demand for perfection. God offers forgiveness freely through Jesus.
 
 ### Closing Thought
@@ -135,7 +153,9 @@ Similarly, **Psalm 51:4 (NASB1995)** captures David’s deep anguish over his si
 *"Against You, You only, I have sinned and done what is evil in Your sight, so that You are justified when You speak and blameless when You judge."*  
 David’s heartfelt confession reflects the gravity of disobedience to God. It is the same sense of guilt and shame that Adam and Eve experienced, standing exposed before a holy and righteous God.
 
-### The Weight of Sin: Guilt, Shame, and Nakedness
+---
+
+## The Weight of Sin: Guilt, Shame, and Nakedness
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -150,7 +170,11 @@ Adam and Eve’s realization of their nakedness symbolizes the crushing weight o
 - **Psalm 38:4 (NASB1995)**: *“For my iniquities are gone over my head; as a heavy burden they weigh too much for me.”*  
   The psalmist vividly describes the crushing weight of sin, echoing the burden Adam and Eve must have felt.
 
-### God’s Gentle Mercy
+---
+
+## God’s Gentle Mercy
+
+[↑ Table of Contents](#table-of-contents)
 
 Despite the enormity of Adam and Eve’s sin, God approached them gently. His presence in the garden wasn’t with a thunderous declaration of judgment but rather a gentle announcement, like the soft whisper Elijah experienced on Mount Horeb.
 
@@ -160,7 +184,11 @@ Despite the enormity of Adam and Eve’s sin, God approached them gently. His pr
 - **Psalm 103:8 (NASB1995)**: *“The Lord is compassionate and gracious, slow to anger and abounding in lovingkindness.”*  
   This verse reminds us that God’s response to sin is often marked by compassion and mercy.
 
-### God’s Pursuit and Redemption Through Christ
+---
+
+## God’s Pursuit and Redemption Through Christ
+
+[↑ Table of Contents](#table-of-contents)
 
 God’s question, “Where are you?” reveals His heart for redemption. Even as Adam and Eve hid, God pursued them, foreshadowing His ultimate plan to redeem and restore humanity through Jesus Christ.
 
@@ -173,10 +201,12 @@ God’s question, “Where are you?” reveals His heart for redemption. Even as
 - **Ephesians 2:4-5 (NASB1995)**: *“But God, being rich in mercy, because of His great love with which He loved us, even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved).”*  
   This underscores God’s loving pursuit and His power to make us alive in Christ, despite our spiritual deadness.
 
-### Christ Alone, Our Hope and Salvation
+---
+
+## Christ Alone, Our Hope and Salvation
+
+[↑ Table of Contents](#table-of-contents)
 
 Finally, as *Romans 8:1 (NASB1995)* declares:  
 *“Therefore there is now no condemnation for those who are in Christ Jesus.”*  
 Jesus bore the full weight of our sin and shame on the cross, satisfying God’s righteous wrath. His resurrection assures us that, in Him, we are justified and redeemed.
-
-[↑ Table of Contents](#table-of-contents)

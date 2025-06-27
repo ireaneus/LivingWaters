@@ -6,13 +6,28 @@ description: 2 Corinthians 5:10 study guide about the Bema Seat of Christ
 label: note
 ---
 
+## Table of Contents
+
+- [The Judgment Seat of Christ](#the-judgment-seat-of-christ)
+- [Q1. What is the Bema, or Judgment Seat?](#q1-what-is-the-bema-or-judgment-seat)
+- [Q2. What is NOT the Bema Seat?](#q2-what-is-not-the-bema-seat)
+- [Q3. What is the purpose of the Bema Seat?](#q3-what-is-the-purpose-of-the-bema-seat)
+- [Q4. How do works relate to the Bema Seat judgment?](#q4-how-do-works-relate-to-the-bema-seat-judgment)
+- [Q5. How should this truth impact our daily lives?](#q5-how-should-this-truth-impact-our-daily-lives)
+- [Final Reminder](#final-reminder)
+- [Optional Additions (if you want to expand)](#optional-additions-if-you-want-to-expand)
+
 ## The Judgment Seat of Christ
+
+[↑ Table of Contents](#table-of-contents)
 
 Last week's sermon focused on 2 Corinthians 5:10 and the theme of being **overcomers**. This verse also introduces a significant future event in the Christian’s eternal journey: the **Bema Seat**, or **Judgment Seat of Christ**.
 
 ---
 
 ## Q1. What is the Bema, or Judgment Seat?
+
+[↑ Table of Contents](#table-of-contents)
 
 The Greek word *Bēma* (βῆμα) referred to a raised platform used by officials to pronounce verdicts or distribute rewards — often used in athletic and judicial settings.
 
@@ -31,7 +46,9 @@ The Greek word *Bēma* (βῆμα) referred to a raised platform used by officia
 
 ---
 
-## Q2. What is **NOT** the Bema Seat?
+## Q2. What is NOT the Bema Seat?
+
+[↑ Table of Contents](#table-of-contents)
 
 The Bema Seat is **not** a judgment for sin.
 
@@ -44,7 +61,9 @@ The Bema Seat is **not** a judgment for sin.
 
 ---
 
-## Q3. What is the **purpose** of the Bema Seat?
+## Q3. What is the purpose of the Bema Seat?
+
+[↑ Table of Contents](#table-of-contents)
 
 ### Key Scriptures
 
@@ -55,7 +74,9 @@ The Bema Seat is **not** a judgment for sin.
 
 ---
 
-## Q4. How do **works** relate to the Bema Seat judgment?
+## Q4. How do works relate to the Bema Seat judgment?
+
+[↑ Table of Contents](#table-of-contents)
 
 Salvation is by grace, not by works. However, **works reveal** the fruit of salvation and form the basis for reward.
 
@@ -71,7 +92,9 @@ Salvation is by grace, not by works. However, **works reveal** the fruit of salv
 
 ---
 
-## Q5. How should this truth impact our **daily lives**?
+## Q5. How should this truth impact our daily lives?
+
+[↑ Table of Contents](#table-of-contents)
 
 Understanding the Bema Seat should instill urgency, endurance, and eternal focus in the believer's life.
 
@@ -92,6 +115,8 @@ Understanding the Bema Seat should instill urgency, endurance, and eternal focus
 
 ## Final Reminder
 
+[↑ Table of Contents](#table-of-contents)
+
 ### Revelation 22:12
 
 > *“Behold, I am coming quickly, and My reward is with Me, to render to every man according to what he has done.”*
@@ -99,6 +124,8 @@ Understanding the Bema Seat should instill urgency, endurance, and eternal focus
 ---
 
 ## Optional Additions (if you want to expand)
+
+[↑ Table of Contents](#table-of-contents)
 
 - **Crown rewards** (e.g., crown of life, righteousness, glory — see James 1:12, 2 Timothy 4:8, 1 Peter 5:4)
 - **Contrast with Great White Throne** (Revelation 20)

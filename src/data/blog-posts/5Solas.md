@@ -1,9 +1,21 @@
 ---
-title: "The Five Solas"  
-slug: five-solas  
-publishDate: 10 Apr 2024  
-description: "These principles were central to the teachings of the Reformers and remain essential to many Protestant denominations today."  
-label: article  
+title: The Five Solas
+slug: five-solas
+publishDate: 10 Apr 2024
+description: "These principles were central to the teachings of the Reformers and remain essential to many Protestant denominations today."
+label: article
+---
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [1. Sola Scriptura (Scripture Alone)](#1-sola-scriptura-scripture-alone)
+- [2. Sola Fide (Faith Alone)](#2-sola-fide-faith-alone)
+- [3. Sola Gratia (Grace Alone)](#3-sola-gratia-grace-alone)
+- [4. Solus Christus (Christ Alone)](#4-solus-christus-christ-alone)
+- [5. Soli Deo Gloria (To the Glory of God Alone)](#5-soli-deo-gloria-to-the-glory-of-god-alone)
+- [Summary of the Five Solas](#summary-of-the-five-solas)
+
 ---
 
 The "Five Solas" are foundational principles of the Protestant Reformation, firmly anchored in Scripture. As Paul said:
@@ -17,7 +29,9 @@ And so the Reformers proclaimed:
 
 ---
 
-## 1. **Sola Scriptura (Scripture Alone)**
+## 1. Sola Scriptura (Scripture Alone)
+
+[↑ Table of Contents](#table-of-contents)
 
 **The Bible is the supreme authority in all matters of faith and practice. It stands above church tradition and human opinion.**
 
@@ -39,7 +53,9 @@ And so the Reformers proclaimed:
 
 ---
 
-## 2. **Sola Fide (Faith Alone)**
+## 2. Sola Fide (Faith Alone)
+
+[↑ Table of Contents](#table-of-contents)
 
 **We are justified by faith alone—not by works. Faith is the instrument through which we receive Christ’s righteousness.**
 
@@ -57,7 +73,9 @@ And so the Reformers proclaimed:
 
 ---
 
-## 3. **Sola Gratia (Grace Alone)**
+## 3. Sola Gratia (Grace Alone)
+
+[↑ Table of Contents](#table-of-contents)
 
 **Salvation is the result of God’s unmerited favor. It cannot be earned by human effort, but is a free gift rooted in God’s sovereign will.**
 
@@ -72,7 +90,9 @@ And so the Reformers proclaimed:
 
 ---
 
-## 4. **Solus Christus (Christ Alone)**
+## 4. Solus Christus (Christ Alone)
+
+[↑ Table of Contents](#table-of-contents)
 
 **Jesus Christ is the only mediator between God and humanity. Salvation is accomplished solely through His perfect life, sacrificial death, and victorious resurrection.**
 
@@ -90,7 +110,9 @@ And so the Reformers proclaimed:
 
 ---
 
-## 5. **Soli Deo Gloria (To the Glory of God Alone)**
+## 5. Soli Deo Gloria (To the Glory of God Alone)
+
+[↑ Table of Contents](#table-of-contents)
 
 **All of life and salvation exists for God's glory alone. Human boasting is excluded; only God's name is exalted.**
 
@@ -108,7 +130,9 @@ And so the Reformers proclaimed:
 
 ---
 
-### 📜 Summary of the Five Solas
+## Summary of the Five Solas
+
+[↑ Table of Contents](#table-of-contents)
 
 | Sola              | Latin Phrase      | Key Scriptures                             |
 |-------------------|-------------------|--------------------------------------------|

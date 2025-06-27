@@ -6,6 +6,22 @@ description: The study of the Church - who am I
 label: book
 ---
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Outline](#outline)
+- [Attributes of God the Father](#attributes-of-god-the-father)
+- [Attributes of God's Grace](#attributes-of-gods-grace)
+- [Attributes of God the Son](#attributes-of-god-the-son)
+- [Attributes of God the Spirit](#attributes-of-god-the-spirit)
+- [Who we are](#who-we-are)
+- [I. The Calling of the Church 1:1-3:21](#i-the-calling-of-the-church-11-321)
+  - [Ephesians Chapter 1](#ephesians-chapter-1)
+    - [Chapter 1:3-6](#chapter-13-6)
+    - [Chapter 1:7-8](#chapter-17-8)
+    - [Chapter 1:8b-10 - "Fullness of the times"](#chapter-18b-10---fullness-of-the-times)
+
+---
 
 ## Outline
 
@@ -37,11 +53,17 @@ label: book
 - vs. Ch. 1:5 - **Kind**
 - vs. Ch. 1:6 - **gracious**
 
+---
+
 ## Attributes of God's Grace
+
+[↑ Table of Contents](#table-of-contents)
 
 - vs. Ch. 1:2 - **Grace and Peace from God the Father and Lord Jesus Christ**
 - vs. Ch. 1:6 - **glory of His grace, freely bestowed**
 - vs. Ch. 1:7 - **redemption and forgiveness, riches of His grace, lavished upon us**
+
+---
 
 ## Attributes of God the Son
 
@@ -51,9 +73,15 @@ label: book
 - vs. Ch. 1:5 - **Experiences pleasure according to His will**
 - vs. Ch. 1:6 - **praiseworthy, glorious, gracious**
 
+---
+
 ## Attributes of God the Spirit
 
+[↑ Table of Contents](#table-of-contents)
+
 - vs. Ch. 1:13 - **Holy Spirit of the promise**
+
+---
 
 ## Who we are
 
@@ -74,30 +102,34 @@ label: book
 
 ## I. The Calling of the Church 1:1-3:21
 
+[↑ Table of Contents](#table-of-contents)
+
 > the first three chapters are one long prayer, culminating in the great doxology at the end of chapter 3. There is in fact nothing like this in all Paul's letters. This is the language of lyrical prayer
 
-### **Ephesians Chapter 1**  
+### Ephesians Chapter 1
 
-> ***In Chapter 1, Paul*** praises God for His redemptive work, highlighting the spiritual blessings believers have in Christ, including adoption, redemption, and the sealing of the Holy Spirit (*vv. 1–14*).
+> In Chapter 1, Paul praises God for His redemptive work, highlighting the spiritual blessings believers have in Christ, including adoption, redemption, and the sealing of the Holy Spirit (*vv. 1–14*).
 >
 > He prays that they may grow in wisdom, understanding the hope of their calling, the riches of their inheritance, and the greatness of God’s power toward them (*vv. 15–23*).
 >
-> ***Christ is presented as*** *the exalted head over all things, seated at God’s right hand* (*vv. 20–23*),
+> Christ is presented as the exalted head over all things, seated at God’s right hand (*vv. 20–23*),
 >
-> ***Believers should*** *praise God for His grace, trust in Christ’s redemption, and seek wisdom to know Him more* (*vv. 3, 7, 17–18*).
+> Believers should praise God for His grace, trust in Christ’s redemption, and seek wisdom to know Him more (*vv. 3, 7, 17–18*).
 
 ---
 
 #### Chapter 1:3-6
 
->*Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, 4just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love 5He predestined us to adoption as sons and daughters through Jesus Christ to Himself, according to the good pleasure of His will, 6to the praise of the glory of His grace, with which He favored us in the Beloved.*
+> *"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, 4just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love 5He predestined us to adoption as sons and daughters through Jesus Christ to Himself, according to the good pleasure of His will, 6to the praise of the glory of His grace, with which He favored us in the Beloved."*
 
 ---
 
 > **Romans 8:29-30**  
->*For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brothers and sisters; 30and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.*
+>*"For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brothers and sisters; 30and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified."*
 
 ---
+
+[↑ Table of Contents](#table-of-contents)
 
 #### Chapter 1:7-8
 
@@ -105,7 +137,7 @@ label: book
 
 #### Chapter 1:8b-10 - "Fullness of the times"
 
->*In all wisdom and insight He made known to us the mystery of His will, according to His good pleasure which He set forth in Him,regarding His plan of the fullness of the times, to bring all things together in Christ, things in the heavens and things on the earth.*
+>*In all wisdom and insight He made known to us the mystery of His will, according to His good pleasure which He set forth in Him, regarding His plan of the fullness of the times, to bring all things together in Christ, things in the heavens and things on the earth.*
 
 ---
 
@@ -115,6 +147,8 @@ label: book
 ---
 
 > **Colossians 1:15-20**  
-> *He is the image of the invisible God, the firstborn of all creation: for by Him all things were created, both in the heavens and on earth, visible and invisible, whether thrones, or dominions, or rulers, or authorities—all things have been created through Him and for Him. He is before all things, and in Him all things hold together. He is also the head of the body, the church; and He is the beginning, the firstborn from the dead, so that He Himself will come to have first place in everything.
+> *He is the image of the invisible God, the firstborn of all creation: for by Him all things were created, both in the heavens and on earth, visible and invisible, whether thrones, or dominions, or rulers, or authorities—all things have been created through Him and for Him. He is before all things, and in Him all things hold together. He is also the head of the body, the church; and He is the beginning, the firstborn from the dead, so that He Himself will come to have first place in everything.*
 >
-> *19For it was the Father’s good pleasure for all the fullness to dwell in Him,and through Him to reconcile all things to Himself, whether things on earth or things in heaven, having made peace through the blood of His cross*.
+> *For it was the Father’s good pleasure for all the fullness to dwell in Him, and through Him to reconcile all things to Himself, whether things on earth or things in heaven, having made peace through the blood of His cross*.
+
+[↑ Table of Contents](#table-of-contents)

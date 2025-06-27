@@ -6,6 +6,17 @@ description: The README file on the github site
 label: article
 ---
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Spiritual Meaning of Jeremiah 2:13](#spiritual-meaning-of-jeremiah-213)
+- [1. "They have abandoned Me, the fountain of living waters"](#1-they-have-abandoned-me-the-fountain-of-living-waters)
+- [2. "To carve out for themselves cisterns"](#2-to-carve-out-for-themselves-cisterns)
+- [3. "Broken cisterns that do not hold water"](#3-broken-cisterns-that-do-not-hold-water)
+- [Summary (Spiritual Lesson)](#summary-spiritual-lesson)
+
+---
+
 [Living Waters Ministry](https://ireaneus.git.io/LivingWaters/)
 
 ![brokencisterns](https://github.com/user-attachments/assets/5f1ea58f-2172-4b88-bede-76ac7b2e922e)
@@ -19,17 +30,23 @@ label: article
 > Broken cisterns
 > That do not hold water.”
 
-## **Spiritual Meaning of Jeremiah 2:13**
+---
+
+## Spiritual Meaning of Jeremiah 2:13
+
+[↑ Table of Contents](#table-of-contents)
 
 This verse carries deep spiritual symbolism, drawing from everyday images in the ancient world to express a profound truth about humanity's relationship with God.
 
 ---
 
-### 🕊 **1. "They have abandoned Me, the fountain of living waters"**
+## 1. "They have abandoned Me, the fountain of living waters"
 
-* **God is the source of life, joy, truth, and spiritual satisfaction.** He describes Himself as a *fountain*—a flowing, ever-fresh, life-giving source.
-* Spiritually, this reflects God's desire to sustain His people with His presence, His Word, and His Spirit.
-* Abandoning the fountain symbolizes turning away from a vibrant, relational trust in God.
+[↑ Table of Contents](#table-of-contents)
+
+- **God is the source of life, joy, truth, and spiritual satisfaction.** He describes Himself as a *fountain*—a flowing, ever-fresh, life-giving source.
+- Spiritually, this reflects God's desire to sustain His people with His presence, His Word, and His Spirit.
+- Abandoning the fountain symbolizes turning away from a vibrant, relational trust in God.
 
 **Cross-reference**:  
 > *“Therefore you will joyously draw water"*  
@@ -40,25 +57,31 @@ This verse carries deep spiritual symbolism, drawing from everyday images in the
 
 ---
 
-### 🪨 **2. "To carve out for themselves cisterns"**
+## 2. "To carve out for themselves cisterns"
 
-* A **cistern** was a man-made pit for storing rainwater—static, stale, and easily contaminated compared to a flowing spring.
-* Spiritually, this represents people **replacing God with their own solutions**—human effort, idols, false religions, or worldly philosophies.
-* These are *self-sourced*, not God-sourced.
+[↑ Table of Contents](#table-of-contents)
+
+- A **cistern** was a man-made pit for storing rainwater—static, stale, and easily contaminated compared to a flowing spring.
+- Spiritually, this represents people **replacing God with their own solutions**—human effort, idols, false religions, or worldly philosophies.
+- These are *self-sourced*, not God-sourced.
 
 > **Application**: Any attempt to find identity, security, or hope apart from God is like carving a cistern—it might look useful, but it can't give life.
 
 ---
 
-### 💔 **3. "Broken cisterns that do not hold water"**
+## 3. "Broken cisterns that do not hold water"
 
-* Not only are these cisterns man-made, they’re **broken**. They can’t even hold the little water they were supposed to store.
-* **Spiritually**, this is the tragedy of sin and idolatry: they promise fulfillment but leave us dry, empty, and broken.
-* It's a warning: *what you turn to instead of God will ultimately fail you.*
+[↑ Table of Contents](#table-of-contents)
+
+- Not only are these cisterns man-made, they’re **broken**. They can’t even hold the little water they were supposed to store.
+- **Spiritually**, this is the tragedy of sin and idolatry: they promise fulfillment but leave us dry, empty, and broken.
+- It's a warning: *what you turn to instead of God will ultimately fail you.*
 
 ---
 
-### 🌿 **Summary (Spiritual Lesson)**
+## Summary (Spiritual Lesson)
+
+[↑ Table of Contents](#table-of-contents)
 
 Jeremiah 2:13 is God’s loving lament that His people:
 
@@ -67,6 +90,6 @@ Jeremiah 2:13 is God’s loving lament that His people:
 
 It calls us to:
 
-* Return to **God as our Source**, our Spring of Living Water.
-* Reject any false sources of comfort, identity, or purpose.
-* Recognize that **only in Christ** can our thirst be truly quenched (John 4:14).
+- Return to **God as our Source**, our Spring of Living Water.
+- Reject any false sources of comfort, identity, or purpose.
+- Recognize that **only in Christ** can our thirst be truly quenched (John 4:14).

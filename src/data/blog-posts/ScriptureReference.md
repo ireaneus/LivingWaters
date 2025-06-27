@@ -6,28 +6,51 @@ description: "For Scripture memorization and correlation of scripture"
 label: note
 ---
 
-![Illustration of lillies of the valley](/LivingWaters/assets/blog/welcome.webp)
+## Table of Contents
 
-## 📖 Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Witnessing](#witnessing)
+  - [2 Corinthians 2:15-16](#2-corinthians-215-16)
+  - [John 16:8-11](#john-168-11)
+- [Salvation](#salvation)
+  - [Romans 1:6](#romans-16)
+  - [Romans 3:20, 23](#romans-320-23)
+  - [Romans 5:19](#romans-519)
+- [Conformed to His Image](#conformed-to-his-image)
+  - [2 Corinthians 3:18](#2-corinthians-318)
+  - [Romans 8:29](#romans-829)
+- [Hope Eternal](#hope-eternal)
+  - [2 Corinthians 4:18](#2-corinthians-418)
+  - [Romans 8:24–25](#romans-82425)
+- [Sovereignty](#sovereignty)
+  - [Proverbs 16:9](#proverbs-169)
+- [Spirit-Filled, Living by Faith](#spirit-filled-living-by-faith)
+  - [Psalm 33:20-22](#psalm-3320-22)
+  - [Comparison with Other Scriptures on Trusting and Waiting on God](#comparison-with-other-scriptures-on-trusting-and-waiting-on-god)
+- [Trusting God as Our Help and Shield](#trusting-god-as-our-help-and-shield)
+  - [Psalm 18:2](#psalm-182)
+  - [Proverbs 30:5](#proverbs-305)
+- [Waiting on the Lord with Expectation](#waiting-on-the-lord-with-expectation)
+  - [Isaiah 40:31](#isaiah-4031)
+  - [Lamentations 3:25-26](#lamentations-325-26)
+- [Rejoicing in God Because of Trust](#rejoicing-in-god-because-of-trust)
+  - [Philippians 4:4-7](#philippians-44-7)
+- [The Relationship Between God's Favor and Waiting](#the-relationship-between-gods-favor-and-waiting)
+  - [Psalm 5:12](#psalm-512)
+  - [Psalm 37:7-9](#psalm-377-9)
+- [Connection to Psalm 46:10 ("Be Still and Know That I Am God")](#connection-to-psalm-4610-be-still-and-know-that-i-am-god)
+  - [Key Takeaways](#key-takeaways)
+- [Final Reflection](#final-reflection)
 
-1. [🗣️ Witnessing](#️-witnessing)
-2. [✝️ Salvation](#️-salvation)
-3. [🔄 Conformed to His Image](#-conformed-to-his-image)
-4. [🌿 Hope Eternal](#-hope-eternal)
-5. [🎯 Sovereignty](#-sovereignty)
-6. [🔥 Spirit-Filled, Living by Faith](#-spirit-filled-living-by-faith)
+## Witnessing
 
----
-
-## 🗣️ Witnessing
-
-### 2 Corinthians 2:15-16  
+### 2 Corinthians 2:15-16
 
 > For we are a fragrance of Christ to God among those who are being saved and among those who are perishing:  
 > 16 to the one an aroma from death to death, to the other an aroma from life to life.  
 > And who is adequate for these things?
 
-### John 16:8-11  
+### John 16:8-11
 
 > And He, when He comes, will convict the world regarding sin, and righteousness, and judgment:  
 > 9 regarding sin, because they do not believe in Me;  
@@ -36,7 +59,9 @@ label: note
 
 ---
 
-## ✝️ Salvation
+## Salvation
+
+[↑ Table of Contents](#table-of-contents)
 
 ### Romans 1:6
 
@@ -56,9 +81,9 @@ label: note
 
 ---
 
-[↑ Table of Contents](#-table-of-contents)
+## Conformed to His Image
 
-## 🔄 Conformed to His Image
+[↑ Table of Contents](#table-of-contents)
 
 ### 2 Corinthians 3:18
 
@@ -72,7 +97,9 @@ label: note
 
 ---
 
-## 🌿 Hope Eternal
+## Hope Eternal
+
+[↑ Table of Contents](#table-of-contents)
 
 ### 2 Corinthians 4:18
 
@@ -87,7 +114,9 @@ label: note
 
 ---
 
-## 🎯 Sovereignty
+## Sovereignty
+
+[↑ Table of Contents](#table-of-contents)
 
 ### Proverbs 16:9
 
@@ -119,9 +148,9 @@ These verses reinforce the biblical truth that Jesus is not just our Savior, but
 
 ---
 
-[↑ Table of Contents](#-table-of-contents)
+## Spirit-Filled, Living by Faith
 
-## 🔥 Spirit-Filled, Living by Faith
+[↑ Table of Contents](#table-of-contents)
 
 ### Psalm 33:20-22
 
@@ -138,7 +167,9 @@ Psalm 33:20-22 teaches us about waiting on the Lord, trusting in His name, and e
 
 ---
 
-## 1️⃣ Trusting God as Our Help and Shield
+## Trusting God as Our Help and Shield
+
+[↑ Table of Contents](#table-of-contents)
 
 ### Psalm 18:2
 
@@ -156,7 +187,9 @@ This verse reinforces that God’s shielding protection is tied to trusting in H
 
 ---
 
-## 2️⃣ Waiting on the Lord with Expectation
+## Waiting on the Lord with Expectation
+
+[↑ Table of Contents](#table-of-contents)
 
 ### Isaiah 40:31
 
@@ -172,9 +205,9 @@ Similar to Psalm 33:22, this passage connects waiting with receiving God’s goo
 
 ---
 
-[↑ Table of Contents](#-table-of-contents)
+## Rejoicing in God Because of Trust
 
-## 3️⃣ Rejoicing in God Because of Trust
+[↑ Table of Contents](#table-of-contents)
 
 ### Philippians 4:4-7
 
@@ -184,7 +217,9 @@ Like Psalm 33:21, joy comes from trusting God, not circumstances. **Peace comes 
 
 ---
 
-## 4️⃣ The Relationship Between God's Favor and Waiting
+## The Relationship Between God's Favor and Waiting
+
+[↑ Table of Contents](#table-of-contents)
 
 ### Psalm 5:12
 
@@ -200,13 +235,15 @@ Patience in waiting leads to blessing, just as Psalm 33:22 says, “Let Your fav
 
 ---
 
-## 5️⃣ Connection to Psalm 46:10 ("Be Still and Know That I Am God")
+## Connection to Psalm 46:10 ("Be Still and Know That I Am God")
+
+[↑ Table of Contents](#table-of-contents)
 
 Psalm 46:10 calls believers to **be still and recognize God’s sovereignty.** Psalm 33:20-22 shows how this plays out: **we wait, trust, and rejoice in God’s name.**
 
 ---
 
-### 🔑 Key Takeaways
+### Key Takeaways
 
 - **Trust in God’s Sovereignty:** He is our help and shield.
 - **Waiting is Active:** It involves expectation and faith.
@@ -215,8 +252,8 @@ Psalm 46:10 calls believers to **be still and recognize God’s sovereignty.** P
 
 ---
 
-## 📜 Final Reflection
+## Final Reflection
 
 Psalm 33:20-22 is a powerful reminder that waiting on the Lord is **not passive**—it is an active trust in God’s sovereignty, leading to joy, protection, and His favor. Other passages throughout Scripture confirm this, showing that **trust, patience, and faith bring strength and blessing.**
 
-[↑ Table of Contents](#-table-of-contents)
+[↑ Table of Contents](#table-of-contents)
