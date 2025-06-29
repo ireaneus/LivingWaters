@@ -8,60 +8,25 @@ label: article
 
 ## Table of Contents
 
-![Illustration of Open Bible with leaves](/LivingWaters/assets/blog/openbible-leaves.webp)
-
 - [Table of Contents](#table-of-contents)
 - [The Message of the Bible](#the-message-of-the-bible)
 - [The Glory of God, Man’s Purpose, and Divine Providence](#the-glory-of-god-mans-purpose-and-divine-providence)
-  - [(Chiastic Structure)](#chiastic-structure)
 - [The Bible](#the-bible)
 - [The Nature of God](#the-nature-of-god)
-  - [Attributes of God](#attributes-of-god)
-  - [The Trinity](#the-trinity)
 - [The Nature of God: God the Father](#the-nature-of-god-god-the-father)
 - [The Nature of God: God the Son](#the-nature-of-god-god-the-son)
-  - [Key Roles and Attributes of God the Son](#key-roles-and-attributes-of-god-the-son)
 - [The Nature of God: God the Holy Spirit](#the-nature-of-god-god-the-holy-spirit)
-  - [Key Roles and Attributes of God the Holy Spirit](#key-roles-and-attributes-of-god-the-holy-spirit)
-  - [The Decrees of God](#the-decrees-of-god)
 - [About Angels](#about-angels)
-  - [Roles and Classes of Angels](#roles-and-classes-of-angels)
-  - [Destiny of Angels](#destiny-of-angels)
 - [About Satan](#about-satan)
 - [The Nature of Man](#the-nature-of-man)
 - [About Sin](#about-sin)
-  - [Clarification on Total Depravity](#clarification-on-total-depravity)
 - [Salvation](#salvation)
-  - [(Soteriology)](#soteriology)
-  - [The Basis of Salvation](#the-basis-of-salvation)
-  - [The Process of Salvation](#the-process-of-salvation)
-  - [Why Repentance is Essential](#why-repentance-is-essential)
-  - [The Result of Salvation](#the-result-of-salvation)
 - [The Church](#the-church)
-  - [The Universal and Local Church](#the-universal-and-local-church)
-  - [The Purpose of the Church](#the-purpose-of-the-church)
-  - [The Functions of the Church](#the-functions-of-the-church)
-  - [The Future of the Church](#the-future-of-the-church)
 - [Heaven and Hell](#heaven-and-hell)
-  - [Heaven](#heaven)
-  - [Hell](#hell)
-  - [The Lake of Fire](#the-lake-of-fire)
-  - [(Gehenna)](#gehenna)
 - [The Resurrection](#the-resurrection)
-  - [Phases of the Resurrection](#phases-of-the-resurrection)
-  - [Significance of the Resurrection](#significance-of-the-resurrection)
 - [Judgements](#judgements)
-  - [Judgement for Believers](#judgement-for-believers)
-  - [The Bema Seat of Christ](#the-bema-seat-of-christ)
-  - [Judgement for Unbelievers](#judgement-for-unbelievers)
-  - [The Great White Throne](#the-great-white-throne)
-  - [The Judgement of Angels](#the-judgement-of-angels)
-  - [The Nature of God’s Judgement](#the-nature-of-gods-judgement)
-  - [The Final Judgement and Eternal Destinies](#the-final-judgement-and-eternal-destinies)
 - [The Second Coming of the Messiah](#the-second-coming-of-the-messiah)
 - [Eternity](#eternity)
-  - [Eternal Life with God](#eternal-life-with-god)
-  - [Eternal Separation from God](#eternal-separation-from-god)
 
 ---
 
@@ -84,6 +49,8 @@ In the New Testament, Jesus Christ is revealed as the fulfillment of all that wa
 The Bible culminates in the glorious rule of Christ over all creation. In the final chapters of Revelation, we see the consummation of God’s Kingdom, where the redeemed worship Him in the New Heaven and New Earth. *"The kingdom of the world has become the kingdom of our Lord and of His Christ; and He will reign forever and ever."* **(Revelation 11:15)**. Every tribe, tongue, and nation will glorify God, fulfilling the ultimate purpose of creation and redemption. *"To Him who sits on the throne, and to the Lamb, be blessing and honor and glory and dominion forever and ever."* **(Revelation 5:13)**.
 
 The entirety of Scripture declares that the person and work of Jesus Christ is the central theme. He is the promised King, the Redeemer of God’s people, and the One through whom God’s glory is displayed. The Bible’s narrative demonstrates that all things exist for the glory of God, as Paul proclaims: *"For from Him and through Him and to Him are all things. To Him be the glory forever."* **(Romans 11:36)**.
+
+---
 
 ## The Glory of God, Man’s Purpose, and Divine Providence
 
@@ -530,7 +497,7 @@ God’s judgment flows from His perfect holiness and righteousness. He is a holy
 The final judgment is the culmination of God’s redemptive plan, where all creation is held accountable before Him. Believers will experience eternal life in the presence of God, while unbelievers face eternal separation from Him.
 
 - **Eternal Life**: Believers are promised eternal life with God in the New Heaven and New Earth, *"He will wipe away every tear from their eyes; and there will no longer be any death; there will no longer be any mourning, or crying, or pain."* **(Revelation 21:4)**.
-- **Eternal Separation**: For those who reject God, eternal separation is their end, *"These will pay the penalty of eternal destruction, away from the presence of the Lord."* **(2 Thessalonians 1:9)**.
+- **Eternal Separation**: For those who reject God, eternal separation is their end, *"These will pay the penalty of eternal destruction, away from the presence of the Lord and from the glory of His power."* **(2 Thessalonians 1:9)**.
 
 ---
 
