@@ -2,7 +2,7 @@
 title: Scripture Interprets Scripture
 slug: scripture-interprets
 publishDate: 30 Nov 2024
-description: "For Scripture memorization and correlation of scripture"
+description: "For Scripture memorization and correlation of scripture - vetting"
 label: note
 ---
 
@@ -10,36 +10,16 @@ label: note
 
 - [Table of Contents](#table-of-contents)
 - [Witnessing](#witnessing)
-  - [2 Corinthians 2:15-16](#2-corinthians-215-16)
-  - [John 16:8-11](#john-168-11)
 - [Salvation](#salvation)
-  - [Romans 1:6](#romans-16)
-  - [Romans 3:20, 23](#romans-320-23)
-  - [Romans 5:19](#romans-519)
 - [Conformed to His Image](#conformed-to-his-image)
-  - [2 Corinthians 3:18](#2-corinthians-318)
-  - [Romans 8:29](#romans-829)
 - [Hope Eternal](#hope-eternal)
-  - [2 Corinthians 4:18](#2-corinthians-418)
-  - [Romans 8:24–25](#romans-82425)
 - [Sovereignty](#sovereignty)
-  - [Proverbs 16:9](#proverbs-169)
 - [Spirit-Filled, Living by Faith](#spirit-filled-living-by-faith)
-  - [Psalm 33:20-22](#psalm-3320-22)
-  - [Comparison with Other Scriptures on Trusting and Waiting on God](#comparison-with-other-scriptures-on-trusting-and-waiting-on-god)
 - [Trusting God as Our Help and Shield](#trusting-god-as-our-help-and-shield)
-  - [Psalm 18:2](#psalm-182)
-  - [Proverbs 30:5](#proverbs-305)
 - [Waiting on the Lord with Expectation](#waiting-on-the-lord-with-expectation)
-  - [Isaiah 40:31](#isaiah-4031)
-  - [Lamentations 3:25-26](#lamentations-325-26)
 - [Rejoicing in God Because of Trust](#rejoicing-in-god-because-of-trust)
-  - [Philippians 4:4-7](#philippians-44-7)
 - [The Relationship Between God's Favor and Waiting](#the-relationship-between-gods-favor-and-waiting)
-  - [Psalm 5:12](#psalm-512)
-  - [Psalm 37:7-9](#psalm-377-9)
 - [Connection to Psalm 46:10 ("Be Still and Know That I Am God")](#connection-to-psalm-4610-be-still-and-know-that-i-am-god)
-  - [Key Takeaways](#key-takeaways)
 - [Final Reflection](#final-reflection)
 
 ## Witnessing

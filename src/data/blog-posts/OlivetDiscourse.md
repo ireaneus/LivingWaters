@@ -1,8 +1,8 @@
 ---
-title: The Olivet Discourse — Questions and Answers with Full Scripture
+title: The Olivet Discourse — Questions and Answers with Full Scripture Part 1
 slug: olivet-discourse
 publishDate: 25 Jun 2025
-description: A complete analysis of the four questions asked by the disciples in Matthew 24:3 (with Luke 21:7), and the order Jesus answers them, including full NASB 2020 scripture references and full cross-reference passages.
+description: A complete analysis of the four questions asked by the disciples in Matthew 24:3 (with Luke 21:7), and the order Jesus answers them, including full NASB 2020 scripture references and full cross-reference passages. 
 label: note
 ---
 
@@ -11,21 +11,8 @@ label: note
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [The Disciples' Questions](#the-disciples-questions)
-  - [Matthew 24:3](#matthew-243)
-  - [Luke 21:7](#luke-217)
-  - [Resulting in Four Questions](#resulting-in-four-questions)
 - [Jesus’ Answers](#jesus-answers)
 - [Summary Table](#summary-table)
-  - [EXTRA — What Are NOT Signs of the End](#extra--what-are-not-signs-of-the-end)
-    - [Cross References](#cross-references)
-  - [Q3 – What Are the Signs of the End of the Age?](#q3--what-are-the-signs-of-the-end-of-the-age)
-    - [Cross References](#cross-references-1)
-  - [Q1 - When will the temple be destroyed](#q1---when-will-the-temple-be-destroyed)
-    - [Cross References](#cross-references-2)
-  - [Q1A – What Are the Signs the Temple Is About to Be Destroyed?](#q1a--what-are-the-signs-the-temple-is-about-to-be-destroyed)
-    - [Cross References](#cross-references-3)
-  - [Q2 – What Will Be the Sign of Your Coming?](#q2--what-will-be-the-sign-of-your-coming)
-    - [Cross References](#cross-references-4)
 
 ## Overview
 

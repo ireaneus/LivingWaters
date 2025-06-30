@@ -2,7 +2,7 @@
 title: "Living Waters README"
 slug: living-waters
 publishDate: 25 June 2025
-description: The README file on the github site
+description: The README file on the github site for this website
 label: article
 ---
 

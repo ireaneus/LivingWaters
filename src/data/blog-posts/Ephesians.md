@@ -2,7 +2,7 @@
 title: "The Book of Ephesians"
 slug: ephesians
 publishDate: 25 Feb 2025
-description: The study of the Church - who am I
+description: The study of the Church - who am I, who is Jesus
 label: book
 ---
 
@@ -16,10 +16,6 @@ label: book
 - [Attributes of God the Spirit](#attributes-of-god-the-spirit)
 - [Who we are](#who-we-are)
 - [I. The Calling of the Church 1:1-3:21](#i-the-calling-of-the-church-11-321)
-  - [Ephesians Chapter 1](#ephesians-chapter-1)
-    - [Chapter 1:3-6](#chapter-13-6)
-    - [Chapter 1:7-8](#chapter-17-8)
-    - [Chapter 1:8b-10 - "Fullness of the times"](#chapter-18b-10---fullness-of-the-times)
 
 ---
 

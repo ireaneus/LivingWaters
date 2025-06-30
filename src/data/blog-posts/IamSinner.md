@@ -2,7 +2,7 @@
 title: I am a Sinner
 slug: i-am-sinner
 publishDate: 30 Nov 2024
-description: I am a sinner and in need of a savior
+description: I am a sinner and in need of a savior (Scripture Reading)
 label: article
 ---
 
@@ -10,18 +10,9 @@ label: article
 
 - [Table of Contents](#table-of-contents)
 - [General notes](#general-notes)
-  - [Scripture references](#scripture-references)
 - [What do you do?](#what-do-you-do)
-  - [The Gospel](#the-gospel)
 - [A Gospel Conversation](#a-gospel-conversation)
-  - [Opening Questions: The Reality of God’s Revelation](#opening-questions-the-reality-of-gods-revelation)
-  - [The Universal Problem: Our Sin](#the-universal-problem-our-sin)
-  - [The Solution: Jesus Christ](#the-solution-jesus-christ)
-  - [The Call: Repentance and Faith](#the-call-repentance-and-faith)
-  - [Closing Thought](#closing-thought)
 - [Sinners Saved by Grace](#sinners-saved-by-grace)
-  - [Scripture Reading and Message](#scripture-reading-and-message)
-  - [Let the Story Sink In](#let-the-story-sink-in)
 - [The Weight of Sin: Guilt, Shame, and Nakedness](#the-weight-of-sin-guilt-shame-and-nakedness)
 - [God’s Gentle Mercy](#gods-gentle-mercy)
 - [God’s Pursuit and Redemption Through Christ](#gods-pursuit-and-redemption-through-christ)

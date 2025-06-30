@@ -2,7 +2,7 @@
 title: The book of Ruth
 slug: ruth-study
 publishDate: 16 June 2025
-description: Jesus the Kinsman Redeemer
+description: Jesus the Kinsman Redeemer Story of Boaz and Ruth
 label: book
 ---
 
@@ -12,57 +12,10 @@ label: book
 
 - [Table of Contents](#table-of-contents)
 - [Pictures from the story of Ruth](#pictures-from-the-story-of-ruth)
-  - [Jesus our Kinsman Redeemer](#jesus-our-kinsman-redeemer)
 - [Scripture References](#scripture-references)
-  - [Deuteronomy 25:5 - 10](#deuteronomy-255---10)
 - [Ruth Chapter 1](#ruth-chapter-1)
 - [Ruth Chapter 2](#ruth-chapter-2)
 - [Ruth Chapter 2 - Study Guide](#ruth-chapter-2---study-guide)
-  - [Verse 2:1](#verse-21)
-  - [Verse 2:2](#verse-22)
-  - [Cross Reference for verse 2:2](#cross-reference-for-verse-22)
-    - [🌾 Leviticus 19:9–10](#-leviticus-19910)
-    - [🌾 Leviticus 23:22](#-leviticus-2322)
-    - [📜 Deuteronomy 24:19](#-deuteronomy-2419)
-    - [🚜 Ruth 2:7](#-ruth-27)
-  - [Verse 2:3](#verse-23)
-  - [Cross Reference for verse 2:3](#cross-reference-for-verse-23)
-    - [🌿 Proverbs 16:9](#-proverbs-169)
-    - [👑 Matthew 1:5–6](#-matthew-156)
-    - [🧬 Ruth 4:21–22](#-ruth-42122)
-  - [Verse 2:4](#verse-24)
-  - [Cross Reference for verse 2:4](#cross-reference-for-verse-24)
-    - [⚔️ Judges 6:12](#️-judges-612)
-    - [🙌 Psalm 129:8](#-psalm-1298)
-    - [👼 Luke 1:28](#-luke-128)
-    - [✝️ 2 Thessalonians 3:16](#️-2-thessalonians-316)
-  - [Verse 2:5](#verse-25)
-  - [Verse 2:6](#verse-26)
-  - [Verse 2:7](#verse-27)
-  - [Cross Reference for verse 2:7](#cross-reference-for-verse-27)
-    - [🛐 Ruth 2:2](#-ruth-22)
-  - [Verse 2:8](#verse-28)
-  - [Verse 2:9](#verse-29)
-  - [Cross Reference for verse 2:9](#cross-reference-for-verse-29)
-    - [🛡️ Isaiah 32:2](#️-isaiah-322)
-    - [💧 John 4:7–10](#-john-4710)
-  - [Chapter 2 Verse 10](#chapter-2-verse-10)
-  - [Cross References](#cross-references)
-    - [🌍 Deuteronomy 10:18–19](#-deuteronomy-101819)
-    - [💗 Luke 7:6–7](#-luke-767)
-  - [Verse 2:11](#verse-211)
-  - [Cross Reference for verse 2:11](#cross-reference-for-verse-211)
-    - [✨ Genesis 12:1](#-genesis-121)
-    - [🤍 Philippians 2:4–7](#-philippians-247)
-  - [Verse 2:12](#verse-212)
-  - [Cross Reference for verse 2:12](#cross-reference-for-verse-212)
-    - [🕊️ Psalm 91:4](#️-psalm-914)
-    - [🙌 Matthew 23:37](#-matthew-2337)
-    - [🎁 Hebrews 11:6](#-hebrews-116)
-  - [Verse 2:13](#verse-213)
-  - [Cross Reference for verse 2:13](#cross-reference-for-verse-213)
-    - [💬 Isaiah 40:1–2](#-isaiah-4012)
-    - [✝️ Luke 1:28](#️-luke-128)
 
 ---
 

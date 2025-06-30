@@ -3,7 +3,7 @@ title: "Bible study 2025 - Session 1"
 slug: bible-study-session1-2025
 publishDate: 2025-01-02
 author: "Dave Haines"
-description: "The start of the End Time study session 1 2025 (This needs work, it was not used for the real session 1 2025)"
+description: "The start of the End Time study session 1 2025 (This needs work, it was not used for the real session 1 2025) Galatians was done"
 label: note
 ---
 
@@ -13,7 +13,6 @@ label: note
 - [Ice Breaker](#ice-breaker)
 - [Greetings](#greetings)
 - [In the Beginning God](#in-the-beginning-god)
-  - [Scripture Reading](#scripture-reading)
 - [Genesis 1 and John 1](#genesis-1-and-john-1)
 - [Focus Statement](#focus-statement)
 - [The Message of the Bible](#the-message-of-the-bible)
@@ -21,8 +20,6 @@ label: note
 - [Statement](#statement)
 - [Proofs of a Grand Designer](#proofs-of-a-grand-designer)
 - [Questions for Reflection and Discussion](#questions-for-reflection-and-discussion)
-  - [God’s Sovereignty](#gods-sovereignty)
-  - [Personal Reflection](#personal-reflection)
 - [Closing and encouragement](#closing-and-encouragement)
 
 ---

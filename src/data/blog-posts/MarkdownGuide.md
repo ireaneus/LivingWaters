@@ -1,5 +1,5 @@
 ---
-title: Markdown Page
+title: Markdown Format Page
 slug: markdown-format
 publishDate: 01 Dec 2021
 description: A sample page with the most common elements of an article, including headings, paragraphs, lists, and images. Use it as a starting point for applying your own styles.
@@ -12,15 +12,9 @@ This page is an adapted version of [markdown-test-page](https://github.com/fullp
 
 - [Heading one](#heading-one)
   - [Heading two](#heading-two)
-    - [Heading three](#heading-three)
-      - [Heading four](#heading-four)
-        - [Heading five](#heading-five)
-          - [Heading six](#heading-six)
   - [Paragraphs](#paragraphs)
   - [Blockquotes](#blockquotes)
   - [Lists](#lists)
-    - [Ordered List](#ordered-list)
-    - [Unordered List](#unordered-list)
   - [Horizontal rule](#horizontal-rule)
   - [Table](#table)
   - [Code](#code)
