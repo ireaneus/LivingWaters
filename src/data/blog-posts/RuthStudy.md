@@ -6,6 +6,8 @@ description: Jesus the Kinsman Redeemer
 label: book
 ---
 
+![Illustration of Ruth in the field](/LivingWaters/assets/blog/Ruth.webp)
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -67,8 +69,6 @@ label: book
 ## Pictures from the story of Ruth
 
 [↑ Table of Contents](#table-of-contents)
-
-![Illustration of Ruth in the field](/LivingWaters/assets/blog/Ruth.webp)
 
 1. A picture of God's plan to provide a monarch
 2. A picture of a coming Messiah, redeeming sinners both Jew and Gentile from the curse of Law
