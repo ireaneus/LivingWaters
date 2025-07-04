@@ -29,6 +29,8 @@ label: note
 
 ### Faith
 
+[↑ Table of Contents](#table-of-contents)
+
 > **Romans 10:17**  
 >
 > *So faith comes from hearing, and hearing by the word of Christ.*  
@@ -36,6 +38,8 @@ label: note
 ---
 
 ### Repentance
+
+[↑ Table of Contents](#table-of-contents)
 
 > **Romans 2:4**  
 >
@@ -49,6 +53,8 @@ label: note
 
 ### Granted
 
+[↑ Table of Contents](#table-of-contents)
+
 > **John 6:65**  
 >
 > *And He was saying, “For this reason I have said to you, that no one can come to Me unless it has been granted him from the Father.”*
@@ -60,6 +66,8 @@ label: note
 ---
 
 ### Holy Spirit
+
+[↑ Table of Contents](#table-of-contents)
 
 > **John 16:13**  
 >
@@ -73,6 +81,8 @@ label: note
 
 ### God the Father
 
+[↑ Table of Contents](#table-of-contents)
+
 > **Psalm 18:2**  
 >
 > *The Lord is my rock and my fortress and my deliverer, My God, my rock, in whom I take refuge; My shield and the horn of my salvation, my stronghold.*
@@ -84,6 +94,8 @@ label: note
 ---
 
 ### Jesus Christ
+
+[↑ Table of Contents](#table-of-contents)
 
 > **Acts 2:36**  
 >
@@ -97,6 +109,8 @@ label: note
 
 ### Gospel
 
+[↑ Table of Contents](#table-of-contents)
+
 > **Romans 1:16**  
 >
 > *For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.*
@@ -109,6 +123,8 @@ label: note
 
 ### Predestination
 
+[↑ Table of Contents](#table-of-contents)
+
 > **Romans 8:29**  
 >
 > *For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren.*
@@ -116,6 +132,8 @@ label: note
 ---
 
 ### Providence
+
+[↑ Table of Contents](#table-of-contents)
 
 > **Proverbs 16:9**  
 >
@@ -129,6 +147,8 @@ label: note
 
 ### Sovereignty
 
+[↑ Table of Contents](#table-of-contents)
+
 > **Psalm 115:3**  
 >
 > *But our God is in the heavens; He does whatever He pleases.*
@@ -136,6 +156,8 @@ label: note
 ---
 
 ### Death
+
+[↑ Table of Contents](#table-of-contents)
 
 > **Psalm 116:15**  
 >
@@ -145,6 +167,8 @@ label: note
 
 ### Witnessing
 
+[↑ Table of Contents](#table-of-contents)
+
 > **2 Corinthians 2:15–16**  
 >
 > *For we are a fragrance of Christ to God among those who are being saved and among those who are perishing; to the one an aroma from death to death, to the other an aroma from life to life. And who is adequate for these things?*
@@ -153,6 +177,8 @@ label: note
 
 ### Hope / Eternity
 
+[↑ Table of Contents](#table-of-contents)
+
 > **Romans 8:24–25**  
 >
 > *For in hope we have been saved, but hope that is seen is not hope; for who hopes for what he already sees? But if we hope for what we do not see, with perseverance we wait eagerly for it.*
@@ -160,6 +186,8 @@ label: note
 ---
 
 ### Transformation
+
+[↑ Table of Contents](#table-of-contents)
 
 > **2 Corinthians 3:18**  
 >
