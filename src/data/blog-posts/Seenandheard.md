@@ -1,5 +1,9 @@
 ---
 title: Seen and Heard
+slug: seen-heard
+publishDate: 11 Aug 2024
+description: What have we seen and heard, what is our defense of our Christianity 
+label: devotion 
 ---
 
 
