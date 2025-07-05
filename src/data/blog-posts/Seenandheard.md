@@ -10,6 +10,7 @@ label: devotional
 **Read:** Acts 4, Luke 24:44-49
 
 ### Acts 4:20
+
 *"for we cannot stop speaking about what we have seen and heard."*
 
 In this passage, Peter said *"We cannot stop"* speaking about what he has seen and heard. Not that He will try, or in disobedience to the Priests, but that he cannot, because God has commanded him to testify to what he has seen and heard.  If you don't believe me it is all over the NT of the Bible.  We are commanded to testify about what we have seen and heard.
