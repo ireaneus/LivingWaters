@@ -8,8 +8,6 @@ label: note
 
 ## Scripture Reference categories
 
-### Table of Contents
-
 | Section              | Description                                          |
 |----------------------|------------------------------------------------------|
 | [Holy Spirit](#holy-spirit)         | Sealing, guiding, empowering believers               |
