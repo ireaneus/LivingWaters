@@ -29,6 +29,43 @@ label: devotional
 
 ---
 
+## Parallel 1: Came at a time of deep spiritual darkness
+
+### Josiah
+
+> *"For he rebuilt the high places which Hezekiah his father had destroyed; and he erected altars for Baal and made an Asherah, as Ahab king of Israel had done, and worshiped all the host of heaven and served them. He built altars in the house of the Lord, of which the Lord had said, “In Jerusalem I will put My name.” For he built altars for all the host of heaven in the two courts of the house of the Lord. He made his son pass through the fire, practiced witchcraft and used divination, and dealt with mediums and spiritists. He did much evil in the sight of the Lord provoking Him to anger. Then he set the carved image of Asherah that he had made, in the house of which the Lord said to David and to his son Solomon, “In this house and in Jerusalem, which I have chosen from all the tribes of Israel, I will put My name forever."*
+> -2 Kings 21:3-7
+
+> *"Moreover, Manasseh shed very much innocent blood until he had filled Jerusalem from one end to another."*
+> —2 Kings 21:16
+
+> *"He did what was evil in the sight of the Lord, as his father Manasseh had done."*
+> —2 Kings 21:20 (about Amon, Josiah’s father)
+
+> *"The Lord said, 'I will remove Judah also from My sight, as I have removed Israel...'"*
+> —2 Kings 23:27
+
+🡆 Josiah came to power **after generations of idolatry, child sacrifice, and widespread apostasy** — especially under **Manasseh**, who reigned for 55 years. Even Josiah’s own father, Amon, was corrupt. The spiritual climate was so dark that judgment was already decreed (2 Kings 21:10–15), yet Josiah brought temporary reform and revival.
+
+---
+
+### Jesus
+
+> **"But when the fullness of the time came, God sent His Son, born of a woman, born under the Law\..."**
+> —Galatians 4:4 (NASB2020)
+
+> **"The people who were sitting in darkness saw a great Light..."**
+> —Matthew 4:16 (quoting Isaiah 9:2)
+
+🡆 Jesus entered during **Rome's rule**, in a time of **corruption among religious leaders (e.g., Pharisees, Sadducees)** and political oppression. The prophetic voice had been **silent for 400 years** since Malachi. Into this spiritual darkness, the **Light of the world** appeared.
+
+---
+
+## ✅ **Summary Statement**
+
+> *Just as Josiah rose in the midst of Judah’s darkest days to call a people back to the Word, Jesus came at the appointed time — the fullness of time — when the world sat in shadow, to bring eternal light and truth.*
+
+
 > 1. *Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem; and his mother’s name was Jedidah the daughter of Adaiah of Bozkath.*  
 > 2. *He did right in the sight of the Lord and walked in all the way of his father David, nor did he turn aside to the right or to the left.*
 
