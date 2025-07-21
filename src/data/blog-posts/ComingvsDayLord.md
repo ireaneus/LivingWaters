@@ -10,7 +10,12 @@ label: note
 
 **1 Thess 4:13-18** - *Coming of the Lord precedes the Day of the Lord 1 Thess 5:1-4*
 
-1 Thess 2:1-8, Matt 24:36
+**1 Thess 2:1-8**  
+
+>
+
+
+Matt 24:36
 
 ## What happens at the rapture?
 
@@ -25,6 +30,8 @@ label: note
 - Rev 22:12-13, 1 Cor 9:24-25, 2 Tim 4:8
 
 **Thrones:**  *Luke 22:28-30, Rev 20:4*
+
+- 24 elders, crowns rewards
 
 **Day of the Lord:** *2 Thess 2:1-8, 1 Thess 5:2-9*
 
