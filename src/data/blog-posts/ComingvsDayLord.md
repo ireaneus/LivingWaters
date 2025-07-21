@@ -1,12 +1,12 @@
 ---
-title: Coming of the Lord vs. Day of the Lord
-date: 2024-04-10
-author: "Dave Haines"
-excerpt: "Notice the progression of events in 1 Thess 4-5"
-image: "/images/welcome.jpg"
+title: Coming vs. the Day of the Lord
+slug: coming-day-lord
+publishDate: 21-July-2025
+description: Now we request you, brethren, with regard to the coming of our Lord Jesus Christ and our gathering together to Him, that you not be quickly shaken from your composure or be disturbed either by a spirit or a message or a letter as if from us, to the effect that the day of the Lord has come.
+label: note
 ---
 
-# Coming of the Lord vs. Day of Lord
+## Coming of the Lord vs. Day of Lord
 
 **1 Thess 4:13-18** - *Coming of the Lord precedes the Day of the Lord 1 Thess 5:1-4*
 
