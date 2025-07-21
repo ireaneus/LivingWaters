@@ -21,8 +21,8 @@ label: devotional
 
 | **Josiah** | **Jesus Christ** |
 |-----------|------------------|
-| [Came at a time of deep spiritual darkness](#came-at-a-time-of-deep-spiritual-darkness) | [Into the Darkness, Light Came](#into-the-darkness-light-came) |
-| [Restored the Word of God to the people](#restored-the-word-of-god-to-the-people) | **Is** the Word made flesh (John 1:14) |
+| [Came at a time of deep spiritual darkness](#parallel-1-came-at-a-time-of-deep-spiritual-darkness) | [Into the Darkness, Light Came](#into-the-darkness-light-came) |
+| [He did not turn aside](#parallel-2-he-did-not-turn-aside) | **Is** the Word made flesh (John 1:14) |
 | [Tore his clothes in sorrow over sin](#tore-his-clothes-in-sorrow-over-sin) | Bore the weight of sin in His body (1 Peter 2:24) |
 | [Cleansed the temple of idolatry](#cleansed-the-temple-of-idolatry) | Cleansed the temple from corruption (John 2:15) |
 | [Led national repentance](#led-national-repentance) | Calls all nations to repentance (Luke 24:47) |
@@ -33,7 +33,7 @@ label: devotional
 
 ---
 
-## Came at a time of deep spiritual darkness
+## Parallel 1 Came at a time of deep spiritual darkness
 
 ### Josiah
 
@@ -164,3 +164,63 @@ Both Josiah and Jesus were sons raised in dark days by beloved mothers. Both ent
 
 > *“You shall call His name Jesus, for He will save His people from their sins.”*  
 > —*Matthew 1:21*
+
+## 🗂️ Comparison Chart: David, Hezekiah, Josiah, Jesus
+
+| **Category**            | **David**                                               | **Hezekiah**                                                  | **Josiah**                                                       | **Jesus Christ**                                          |
+|-------------------------|----------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|
+| **Time of Reign**       | 1010–970 B.C.                                            | 715–686 B.C.                                                   | 640–609 B.C.                                                     | ~30–33 A.D. (public ministry)                              |
+| **Key Description**     | *“A man after God’s own heart”* (1 Sam 13:14)            | *“No king like him... who trusted in the Lord”* (2 Kgs 18:5)   | *“No king like him... who turned with all his heart, soul, might”* (2 Kgs 23:25) | *“This is My beloved Son... listen to Him”* (Matt 17:5)    |
+| **Spiritual Legacy**    | Worshiper, psalmist, covenant recipient                  | Great reformer, restored temple worship, celebrated national Passover (2 Chr 29–31) | Covenant renewal, rediscovered the Law, celebrated unmatched Passover (2 Kgs 23:21–23) | Fulfiller of the law and prophets, sinless Redeemer        |
+| **Heart Orientation**   | Devoted, relational, repentant                           | Trusted God fully, clung to Him (2 Kgs 18:6)                    | Turned with all his heart, soul, and might (2 Kgs 23:25)         | Perfect obedience and union with the Father (John 8:29)     |
+| **Failures**            | Adultery, murder, census                                 | Pride (Isa 39), showed off treasures to Babylon                | Rash decision to fight Egypt at Megiddo (2 Chr 35:20–24)         | None                                                        |
+| **Relation to the Temple** | Desired to build it, gathered materials (2 Sam 7; 1 Chr 22) | Reopened and purified the temple; reinstituted worship (2 Chr 29–30) | Repaired the temple and read the Book of the Law (2 Kgs 22:3–10) | Declared Himself the true temple (John 2:19–21)             |
+| **God’s Covenant**      | Yes – Davidic covenant (2 Sam 7:12–16)                   | No covenant, but legacy honored                                | No covenant, but led the people in covenant renewal (2 Kgs 23:1–3) | Yes – New Covenant in His blood (Luke 22:20)               |
+
+---
+
+## 🔍 Why Are Hezekiah and Josiah Described as “Unlike Any Other”?
+
+Both Hezekiah and Josiah are described as uniquely righteous kings, but not in contradiction to David—rather, each is praised for a **specific qualifier**.
+
+### 📌 Hezekiah – Unmatched in Trust and Loyalty
+
+> *“He trusted in the Lord, the God of Israel; so that after him there was none like him among all the kings of Judah, nor among those who were before him.”*  
+> —2 Kings 18:5
+
+**Qualifier:** Hezekiah's uniqueness was his **complete trust** in the Lord, especially during the Assyrian crisis. He clung to God without wavering (2 Kings 18:6), making him exemplary in faith under pressure.
+
+---
+
+### 📌 Josiah – Unmatched in Wholehearted Obedience
+
+> *“Before him there was no king like him who turned to the Lord with all his heart and with all his soul and with all his might, according to all the law of Moses; nor did any like him arise after him.”*  
+> —2 Kings 23:25
+
+**Qualifier:** Josiah is praised for the **totality of his covenant response**—he obeyed with his whole being, in alignment with Deuteronomy 6:5. His reform was not just national but deeply personal and Scripture-driven.
+
+---
+
+### 📌 David – A Man After God's Heart
+
+> *“The Lord has sought for Himself a man after His own heart...”* —1 Samuel 13:14  
+> *“I have found David... a man after My heart, who will do all My will.”* —Acts 13:22
+
+David is unique in **devotion, worship, and covenant relationship**. Though deeply flawed, his heart consistently returned to God in repentance, and he became the prototype for the **Messianic King**.
+
+---
+
+## ✝️ The Final Fulfillment: Jesus Christ
+
+Only Jesus embodies all of their strengths—without any of their weaknesses:
+
+- Like **David**, He reigns on an everlasting throne.
+- Like **Hezekiah**, He trusted the Father in the face of death.
+- Like **Josiah**, He obeyed fully—with all His heart, soul, and might.
+
+> *“I always do the things that are pleasing to Him.”* —John 8:29  
+> *“He humbled Himself by becoming obedient to the point of death—death on a cross.”* —Philippians 2:8
+
+Jesus is not just **a better king**—He is the **only perfect King**, the fulfillment of every righteous longing the Old Testament kings foreshadowed.
+
+---

@@ -45,7 +45,7 @@ label: note
 
 **Day of the Lord:** *2 Thess 2:1-8, 1 Thess 5:2-9*
 
-**Wedding:** 
+**Wedding:**
 
 > Wedding servant goes to get a bride, Father says go, son gets bride comes back to Father's house.  Stays there for 7 days and then goes back to Bride's house
 
@@ -55,4 +55,4 @@ label: note
 
 - Day of Atonement - Yom Kippur - Tribulation
 
-- Feast of Tabernacles - The kingdom dwell with His people 
+- Feast of Tabernacles - The kingdom dwell with His people
