@@ -6,9 +6,62 @@ description: Now we request you, brethren, with regard to the coming of our Lord
 label: note
 ---
 
-## Coming of the Lord vs. Day of Lord
+## We are not destined for wrath
 
-**1 Thess 4:13-18** - *Coming of the Lord precedes the Day of the Lord 1 Thess 5:1-4*
+- 1 Thessalonians 1:10 *"and to wait for His Son from heaven, whom He raised from the dead, that is, Jesus who rescues us from the wrath to come."*
+- Revelation 3:10 *"Because you have kept My word of perseverance, I also will keep you from the hour of the testing, that hour which is about to come upon the whole world, to test those who live on the earth."*
+
+1. **1 Thessalonians 5:9 (NASB 2020)**  
+   *For God has not destined us for wrath, but for obtaining salvation through our Lord Jesus Christ.*
+
+2. **Romans 5:9 (NASB 2020)**  
+   *Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him.*
+
+3. **John 3:36 (NASB 2020)**  
+   *The one who believes in the Son has eternal life; but the one who does not obey the Son will not see life, but the wrath of God remains on him.*
+
+4. **Ephesians 2:3-5 (NASB 2020)**  
+   *Among them we too all previously lived in the lusts of our flesh, indulging the desires of the flesh and of the mind, and were by nature children of wrath, just as the rest. But God, being rich in mercy, because of His great love with which He loved us, even when we were dead in our wrongdoings, made us alive together with Christ (by grace you have been saved).*
+
+5. **Colossians 3:6-7 (NASB 2020)**  
+   *For it is because of these things that the wrath of God is coming upon the sons of disobedience, and in them you also once walked, when you were living in them.*
+
+6. **Revelation 3:10 (NASB 2020)**  
+   *Because you have kept My word of perseverance, I also will keep you from the hour of testing, that hour which is about to come upon the whole world, to test those who live on the earth.*
+
+7. **Isaiah 26:20-21 (NASB 2020)**  
+   *Come, My people, enter your rooms and close your doors behind you; hide for a little while until indignation runs its course. For behold, the Lord is about to come out from His place to punish the inhabitants of the earth for their wrongdoing.*
+
+8. **Psalm 103:8-10 (NASB 2020)**  
+   *The Lord is compassionate and gracious, Slow to anger and abounding in mercy. He will not always contend with us, Nor will He keep His anger forever. He has not dealt with us according to our sins, Nor rewarded us according to our guilty deeds.*
+
+9. **Romans 8:1 (NASB 2020)**  
+   *Therefore, there is now no condemnation at all for those who are in Christ Jesus.*
+
+10. **Zephaniah 2:3 (NASB 2020)**  
+    *Seek the Lord, all you humble of the earth who have practiced His ordinances; Seek righteousness, seek humility. Perhaps you will remain hidden on the day of the Lord’s anger.*
+
+## *Coming of the Lord precedes the Day of the Lord 1 Thess 5:1-4*
+
+**1 Thess 4:6**
+
+> 6 *"And that no one violate the rights and take advantage of his brother or sister in the matter, because the **Lord is the avenger** in all these things, just as we also told you previously and solemnly warned you."*
+
+**1 Thess 4:13-18**
+
+> 13 *"But we do not want you to be uninformed, brethren, about those who are asleep, so that you will not grieve as do the rest who have no **hope**."*
+> 14 *"For if we believe that Jesus died and rose again, even so God will bring with Him those who have fallen asleep in Jesus."*
+> 15 *"For this we say to you by the word of the Lord, that we who are alive and remain until **the coming of the Lord**, will not precede those who have fallen asleep."*
+> 16 *"For the Lord Himself will descend from heaven with a shout, with the voice of the archangel and with the trumpet of God, and the dead in Christ will rise first."*
+> 17 *"Then we who are alive and remain will be **caught up** together with them in the clouds to **meet the Lord in the air**, and so **we shall always be with the Lord.**"*
+> 18 *"Therefore comfort one another with these words."*
+
+## *Day of the Lord*
+**1 Thess 5:1-7**
+
+> 1 *"Now as to the periods and times, brothers and sisters, you have no need of anything to be written to you."*
+> 2 *"For you yourselves know full well that the **day of the Lord** is coming just like a thief in the night."*
+> 3 *"While they are saying, “Peace and safety!” then sudden destruction will come upon them like labor pains upon a pregnant woman, and they will not escape. 4But you, brothers and sisters, are not in darkness, so that the day would overtake you like a thief; 5for you are all sons of light and sons of day. We are not of night nor of darkness; 6so then, let’s not sleep as others do, but let’s be alert and sober. 7For those who sleep, sleep at night, and those who are drunk, get drunk at night."*
 
 **1 Thess 2:1-8**  
 
@@ -133,6 +186,28 @@ The spirit of knowledge and the fear of the Lord.
 - Seven Lamps: Represent seven spirits of God, whole of the H.S.
 
 - Thrones: Luke 22:28-30, Rev 20:4, Daniel 7.
+
+### Coming of the Lord
+- 1 Cor 15:52-57 
+- 1 Thess 4:13-18 *"But we do not want you to be uninformed, brothers and sisters, about those who are asleep, so that you will not grieve as indeed the rest of mankind do, who have no hope. 14For if we believe that Jesus died and rose from the dead, so also God will bring with Him those who have fallen asleep through Jesus. 15For we say this to you by the word of the Lord, that we who are alive and remain until the coming of the Lord will not precede those who have fallen asleep. 16For the Lord Himself will descend from heaven with a shout, with the voice of the archangel and with the trumpet of God, and the dead in Christ will rise first. 17Then we who are alive, who remain, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord. 18Therefore, comfort one another with these words."*
+- Matt 24:36
+- John 14:1-3
+- 1 Thess 2:19-20 - crown
+- Matt 24:36
+- 1 Thess. 3:13 *"so that He may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all His saints."*
+
+#### Resurrection
+#### Coming of the Lord
+
+### Bema Seat Judgement
+**lookup avenger**
+- 1 Thessalonians 4:6 *"And that no one violate the rights and take advantage of his brother or sister in the matter, because the Lord is the avenger in all these things, just as we also told you previously and solemnly warned you."*
+
+**James 5:7-9**
+**1 Corinth 4:5**
+**2 Corinth 5:9-11**
+**Luke 14:13-14**
+**Rev. 22:12**
 
 ### Coming of the Lord vs. Day of the Lord
 
