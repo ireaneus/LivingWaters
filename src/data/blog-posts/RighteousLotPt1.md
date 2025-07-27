@@ -1,7 +1,7 @@
 ---
-title: Righteous Lot Part 1: Unveiling Lot's Impact on American Christians
+title: Righteous Lot Part 1 Unveiling Lot's Impact on American Christians
 slug: lot-american-christians
-publishDate: 02-July-2023
+publishDate: 02 July 2023
 description: Diving into both the Old and New Testaments we will explore the themes of disobedience, redemption, and the transformative power of God's grace as they unfold in Lot's story
 label: devotional
 ---
