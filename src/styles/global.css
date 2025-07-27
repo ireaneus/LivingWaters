@@ -1,9 +1,11 @@
+
 :root {
   --background-body: #fff;
   --text-main: #36393b;
   --text-secondary: #6b6f72;
   --primary-color: #548e9b;
-  --font-family-serif: 'EB Garamond', serif;
+  --font-family-headings: 'EB Garamond', serif;
+  --font-family-serif: Cambria, Georgia, 'Times New Roman', Times, serif;
   --font-family-sans: 'Fira Sans', sans-serif;
 }
 
@@ -46,14 +48,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-family-sans);
+  font-family: var(--font-family-headings);
   font-weight: 700;
   line-height: 1.2;
   margin: 0 0 0.5em 0;
 }
 
 h1 {
-  font-family: var(--font-family-serif);
   font-size: 3em;
   margin: 0 0 1em 0;
 }
@@ -87,14 +88,7 @@ ol {
   margin: 1.2em 0;
 }
 
-.markdown-body,
-.markdown-body p,
-.markdown-body ul,
-.markdown-body ol {
-  font-family: var(--font-family-sans) !important;
-  font-size: 1.3rem !important;
-  line-height: 2em !important;
-}
+
 
 ol,
 ul {
@@ -210,7 +204,7 @@ figure {
 
 table {
   border-collapse: collapse;
-  font-family: var(--font-family-sans);
+  font-family: var(--font-family-serif);
   font-weight: normal;
   margin: 2em 0;
 }
@@ -335,7 +329,7 @@ em, i {
 }
 
 #about-me {
-  font-family: var(--font-family-sans);
+  font-family: var(--font-family-serif);
   line-height: 1.6;
 }
 
