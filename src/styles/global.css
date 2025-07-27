@@ -316,7 +316,12 @@ a.anchor:hover {
 }
 
 em, i {
-  color: #ec1212;
+  color: #ec1212; /* red for light theme */
+}
+
+:root.theme-dark em,
+:root.theme-dark i {
+  color: #f5e9d6; /* light beige for dark theme */
 }
 
 #logo-img {
