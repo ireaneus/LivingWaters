@@ -1,5 +1,5 @@
 ---
-title: Righteous Lot Part 2 From Disobedience to Redemption
+title: Righteous Lot Part 2
 slug: lot-disobedient-redemption
 publishDate: 23 March 2025
 description: In this segment, we delve deeper into the transformative journey of Lot, tracing his path from disobedience to redemption

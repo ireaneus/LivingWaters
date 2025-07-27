@@ -1,5 +1,5 @@
 ---
-title: Righteous Lot Part 1 Unveiling Lot's Impact on American Christians
+title: Righteous Lot Part 1
 slug: lot-american-christians
 publishDate: 02 July 2023
 description: Diving into both the Old and New Testaments we will explore the themes of disobedience, redemption, and the transformative power of God's grace as they unfold in Lot's story
@@ -31,7 +31,7 @@ To the land which I will show you;.."*
 >**Genesis 12:4**
 > *"So Abram went away as the Lord had spoken to him; and Lot went with him."*
 >
-> **2 Peter 2:7-8** - Lot's Anchor verses
+> **2 Peter 2:7-8** - Lot's Anchor verses  
 > 7 *"and if He rescued righteous Lot, who was oppressed by the perverted conduct of unscrupulous people"*
 >8 *"(for by what he saw and heard that righteous man, while living among them, felt his righteous soul tormented day after day by their lawless deeds),"*
 
