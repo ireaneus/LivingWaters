@@ -57,6 +57,7 @@ label: note
 > 18 *"Therefore comfort one another with these words."*
 
 ## *Day of the Lord*
+
 **1 Thess 5:1-7**
 
 > 1 *"Now as to the periods and times, brothers and sisters, you have no need of anything to be written to you."*
@@ -188,7 +189,8 @@ The spirit of knowledge and the fear of the Lord.
 - Thrones: Luke 22:28-30, Rev 20:4, Daniel 7.
 
 ### Coming of the Lord
-- 1 Cor 15:52-57 
+
+- 1 Cor 15:52-57
 - 1 Thess 4:13-18 *"But we do not want you to be uninformed, brothers and sisters, about those who are asleep, so that you will not grieve as indeed the rest of mankind do, who have no hope. 14For if we believe that Jesus died and rose from the dead, so also God will bring with Him those who have fallen asleep through Jesus. 15For we say this to you by the word of the Lord, that we who are alive and remain until the coming of the Lord will not precede those who have fallen asleep. 16For the Lord Himself will descend from heaven with a shout, with the voice of the archangel and with the trumpet of God, and the dead in Christ will rise first. 17Then we who are alive, who remain, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord. 18Therefore, comfort one another with these words."*
 - Matt 24:36
 - John 14:1-3
@@ -197,10 +199,13 @@ The spirit of knowledge and the fear of the Lord.
 - 1 Thess. 3:13 *"so that He may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all His saints."*
 
 #### Resurrection
+
 #### Coming of the Lord
 
 ### Bema Seat Judgement
+
 **lookup avenger**
+
 - 1 Thessalonians 4:6 *"And that no one violate the rights and take advantage of his brother or sister in the matter, because the Lord is the avenger in all these things, just as we also told you previously and solemnly warned you."*
 
 **James 5:7-9**
