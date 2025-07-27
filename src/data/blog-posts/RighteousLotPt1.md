@@ -67,4 +67,3 @@ Stay tuned for the upcoming parts of this series:
 > Part 3: The Perils of Carnality
 > Part 4: The Torment of a Righteous Soul
 > Part 5: The Path to Restoration
-> 
