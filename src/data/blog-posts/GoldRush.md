@@ -46,7 +46,7 @@ The fine gold we find through our faithful labor will endure through this test.
 
 ### Sowing, Watering, and Harvesting
 
-Our calling is to be sowers, waterers, and reapers. As Paul writes in Galatians 6:9, "Let’s not become discouraged in doing good, for in due time we will reap, if we do not become weary."
+Our calling is to be sowers, waterers, and reapers. As Paul writes in **Galatians 6:9**, *"Let’s not become discouraged in doing good, for in due time we will reap, if we do not become weary."*
 
 Like the miners on Gold Rush, we sift through tons of dirt for tiny ounces of gold. Every prayer, conversation, and act of love may seem small, but in God’s economy, these moments are eternal treasures.
 
@@ -54,6 +54,6 @@ Like the miners on Gold Rush, we sift through tons of dirt for tiny ounces of go
 
 The world offers plenty of *“fool’s gold”*—shiny distractions that promise fulfillment but lead to emptiness. As believers, our goal is to sift through the dirt of life, finding the fine gold of eternal significance.
 
-Let’s labor faithfully, keeping our eyes on the true treasure. As Jesus reminds us in *Matthew 9:37–38*, *"The harvest is plentiful, but the workers are few. Therefore, plead with the Lord of the harvest to send out workers into His harvest."*
+Let’s labor faithfully, keeping our eyes on the true treasure. As Jesus reminds us in **Matthew 9:37–38**, *"The harvest is plentiful, but the workers are few. Therefore, plead with the Lord of the harvest to send out workers into His harvest."*
 
 So, let us dig deep, sift carefully, and rejoice in every glimmer of fine gold that God brings our way.
