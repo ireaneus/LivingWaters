@@ -1,5 +1,5 @@
 ---
-title: Brood of Vipers: The Hypocrisy of Prevenient Grace
+title: Brood of Vipers The Hypocrisy of Prevenient Grace
 slug: brood-vipers
 publishDate: 31 Dec 2024
 description: I am amazed that you are so quickly deserting Him who called you by the grace of Christ, for a different gospel, which is not just another account; but there are some who are disturbing you and want to distort the gospel of Christ. But even if we, or an angel from heaven, should preach to you a gospel contrary to what we have preached to you, he is to be accursed! 
