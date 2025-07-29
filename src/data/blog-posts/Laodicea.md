@@ -8,7 +8,7 @@ label: note
 
 ## The 7th or last period of the Church age
 
-![Open Bible Leaves](/public/assets/blog/openbible-leaves.webp)
+![Open Bible Leaves](/LivingWaters/assets/blog/openbible-leaves.webp)
 
 ## Table of Contents
 
@@ -58,6 +58,7 @@ These church condemnations do not in any way reflect the standings of the saints
 Through the 7 periods of the church age, you will see distinct characteristics of each period begin and end. God will do what He says He will do, and it is evident if you have eyes to see and ears to hear.
 
 ---
+[Table of Contents](#table-of-contents)
 
 ## Laodicea Church Interpretation
 
