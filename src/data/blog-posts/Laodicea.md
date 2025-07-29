@@ -2,7 +2,7 @@
 title: Laodicea the 7th church of the book of Revelation
 slug: laodicea-church-revelation
 publishDate: 22 Jul 2025
-description: 
+description: Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.
 label: note
 ---
 
