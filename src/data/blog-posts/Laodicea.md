@@ -39,8 +39,11 @@ Tells us that everything in this book (letter) is prophetic in nature, including
 
 #### Universal Church
 
-The conditions of the original 7 churches describe the condition of local churches now and over the course of 2000 yrs
-Application is meant for the churches, and also to individuals. Those that repent individually and turn back to their first love will be the overcomers listed. These church condemnations do not in any way reflect the standings of the saints before God. We are saved not of works, it is a gift of God.
+The conditions of the original 7 churches describe the condition of local churches now and over the course of 2000 yrs.  
+
+Application is meant for the churches, and also to individuals. Those that repent individually and turn back to their first love will be the overcomers listed.  
+
+These church condemnations do not in any way reflect the standings of the saints before God. We are saved not of works, it is a gift of God.
 
 #### Prophetic Church
 
@@ -50,14 +53,14 @@ Through the 7 periods of the church age, you will see distinct characteristics o
 
 ## Laodicea Church Interpretation
 
-> 14 *To the angel of the church in Laodicea write: The Amen, the faithful and true Witness, the Origin of the creation of God, says this:*
-> 15 *‘I know your deeds, that you are neither cold nor hot; I wish that you were cold or hot.*
-> 16 *So because you are lukewarm, and neither hot nor cold, I will vomit you out of My mouth.*
-> 17 *Because you say, “I am rich, and have become wealthy, and have no need of anything,” and you do not know that you are wretched, miserable, poor, blind, and naked,*
-> 18 *I advise you to buy from Me gold refined by fire so that you may become rich, and white garments so that you may clothe yourself and the shame of your nakedness will not be revealed;and eye salve to apply to your eyes so that you may see.*
-> 19 *Those whom I love, I rebuke and discipline; therefore be zealous and repent.*
-> 20 *Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.*
-> 21 *The one who overcomes, I will grant to him to sit with Me on My throne, as I also overcame and sat with My Father on His throne.*
+> 14 *To the angel of the church in Laodicea write: The Amen, the faithful and true Witness, the Origin of the creation of God, says this:*  
+> 15 *‘I know your deeds, that you are neither cold nor hot; I wish that you were cold or hot.*  
+> 16 *So because you are lukewarm, and neither hot nor cold, I will vomit you out of My mouth.*  
+> 17 *Because you say, “I am rich, and have become wealthy, and have no need of anything,” and you do not know that you are wretched, miserable, poor, blind, and naked,*  
+> 18 *I advise you to buy from Me gold refined by fire so that you may become rich, and white garments so that you may clothe yourself and the shame of your nakedness will not be revealed;and eye salve to apply to your eyes so that you may see.*  
+> 19 *Those whom I love, I rebuke and discipline; therefore be zealous and repent.*  
+> 20 *Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.*  
+> 21 *The one who overcomes, I will grant to him to sit with Me on My throne, as I also overcame and sat with My Father on His throne.*  
 > 22 *The one who has an ear, let him hear what the Spirit says to the churches.*
 
 **Rev. 3:10** *'Because you have kept My word of perseverance, I also will keep you from the hour of the testing, that hour which is about to come upon the whole world, to test those who live on the earth.'*
@@ -73,8 +76,7 @@ The church today is asleep, and lazy. We say we are rich, but we are so poor spi
 great text for the condition we are in as the impending judgement we will soon face, when our works will
 be judged.
 
-**Read Matthew 25**  
-**The Garden of Gethsemane Matthew 26:36 - 46**  
+**Read Matthew 25, The Garden of Gethsemane Matthew 26:36 - 46**  
 
 ### The Laodicean Church
 
@@ -86,7 +88,7 @@ be judged.
 
 - *'Buy from Me gold refined by fire'* read **Psm 66:10, Prov 17:3, Zech 13:9, Luke 12:21, 1 Tim 6:18, James 1:3-4, 2:5, 1 Peter 1:7, 4:12-13**
 - *'Buy from Me white garments'* Speaks of Righteousness, redeemed, Clothed opposite of naked, we are made righteous. read **Rev 3:4-5, 18, 4:4**
-- *'Buy from Me Eye salve'* speaks of the Word of God that enables us to see life realistically. Our worldview should be defined by scripture, not the other way around
+- *'Buy from Me Eye salve'* speaks of the Word of God that enables us to see life realistically. Our worldview should be defined by scripture, not the other way around. If we buy eye Salve from the Lord He will give you "Eyes for Eternity!"
 
 **References**
 
