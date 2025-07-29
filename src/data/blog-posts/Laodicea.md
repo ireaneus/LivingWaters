@@ -8,6 +8,14 @@ label: note
 
 ## The 7th or last period of the Church age
 
+![Open Bible Leaves](/public/assets/blog/openbible-leaves.webp)
+
+## Table of Contents
+
+- [The 7th or last period of the Church age](#the-7th-or-last-period-of-the-church-age)
+- [Table of Contents](#table-of-contents)
+- [Laodicea Church Interpretation](#laodicea-church-interpretation)
+
 ### Two Rules of interpretation
 
 - The Golden Rule: When the plain sense of the text makes common sense, seek no other sense.
