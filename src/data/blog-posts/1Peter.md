@@ -1,8 +1,8 @@
 ---
 title: The letter of 1st Peter
-slug: ruth-study
+slug: one-peter
 publishDate: 03 May 2025
-description: Jesus the Kinsman Redeemer Story of Boaz and Ruth
+description: Peter, an apostle of Jesus Christ, To those who reside as strangers, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen
 label: book
 ---
 
