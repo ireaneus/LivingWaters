@@ -23,21 +23,13 @@ He made a covenant—a sacred agreement—with Abraham. But this covenant was re
 > **Hebrews 6:13-14 (NASB)**  
 > *"For when God made the promise to Abraham, since He could swear an oath by no one greater, He swore by Himself, saying, 'Indeed I will greatly bless you and I will greatly multiply you.'"*
 
-That promise was fulfilled when Jesus died, was buried, and rose again.  
-And now that same promise is for all who believe in Him.
-
-So remember—**baptism isn’t what saves you.**  
-Salvation came from God’s promise and Jesus’ finished work.  
-But baptism is your **first step of obedience.** It’s a way of saying,  
-**“I’m in—I want to follow Jesus.”**
+When God made that promise He had you two in mind along with countless others that have done what your about do today.
 
 Jesus did it first. He showed us the way:
 
 > **Matthew 3:16-17 (NASB)**  
 > *"After He was baptized, Jesus came up immediately from the water; and behold, the heavens were opened, and he saw the Spirit of God descending as a dove and settling on Him, and behold, a voice from the heavens said, 'This is My beloved Son, with whom I am well pleased.'"*
 
-Now it’s your turn.  
-This is the start of your journey.
 
 It won’t always be easy. Jesus Himself said:
 
