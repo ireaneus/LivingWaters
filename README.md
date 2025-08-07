@@ -1,4 +1,4 @@
-# [Living Waters Ministry](https://ireaneus.git.io/LivingWaters/)
+# [Living Waters RV Ministry](https://ireaneus.git.io/LivingWaters/)
 
 ![brokencisterns](https://github.com/user-attachments/assets/5f1ea58f-2172-4b88-bede-76ac7b2e922e)
 
