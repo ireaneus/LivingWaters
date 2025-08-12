@@ -1,4 +1,4 @@
-89a---
+---
 title: How to Study the Bible
 slug: how-study-bible
 publishDate: 1 Jul 2025
