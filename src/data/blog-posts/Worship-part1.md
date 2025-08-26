@@ -3,7 +3,7 @@ title: Why do we come to church on Sunday
 slug: worship-part1
 publishDate: 26 Aug 2025
 description: Worship series, taught by Pastor Jack Hurley and David Haines Sermon Series on Worship
-label: notes
+label: note
 ---
 
 ## Worship Part 1 
