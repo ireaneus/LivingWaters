@@ -13,6 +13,7 @@ label: note
 - [Sermon Introduction (Spoken Transcript)](#sermon-introduction-spoken-transcript)
 - [Transition from Introduction](#transition-from-introduction)
 - [The New Explained What the Old Contained](#the-new-explained-what-the-old-contained)
+- [How Do We Consecrate Ourselves?](#how-do-we-consecrate-ourselves)
 - [Old Testament Example of Biblical Worship](#old-testament-example-of-biblical-worship)
 
 ---
@@ -141,49 +142,63 @@ The Old Testament gives us the shadows, and Christ is the substance. So as we lo
 
 True worship has always been about Christ. The Tabernacle, the sacrifices, the ordinances — all of them pointed forward to Him.  
 
-### Do you see the severity of His warning?
+---
 
-The Old Testament reminds us what happens when people try to worship on their own terms, apart from God’s command:
+### How do we Worship?
 
-> *Now Nadab and Abihu, the sons of Aaron, took their respective firepans, and after putting fire in them, placed incense on the fire and offered strange fire before the Lord, which He had not commanded them. And fire came out from the presence of the Lord and consumed them, and they died before the Lord. Then Moses said to Aaron, “It is what the Lord spoke, saying, ‘By those who come near Me I will be treated as holy, And before all the people I will be honored.’ ” So Aaron, therefore, kept silent.*
-> — **Leviticus 10:1–3 (NASB2020)**
+The Old and New Testaments give us a warning about how we are to worship, if do it wrong we are at risk of some serious consequences.
 
-> *And to Aaron were born Nadab and Abihu, Eleazar and Ithamar. But Nadab and Abihu died when they offered strange fire before the Lord. Those who were numbered of them were twenty-three thousand, every male from a month old and upward, for they were not numbered among the sons of Israel since no inheritance was given to them among the sons of Israel.*
-> — **Numbers 26:60–62 (NASB2020)**
+The Old Testament shows us the danger of worshiping on our own terms:  
 
-Their worship was not according to God’s command, and it cost them their lives. Not only Nadab and Abihu perished, but twenty-three thousand males from a month old and upward were cut off, and they were not numbered among the sons of Israel.
+> *Now Nadab and Abihu, the sons of Aaron, took their respective firepans, and after putting fire in them, placed incense on the fire and offered strange fire before the Lord, which He had not commanded them. And fire came out from the presence of the Lord and consumed them, and they died before the Lord. Then Moses said to Aaron, “It is what the Lord spoke, saying, ‘By those who come near Me I will be treated as holy, And before all the people I will be honored.’ ” So Aaron, therefore, kept silent.*  
+> — **Leviticus 10:1–3 (NASB2020)**  
 
-And Paul carries this same warning into the New Testament. Just as the priests had to consecrate themselves before entering the Holy Place, we too must examine ourselves before coming into the Lord’s presence:
+Their worship was not according to God’s command, and it cost them their lives.  
 
-> *Therefore whoever eats the bread or drinks the cup of the Lord in an unworthy way, shall be guilty of the body and the blood of the Lord. But a person must examine himself, and in so doing he is to eat of the bread and drink of the cup. For the one who eats and drinks, eats and drinks judgment to himself if he does not properly recognize the body. For this reason many among you are weak and sick, and a number are asleep.*
-> — **1 Corinthians 11:27–30 (NASB2020)**
+And Paul warns the Corinthian church with the same principle:  
 
-Did you get that? *"Many among you are weak and sick, and a number are asleep"*
+> *Therefore whoever eats the bread or drinks the cup of the Lord in an unworthy way, shall be guilty of the body and the blood of the Lord. But a person must examine himself, and in so doing he is to eat of the bread and drink of the cup. For the one who eats and drinks, eats and drinks judgment to himself if he does not properly recognize the body. For this reason many among you are weak and sick, and a number are asleep.*  
+> — **1 Corinthians 11:27–30 (NASB2020)**  
 
-Do you see the continuity? From Israel in the wilderness, to the priests in the Tabernacle, to the church at Corinth — the message is the same:
+Did you hear that? *“Many among you are weak and sick, and a number are asleep.”* This is the "Lord's Supper" it is one of the Ordinances of the Church.  We recognize this right?  The 2 ordinances we hold are The Lord's Supper (Communion) and the other is Baptism. This is a part of a typical "Worship" service. So if God's judgment is on how we approach the table, and that is just a part of a "Worship" service. So what can we conclude?
 
-**God is holy. Worship is not casual. And Christ is our only object of true worship. He is to be the reason we rise in the morning, and He is to be worshiped daily — and all the more when we gather together as His people.**
+**God is holy. Worship is not casual. And Christ is our only object of true worship.**  
 
-The writer of Hebrews reminds us:
+---
 
-> *“…and let’s consider how to encourage one another in love and good deeds, not abandoning our own meeting together, as is the habit of some people, but encouraging one another; and all the more as you see the day drawing near.”*
-> — **Hebrews 10:24–25 (NASB2020)**
+## How Do We Consecrate Ourselves?
 
-So we dare not treat our “gathering together” lightly.
+This brings us to the question: *If worship is not casual, how then do we prepare ourselves to come before the Lord?*  
 
-**Application:**
-When we come before the Lord in worship, we must come with consecrated hearts. Before we sing a note, before we pray a prayer, before we hear the Word preached, before we take the bread and the cup — we must prepare ourselves.
+In the Old Testament, the priests could not perform the daily rituals within God's tabernacle without consecration:  
 
-- We examine our hearts.
-- We confess our sins.
-- We set aside our distractions.
-- We remember who it is we are coming before: the Holy One, before whom the angels cover their faces.
+- **They washed at the laver** (Exodus 30:17–21).  
+- **They offered blood sacrifices for sin** (Leviticus 16:6).  
+- **They were anointed with oil** (Exodus 29:7).  
+- **They were clothed in holy garments** (Exodus 28:2–4).  
 
-`[We will need to ask the question "how" and answer these later]`
+But remember: only the High Priest could enter the Holy of Holies, and even then, only once a year on the Day of Atonement. For us, Christ alone is that High Priest who has entered once for all into the true Holy Place in heaven (Hebrews 9:11–12, 24).
 
-This is not casual. This is not tradition. This is worship — the eternal calling of the redeemed.
+> *"But when Christ appeared as a high priest of the good things having come, He entered through the greater and more perfect tabernacle, not made by hands, that is, not of this creation; 12and not through the blood of goats and calves, but through His own blood, He entered the holy place once for all time, having obtained eternal redemption."*  
+> — **Hebrews 9:11-12**
+> *"For Christ did not enter a holy place made by hands, a mere copy of the true one, but into heaven itself, now to appear in the presence of God for us;"*  
+> — **Hebrews 9:24**
 
-So the question remains: **When you gather with God’s people, are you coming with a heart consecrated to worship Him? Or are you just going through the motions?**
+In the New Testament, each part of the consecration finds its fulfillment in Christ and our salvation:  
+
+- **Washed (Chosen and Cleansed)** — *“…He chose us in Him before the foundation of the world, that we would be holy and blameless before Him.”* — **Ephesians 1:4 (NASB2020)**  
+- **Blood (Justified by Christ’s Sacrifice)** — *“…in Him we have redemption through His blood, the forgiveness of our wrongdoings, according to the riches of His grace.”* — **Ephesians 1:7 (NASB2020)**  
+- **Anointed (Sealed with the Spirit)** — *“…you were sealed in Him with the Holy Spirit of the promise, who is a first installment of our inheritance…”* — **Ephesians 1:13–14 (NASB2020)**  
+- **Clothed (Righteous in Christ)** — *“…put on the new self, which in the likeness of God has been created in righteousness and holiness of the truth.”* — **Ephesians 4:24 (NASB2020)**  
+
+So just as the priests had to consecrate themselves before serving, so too must we:  
+
+- We **examine our hearts** (1 Corinthians 11:28).  
+- We **confess our sins** (1 John 1:9).  
+- We **set aside our distractions** (Hebrews 12:1–2).  
+- And we worship not in our own merit, but **clothed in Christ’s righteousness**.  
+
+This is how we consecrate ourselves as a holy priesthood, made acceptable to God through Jesus Christ (1 Peter 2:5).  
 
 ---
 
