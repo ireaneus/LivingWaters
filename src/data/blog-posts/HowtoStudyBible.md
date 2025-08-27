@@ -24,9 +24,9 @@ label: note
 
 From understanding context to being Spirit-led, these 5 tips will equip you to rightly divide God’s Word and grow in your knowledge of the truth.
 
-🎥 Watch now! (https://www.youtube.com/watch?v=M5ARiYm5pFI&t=19s)
+[🎥 Watch now!](https://www.youtube.com/watch?v=M5ARiYm5pFI&t=19s)
 
-#VBVMI #BibleStudyTips #StephenArmstrong #VerseByVerse #ChristianGrowth #KnowTheWord #WomensBibleStudy #StudyTheBible 
+`#VBVMI #BibleStudyTips #StephenArmstrong #VerseByVerse #ChristianGrowth #KnowTheWord #WomensBibleStudy #StudyTheBible`
 
 TIP #1 ✍️ Know the Context
 Before reading a verse, ask:

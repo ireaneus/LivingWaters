@@ -13,9 +13,7 @@ label: note
 - [Sermon Introduction (Spoken Transcript)](#sermon-introduction-spoken-transcript)
 - [Transition from Introduction](#transition-from-introduction)
 - [The New Explained What the Old Contained](#the-new-explained-what-the-old-contained)
-- [Fellowship with Him](#fellowship-with-him)
 - [Old Testament Example of Biblical Worship](#old-testament-example-of-biblical-worship)
-- [Redeem Two Peoples (Stars and Sand)](#redeem-two-peoples-stars-and-sand)
 
 ---
 
@@ -53,9 +51,10 @@ And then we go home.
 
 *(pause, voice rising)*  
 
-But the Westminster Catechism answers life’s deepest question: **“Why am I here?”**  
+But, I believe that the Westminster Shorter Catechism Question 1 answers life’s deepest question: **“Why am I here?”**  
 
-*“The chief end of man is to glorify God and to enjoy Him forever.”*  
+> *Q. 1. What is the chief end of man?*  
+> *A. Man’s chief end is to glorify God, and to enjoy Him forever.*
 
 That is why you exist.  
 That is why I exist.  
@@ -85,10 +84,9 @@ So why would we not want to begin living that reality now?
 
 Hear me clearly: Sunday worship is not a ritual.  
 It’s not just tradition.  
-It is practice for eternity.  
 It is heaven’s rehearsal here on earth.  
 
-And if you believe that the chief end of man is to glorify God and enjoy Him forever, then biblical worship is not just what you *ought* to be doing — it is what you should *long* to be doing.  
+And if you truly believe that the chief end of man is to glorify God and enjoy Him forever, then biblical worship is not just what you *ought* to be doing — it is what you should *long* to be doing.  
 
 So the question we need to ask is: *What is Biblical Worship?*  
 
@@ -106,11 +104,7 @@ Then you must ask yourself today:
 
 ## Transition from Introduction
 
-We asked the question: *Why are we here? What is true biblical worship?*  
-
-If the chief end of man is to glorify God and enjoy Him forever, and if all that we do — even something as ordinary as eating or drinking — is to be done for His glory, then surely our gathering for worship must mean more than tradition, more than ritual, more than habit.  
-
-So how do we know what worship really is?  
+So how do we know what true Biblical Worship looks like?  
 
 The answer is this:  
 
@@ -147,34 +141,53 @@ The Old Testament gives us the shadows, and Christ is the substance. So as we lo
 
 True worship has always been about Christ. The Tabernacle, the sacrifices, the ordinances — all of them pointed forward to Him.  
 
-And the warnings in the Old Testament remind us what happens when we try to worship on our own terms, apart from Christ:  
+### Do you see the severity of His warning?
 
-> *Now Nadab and Abihu, the sons of Aaron, took their respective firepans, and after putting fire in them, placed incense on the fire and offered strange fire before the Lord, which He had not commanded them.*  
-> — **Leviticus 10:1 (NASB2020)**  
+The Old Testament reminds us what happens when people try to worship on their own terms, apart from God’s command:
 
-> *But Nadab and Abihu died when they offered strange fire before the Lord…*  
-> — **Numbers 26:61 (NASB2020)**  
+> *Now Nadab and Abihu, the sons of Aaron, took their respective firepans, and after putting fire in them, placed incense on the fire and offered strange fire before the Lord, which He had not commanded them. And fire came out from the presence of the Lord and consumed them, and they died before the Lord. Then Moses said to Aaron, “It is what the Lord spoke, saying, ‘By those who come near Me I will be treated as holy, And before all the people I will be honored.’ ” So Aaron, therefore, kept silent.*
+> — **Leviticus 10:1–3 (NASB2020)**
 
-Their worship was not according to God’s command, and it cost them their lives.  
+> *And to Aaron were born Nadab and Abihu, Eleazar and Ithamar. But Nadab and Abihu died when they offered strange fire before the Lord. Those who were numbered of them were twenty-three thousand, every male from a month old and upward, for they were not numbered among the sons of Israel since no inheritance was given to them among the sons of Israel.*
+> — **Numbers 26:60–62 (NASB2020)**
 
-And Paul carries the same truth into the New Testament. Just as the priests had to consecrate themselves before entering the Holy Place, we too must prepare our hearts before entering God’s presence:  
+Their worship was not according to God’s command, and it cost them their lives. Not only Nadab and Abihu perished, but twenty-three thousand males from a month old and upward were cut off, and they were not numbered among the sons of Israel.
 
-> *But a person must examine himself, and in so doing he is to eat of the bread and drink of the cup. For the one who eats and drinks, eats and drinks judgment to himself if he does not properly recognize the body… But when we are judged, we are disciplined by the Lord so that we will not be condemned along with the world.*  
-> — **1 Corinthians 11:28-32 (NASB2020)**  
+And Paul carries this same warning into the New Testament. Just as the priests had to consecrate themselves before entering the Holy Place, we too must examine ourselves before coming into the Lord’s presence:
 
-Do you see the continuity? From Israel in the wilderness, to the priests in the Tabernacle, to the church at Corinth — the message is the same:  
+> *Therefore whoever eats the bread or drinks the cup of the Lord in an unworthy way, shall be guilty of the body and the blood of the Lord. But a person must examine himself, and in so doing he is to eat of the bread and drink of the cup. For the one who eats and drinks, eats and drinks judgment to himself if he does not properly recognize the body. For this reason many among you are weak and sick, and a number are asleep.*
+> — **1 Corinthians 11:27–30 (NASB2020)**
 
-God is holy. Worship is not casual. And Christ is our only object of true worship. He is to be the reason we rise in the morning, and He is to be worshiped daily — and all the more when we gather together as His people.  
+Did you get that? *"Many among you are weak and sick, and a number are asleep"*
+
+Do you see the continuity? From Israel in the wilderness, to the priests in the Tabernacle, to the church at Corinth — the message is the same:
+
+**God is holy. Worship is not casual. And Christ is our only object of true worship. He is to be the reason we rise in the morning, and He is to be worshiped daily — and all the more when we gather together as His people.**
+
+The writer of Hebrews reminds us:
+
+> *“…and let’s consider how to encourage one another in love and good deeds, not abandoning our own meeting together, as is the habit of some people, but encouraging one another; and all the more as you see the day drawing near.”*
+> — **Hebrews 10:24–25 (NASB2020)**
+
+So we dare not treat our “gathering together” lightly.
+
+**Application:**
+When we come before the Lord in worship, we must come with consecrated hearts. Before we sing a note, before we pray a prayer, before we hear the Word preached, before we take the bread and the cup — we must prepare ourselves.
+
+- We examine our hearts.
+- We confess our sins.
+- We set aside our distractions.
+- We remember who it is we are coming before: the Holy One, before whom the angels cover their faces.
+
+`[We will need to ask the question "how" and answer these later]`
+
+This is not casual. This is not tradition. This is worship — the eternal calling of the redeemed.
+
+So the question remains: **When you gather with God’s people, are you coming with a heart consecrated to worship Him? Or are you just going through the motions?**
 
 ---
 
-## Fellowship with Him
-
-**1 John 1:3**  
-> *"What we have seen and heard we proclaim to you also, so that you too may have fellowship with us; and indeed our fellowship is with the Father, and with His Son Jesus Christ."*  
-
-**2 Corinthians 3:18**  
-> *"But we all, with unveiled faces, looking as in a mirror at the glory of the Lord, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit."*  
+🔥 This would be a perfect spot to pause — let it hang, maybe even bow in prayer — before moving into the **Old Testament Example** section.
 
 ---
 
@@ -192,11 +205,9 @@ God is holy. Worship is not casual. And Christ is our only object of true worshi
 - Resurrection as firstfruits.  
 - We don’t move until God says to move.  
 
-[↑ Table of Contents](#table-of-contents)
-
 ---
 
-## Redeem Two Peoples (Stars and Sand)
+### Redeem Two Peoples (Stars and Sand)
 
 **Genesis 15:9-20**  
 > *So He said to him, “Bring Me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove, and a young pigeon.” Then he brought all these to Him and cut them in two, and laid each half opposite the other; but he did not cut the birds... On that day the Lord made a covenant with Abram, saying, “To your descendants I have given this land, from the river of Egypt as far as the great river, the river Euphrates.”*  
@@ -210,7 +221,5 @@ God is holy. Worship is not casual. And Christ is our only object of true worshi
 - Promise of the land.  
 - The Tabernacle pictures Christ (John 1:14).  
   - *“And the Word became flesh, and dwelt (tabernacled) among us; and we saw His glory, glory as of the only Son from the Father, full of grace and truth.”*  
-
-[↑ Table of Contents](#table-of-contents)
 
 ---
