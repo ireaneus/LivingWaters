@@ -33,20 +33,20 @@ Before reading a verse, ask:
 Who’s speaking?
 Who’s listening?
 What’s the setting?
-Context protects you from misinterpretation. 
+Context protects you from misinterpretation.
 
 TIP #2🔗 Let Scripture Interpret Scripture
 Use cross-references.
-The Bible is its own best commentary- compare related verses for clarity and consistency. 
+The Bible is its own best commentary- compare related verses for clarity and consistency.
 
 TIP #3 📚 Study Verse by Verse
 Don’t skip around.
-Work through books systematically to follow the author’s full intent and message. 
+Work through books systematically to follow the author’s full intent and message.
 
 TIP #4 ❓ Ask the Right Questions
 What does this reveal about God?
 What did it mean back then?
-How should I respond today? 
+How should I respond today?
 
 TIP #5 🙏 Be Spirit-Led, Not Emotion-Led
 Pray before you study.
