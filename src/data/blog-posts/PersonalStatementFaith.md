@@ -1,5 +1,5 @@
 ---
-title: Personal Statement of Faith
+title: Personal Statement of Faith (v1.2)
 slug: personal-statement
 publishDate: 03 Nov 2024
 description: My doctrinal statement of faith
@@ -12,6 +12,7 @@ label: article
 - [The Message of the Bible](#the-message-of-the-bible)
 - [The Glory of God, Man’s Purpose, and Divine Providence](#the-glory-of-god-mans-purpose-and-divine-providence)
 - [The Bible](#the-bible)
+- [Creation](#creation)
 - [The Nature of God](#the-nature-of-god)
 - [The Nature of God: God the Father](#the-nature-of-god-god-the-father)
 - [The Nature of God: God the Son](#the-nature-of-god-god-the-son)
@@ -26,6 +27,7 @@ label: article
 - [The Resurrection](#the-resurrection)
 - [Judgements](#judgements)
 - [The Second Coming of the Messiah](#the-second-coming-of-the-messiah)
+- [The Millennial Reign of Christ](#the-millennial-reign-of-christ)
 - [Eternity](#eternity)
 
 ---
@@ -84,6 +86,15 @@ I believe that the Bible is God’s written revelation to humanity, consisting o
 God's Word endures forever, for *"until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished"* **(Matthew 5:18)**. It is "truth," as Jesus prayed, *"Sanctify them in the truth; Your word is truth"* **(John 17:17)**. The Bible is to be interpreted literally and contextually, recognizing its historical and grammatical context, such as *"God saw all that He had made, and behold, it was very good. And there was evening and there was morning, the sixth day"* **(Genesis 1:31)**.
 
 While there is but one true interpretation of each passage, there are many applications that flow from that interpretation. Believers are called to discern the true meaning of Scripture, guided by the Holy Spirit, so that they may *"prove what the will of God is, that which is good and acceptable and perfect"* **(Romans 12:2)**.  Just as Jesus promised, *"the Spirit of truth guides believers into all truth, speaking what He hears and revealing the will of God for those who seek understanding."* **(John 16:13)**
+
+---
+
+## Creation
+
+[↑ Table of Contents](#table-of-contents)
+
+I believe that God is the Creator of all things, who made the heavens and the earth in six literal days by His Word and for His glory. *"In the beginning, God created the heavens and the earth."* **(Genesis 1:1)**. Creation was a deliberate, sovereign act of God. All things were made through Christ and for Christ.  
+*"He is the image of the invisible God, the firstborn of all creation. For by Him all things were created, both in the heavens and on earth, visible and invisible... all things have been created through Him and for Him. He is before all things, and in Him all things hold together. He is also head of the body, the church..."* **(Colossians 1:15–18)**
 
 ---
 
@@ -510,6 +521,20 @@ I believe that the Second Coming of **Jesus Christ, the Messiah**, will occur at
 Upon His return, Christ will bring **final judgment** to all nations, gathering them before Him as He sits on His glorious throne. *"When the Son of Man comes in His glory... He will sit on His glorious throne. All the nations will be gathered before Him; and He will separate them one from another."* **(Matthew 25:31-32)**. He will establish His eternal kingdom, fulfilling God’s plan of redemption. *"The kingdom of the world has become the kingdom of our Lord and of His Christ; and He will reign forever and ever."* **(Revelation 11:15)**.
 
 At the culmination of this redemptive plan, Christ will defeat all evil, casting Satan and his forces into the Lake of Fire. *"And the devil who deceived them was thrown into the lake of fire and brimstone."* **(Revelation 20:10)**. The Second Coming of Christ is the blessed hope of all believers, as we eagerly await *"the appearing of the glory of our great God and Savior, Christ Jesus."* **(Titus 2:13)**.
+
+---
+
+## The Millennial Reign of Christ
+
+[↑ Table of Contents](#table-of-contents)
+
+I believe in the literal, physical return of Jesus Christ to earth, where He will establish His kingdom and reign for a thousand years as described in the book of Revelation. This reign will fulfill God’s promises to Israel and demonstrate the righteousness of Christ over the nations.
+
+*"Then I saw thrones, and they sat on them, and judgment was given to them. And I saw the souls of those who had been beheaded because of their testimony of Jesus and because of the word of God... they came to life and reigned with Christ for a thousand years."* **(Revelation 20:4)**
+
+Jesus, the promised Son of David, will reign from Jerusalem in fulfillment of the covenant made to David and Israel. *"The Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever, and His kingdom will have no end."* **(Luke 1:32–33)**
+
+This millennial kingdom will be characterized by peace, justice, and righteousness. *"And He will judge between the nations, and will render decisions for many peoples; and they will hammer their swords into plowshares..."* **(Isaiah 2:4)**
 
 ---
 
