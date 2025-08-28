@@ -2,7 +2,7 @@
 title: Why do we come to church on Sunday
 slug: worship-part1
 publishDate: 26 Aug 2025
-description: Worship series, taught by Pastor Jack Hurley and David Haines Sermon Series on Worship
+description: David Haines Worship series, initially taught by Pastor Jack Hurley on the tabernacle.
 label: note
 ---
 
@@ -13,8 +13,13 @@ label: note
 - [Sermon Introduction (Spoken Transcript)](#sermon-introduction-spoken-transcript)
 - [Transition from Introduction](#transition-from-introduction)
 - [The New Explained What the Old Contained](#the-new-explained-what-the-old-contained)
-- [How Do We Consecrate Ourselves?](#how-do-we-consecrate-ourselves)
-- [Old Testament Example of Biblical Worship](#old-testament-example-of-biblical-worship)
+- [How do we examine ourselves?](#how-do-we-examine-ourselves)
+- [The Priests’ Consecration (Order and Actions)](#the-priests-consecration-order-and-actions)
+- [1. *“Examine yourselves”* — What does that mean?](#1-examine-yourselves--what-does-that-mean)
+- [2. How the First Four Steps of Consecration Parallel Our Justification](#2-how-the-first-four-steps-of-consecration-parallel-our-justification)
+- [3. Confessing Our Sins — Part of Consecration](#3-confessing-our-sins--part-of-consecration)
+- [4. Setting Aside Distractions — Part of Consecration](#4-setting-aside-distractions--part-of-consecration)
+- [5. Fulfillment in Christ](#5-fulfillment-in-christ)
 
 ---
 
@@ -166,75 +171,163 @@ Did you hear that? *“Many among you are weak and sick, and a number are asleep
 
 ---
 
-## How Do We Consecrate Ourselves?
+## How do we examine ourselves?
 
 This brings us to the question: *If worship is not casual, how then do we prepare ourselves to come before the Lord?*  
 
-In the Old Testament, the priests could not perform the daily rituals within God's tabernacle without consecration:  
+In the Old Testament, the priests could not perform the daily rituals within God's tabernacle without consecration:
 
-- **They washed at the laver** (Exodus 30:17–21).  
-- **They offered blood sacrifices for sin** (Leviticus 16:6).  
-- **They were anointed with oil** (Exodus 29:7).  
-- **They were clothed in holy garments** (Exodus 28:2–4).  
+## The Priests’ Consecration (Order and Actions)
 
-But remember: only the High Priest could enter the Holy of Holies, and even then, only once a year on the Day of Atonement. For us, Christ alone is that High Priest who has entered once for all into the true Holy Place in heaven (Hebrews 9:11–12, 24).
+### 1. **Washed with Water**
 
-> *"But when Christ appeared as a high priest of the good things having come, He entered through the greater and more perfect tabernacle, not made by hands, that is, not of this creation; 12and not through the blood of goats and calves, but through His own blood, He entered the holy place once for all time, having obtained eternal redemption."*  
-> — **Hebrews 9:11-12**
-> *"For Christ did not enter a holy place made by hands, a mere copy of the true one, but into heaven itself, now to appear in the presence of God for us;"*  
-> — **Hebrews 9:24**
+- **Action**: Aaron and his sons were brought to the entrance of the tent of meeting and washed with water.
+- **Purpose**: This outward washing symbolized cleansing and readiness to enter God’s service.
+- **Scripture**:
 
-In the New Testament, each part of the consecration finds its fulfillment in Christ and our salvation:  
-
-- **Washed (Chosen and Cleansed)** — *“…He chose us in Him before the foundation of the world, that we would be holy and blameless before Him.”* — **Ephesians 1:4 (NASB2020)**  
-- **Blood (Justified by Christ’s Sacrifice)** — *“…in Him we have redemption through His blood, the forgiveness of our wrongdoings, according to the riches of His grace.”* — **Ephesians 1:7 (NASB2020)**  
-- **Anointed (Sealed with the Spirit)** — *“…you were sealed in Him with the Holy Spirit of the promise, who is a first installment of our inheritance…”* — **Ephesians 1:13–14 (NASB2020)**  
-- **Clothed (Righteous in Christ)** — *“…put on the new self, which in the likeness of God has been created in righteousness and holiness of the truth.”* — **Ephesians 4:24 (NASB2020)**  
-
-So just as the priests had to consecrate themselves before serving, so too must we:  
-
-- We **examine our hearts** (1 Corinthians 11:28).  
-- We **confess our sins** (1 John 1:9).  
-- We **set aside our distractions** (Hebrews 12:1–2).  
-- And we worship not in our own merit, but **clothed in Christ’s righteousness**.  
-
-This is how we consecrate ourselves as a holy priesthood, made acceptable to God through Jesus Christ (1 Peter 2:5).  
+  > *“Then you shall bring Aaron and his sons to the entrance of the tent of meeting and wash them with water.”*
+  > — **Exodus 29:4; cf. Exodus 40:12**
 
 ---
 
-🔥 This would be a perfect spot to pause — let it hang, maybe even bow in prayer — before moving into the **Old Testament Example** section.
+### 2. **Clothed in Priestly Garments**
+
+- **Action**: The High Priest was dressed in the holy garments: tunic, robe, ephod, breastpiece, sash, turban, and crown. The sons of Aaron were clothed in tunics, sashes, and caps.
+- **Purpose**: To set them apart visibly as holy servants of God.
+- **Scripture**:
+
+  > *“Then you shall take the garments, and put on Aaron the tunic and the robe of the ephod, and the ephod and the breastpiece, and wrap him with the skillfully woven band of the ephod.”*
+  > — **Exodus 29:5**
+  > *“You shall clothe Aaron’s sons with tunics; and you shall wrap sashes around them… so that they may have the priesthood by a permanent statute.”*
+  > — **Exodus 29:8–9**
 
 ---
 
-## Old Testament Example of Biblical Worship
+### 3. **Anointed with Oil**
 
-- Israel’s High Priest entered the Holy of Holies into the Presence of God.  
-- The Tabernacle illustration:  
-  - Gate → Altar → 2nd Curtain → Holy Place.  
-  - Outer Court → Holy Place → Holy of Holies.  
-  - Ark of the Covenant: manna, rod that budded, tablets.  
-  - Lampstand, showbread, altar of incense.  
-- Only one gate into the outer court.  
-- John 14:6 *"I am the Way, the Truth, and the Life. No one comes to the Father but by Me."*  
-- The curtain veil torn (Matthew 27:50-51) — showing Jesus is our High Priest.  
-- Resurrection as firstfruits.  
-- We don’t move until God says to move.  
+- **Action**: Moses poured anointing oil on Aaron’s head; the tabernacle and all its furniture were also anointed.
+- **Purpose**: This symbolized the consecration of the priest and the Spirit’s empowerment for service.
+- **Scripture**:
+
+  > *“Then you shall take the anointing oil and pour it on his head, and anoint him.”*
+  > — **Exodus 29:7**
+  > *“Then Moses took the anointing oil and anointed the tabernacle and everything that was in it… He poured some of the anointing oil on Aaron’s head and anointed him, to consecrate him.”*
+  > — **Leviticus 8:10–12**
 
 ---
 
-### Redeem Two Peoples (Stars and Sand)
+### 4. **Sin Offering**
 
-**Genesis 15:9-20**  
-> *So He said to him, “Bring Me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove, and a young pigeon.” Then he brought all these to Him and cut them in two, and laid each half opposite the other; but he did not cut the birds... On that day the Lord made a covenant with Abram, saying, “To your descendants I have given this land, from the river of Egypt as far as the great river, the river Euphrates.”*  
+- **Action**: A bull was sacrificed as a sin offering for Aaron and his sons. Its blood was applied to the altar, and the rest of the animal burned outside the camp.
+- **Purpose**: To atone for their sins before they could serve.
+- **Scripture**:
 
-- Heifer = sin offering.  
-- Female goat = sins imputed (Leviticus 16).  
-- Ram = substitution.  
-- Turtledove = peace.  
-- Pigeon = singleness of purpose.  
-- God made covenant with Himself on Abram’s behalf.  
-- Promise of the land.  
-- The Tabernacle pictures Christ (John 1:14).  
-  - *“And the Word became flesh, and dwelt (tabernacled) among us; and we saw His glory, glory as of the only Son from the Father, full of grace and truth.”*  
+  > *“Then you shall take the bull of the sin offering, and Aaron and his sons shall lay their hands on the head of the bull. And you shall slaughter the bull before the Lord at the doorway of the tent of meeting.”*
+  > — **Exodus 29:10–11**
 
 ---
+
+### 5. **Burnt Offering**
+
+- **Action**: A ram was sacrificed as a burnt offering.
+- **Purpose**: Signifying total dedication and consecration to the Lord.
+- **Scripture**:
+
+  > *“You shall also take the one ram, and Aaron and his sons shall lay their hands on the head of the ram; and you shall slaughter the ram, and you shall take its blood and sprinkle it around on the altar.”*
+  > — **Exodus 29:15–16**
+
+---
+
+### 6. **Ordination (Ram of Consecration)**
+
+- **Action**: A second ram (the ram of ordination) was sacrificed. Blood was applied to Aaron and his sons — to the right ear, the thumb of the right hand, and the big toe of the right foot. Portions of the ram and unleavened bread were waved before the Lord and then eaten by the priests.
+- **Purpose**: To symbolize consecration of their whole person — hearing (ear), serving (hand), and walking (foot).
+- **Scripture**:
+
+  > *“Then you shall slaughter the ram, and take some of its blood and put it on the lobe of Aaron’s right ear and on the lobes of his sons’ right ears, and on the thumbs of their right hands, and on the big toes of their right feet; and sprinkle the rest of the blood around on the altar.”*
+  > — **Exodus 29:20; cf. Leviticus 8:22–24**
+
+---
+
+### 7. **Continual Burnt Offering and Seven Days of Consecration**
+
+- **Action**: The process was repeated for seven days, with daily offerings.
+- **Purpose**: To fully consecrate them for priestly service.
+- **Scripture**:
+
+  > *“You shall take the ram of ordination and boil its flesh… Aaron and his sons shall eat the flesh of the ram and the bread that is in the basket… Thus you shall do to Aaron and to his sons, in accordance with everything that I have commanded you; you shall ordain them through seven days.”*
+  > — **Exodus 29:31–35**
+
+---
+
+## 1. *“Examine yourselves”* — What does that mean?
+
+Paul uses the phrase in **1 Corinthians 11:28**:  
+
+> *“But a person must examine himself, and in so doing he is to eat of the bread and drink of the cup.”* — **NASB2020**  
+
+And again in **2 Corinthians 13:5**:  
+
+> *“Test yourselves to see if you are in the faith; examine yourselves! Or do you not recognize this about yourselves, that Jesus Christ is in you—unless indeed you fail the test?”* — **NASB2020**  
+
+---
+
+## 2. How the First Four Steps of Consecration Parallel Our Justification
+
+The priests in the Old Testament could not minister until they were consecrated by washing, clothing, anointing, and blood. These were shadows of the reality fulfilled in Christ for every believer.  
+
+1. **Washing with Water**  
+   - **OT Priests**: Aaron and his sons were washed with water before service (Exodus 29:4).  
+   - **NT Saints**: Jesus washed His disciples’ feet, saying,  
+     > *“Then He poured water into the basin, and began washing the disciples’ feet and wiping them with the towel which He had tied around Himself. 6So He came to Simon Peter. He said to Him, “Lord, You are washing my feet?” 7Jesus answered and said to him, “What I am doing, you do not realize right now, but you will understand later.” 8Peter said to Him, “Never shall You wash my feet!” Jesus answered him, “If I do not wash you, you have no place with Me.” 9Simon Peter said to Him, “Lord, then wash not only my feet, but also my hands and my head!” 10Jesus said to him, “He who has bathed needs only to wash his feet; otherwise he is completely clean. And you are clean—but not all of you.” 11For He knew the one who was betraying Him; it was for this reason that He said, “Not all of you are clean.” 12Then, when He had washed their feet, and taken His garments and reclined at the table again, He said to them, “Do you know what I have done for you? 13You call Me ‘Teacher’ and ‘Lord’; and you are correct, for so I am. 14So if I, the Lord and the Teacher, washed your feet, you also ought to wash one another’s feet. 15For I gave you an example, so that you also would do just as I did for you.”* — **John 13:6-15 (NASB2020)**  
+
+2. **Clothed in Garments**  
+   - **OT Priests**: Aaron was clothed in holy garments to minister (Exodus 29:5–9).  
+   - **NT Saints**: We are clothed in Christ Himself:  
+     > *“For all of you who were baptized into Christ have clothed yourselves with Christ.”* — **Galatians 3:27 (NASB2020)**  
+     > *“…they have washed their robes and made them white in the blood of the Lamb.”* — **Revelation 7:14 (NASB2020)**  
+
+3. **Anointed with Oil**  
+   - **OT Priests**: Oil was poured on Aaron’s head as a sign of consecration (Exodus 29:7).  
+   - **NT Saints**: We are sealed with the Holy Spirit:  
+     > *“…you were sealed in Him with the Holy Spirit of the promise, who is a first installment of our inheritance…”* — **Ephesians 1:13–14 (NASB2020)**  
+
+4. **Blood of the Sacrifice**  
+   - **OT Priests**: Blood was shed on behalf of the priests and placed on altar, ear, hand, and foot (Exodus 29:10–14, 20–21).  
+   - **NT Saints**: We are justified by the blood of Christ:  
+     > *“…in Him we have redemption through His blood, the forgiveness of our wrongdoings, according to the riches of His grace.”* — **Ephesians 1:7 (NASB2020)**  
+     > *“…having now been justified by His blood, we shall be saved from the wrath of God through Him.”* — **Romans 5:9 (NASB2020)**  
+
+---
+
+## 3. Confessing Our Sins — Part of Consecration
+
+- **OT Priests**: The priest laid his hands on the sin offering, confessing sins and symbolically transferring guilt to the sacrifice (Leviticus 4:4).  
+- **NT Saints**: We confess directly to Christ, the true sacrifice:  
+  > *“If we confess our sins, He is faithful and righteous, so that He will forgive us our sins and cleanse us from all unrighteousness.”* — **1 John 1:9 (NASB2020)**  
+
+---
+
+## 4. Setting Aside Distractions — Part of Consecration
+
+Yes — distractions flow from the flesh, and they hinder true worship.  
+
+Paul exhorts:  
+> *“…let’s rid ourselves of every obstacle and the sin which so easily entangles us, and let’s run with endurance the race that is set before us, looking only at Jesus, the originator and perfecter of the faith.”* — **Hebrews 12:1–2 (NASB2020)**  
+
+---
+
+## 5. Fulfillment in Christ  
+
+The priests’ consecration was only a shadow. Our consecration is fulfilled in Christ:  
+
+- Washed by His Word and Spirit.  
+- Clothed in His righteousness.  
+- Anointed and sealed with His Spirit.  
+- Justified by His blood.  
+
+So when Paul says *“Examine yourselves”*, he is not calling us to self-reliance, but to see if we are truly in Christ — resting in what He has already done.  
+
+> *“…you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer spiritual sacrifices that are acceptable to God through Jesus Christ.”* — **1 Peter 2:5 (NASB2020)**  
+
+📌 True consecration for worship is not found in ourselves — it is found in Christ alone.
