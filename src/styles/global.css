@@ -1,7 +1,13 @@
+@media (max-width: 800px) {
+  .content {
+    max-width: 98vw;
+  }
+}
 /* Ensure markdown and content containers inherit the background color */
 .markdown-body,
 .content {
   background-color: var(--background-body) !important;
+  max-width: 800px;
 }
 
 :root {
@@ -227,7 +233,7 @@ td {
 
 .container {
   margin: 0 auto;
-  max-width: 42em;
+  max-width: 50em;
   width: 100%;
 }
 
