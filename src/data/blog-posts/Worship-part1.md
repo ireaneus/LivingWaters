@@ -9,7 +9,7 @@ label: note
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Worship Part 1 - Introduction](#worship-part-1---introduction)
+- [Worship Part 1 - Who are the True Worshippers?](#worship-part-1---who-are-the-true-worshippers)
 - [True Biblical Worship Revealed - Spirit and Truth](#true-biblical-worship-revealed---spirit-and-truth)
 - [The New Explained What the Old Contained](#the-new-explained-what-the-old-contained)
 - [What does True Biblical Worship not look like?](#what-does-true-biblical-worship-not-look-like)
@@ -20,7 +20,7 @@ label: note
 
 ---
 
-## Worship Part 1 - Introduction
+## Worship Part 1 - Who are the True Worshippers?
 
 *(pause, look at the congregation)*  
 
