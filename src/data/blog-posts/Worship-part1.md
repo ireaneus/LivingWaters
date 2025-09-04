@@ -96,7 +96,7 @@ Then the twenty-four elders — representing the whole church, the redeemed of a
 
 So, if you truly believe that the chief end of man is to glorify God and enjoy Him forever, then biblical worship is not just what you *ought* to be doing — it is what you should *long* to be doing.  
 
-The question we need to ask is: *What is Biblical Worship?*  
+The question we need to ask is: *What is True Biblical Worship?*  
 
 *(pause, then directly to the heart)*  
 
@@ -114,7 +114,7 @@ Then you must ask yourself today:
 
 ## The New Explained What the Old Contained
 
-Before we can answer *how* to worship, we first need to know *how to read our Bibles*.  
+But efore we begin to answer that question, we first need to know *how to read our Bibles*.  
 
 The Bible is one story. The Old Testament gives us patterns, pictures, and shadows, while the New Testament reveals their meaning and fulfillment in Christ.  
 
@@ -220,8 +220,8 @@ Before any priest could serve in the Tabernacle, he had to be consecrated. God c
 The Old Testament priests were consecrated in seven steps before serving in God’s presence. In the New Testament, each of these finds its fulfillment in Christ’s finished work for His saints. At new birth, the believer is fully consecrated — not by our works, but by Christ on our behalf.
 
 1. **Washed with Water**  
-   > *“Jesus answered him, ‘If I do not wash you, you have no place with Me… The one who has bathed needs only to wash his feet, otherwise he is completely clean; and you are clean.’”*  
-   — **John 13:8, 10 (NASB2020)**  
+   > *“Then He poured water into the basin, and began washing the disciples’ feet and wiping them with the towel which He had tied around Himself. So He came to Simon Peter. He said to Him, “Lord, You are washing my feet?” Jesus answered and said to him, “What I am doing, you do not realize right now, but you will understand later.” Peter said to Him, “Never shall You wash my feet!” Jesus answered him, “If I do not wash you, you have no place with Me.” Simon Peter said to Him, “Lord, then wash not only my feet, but also my hands and my head!” Jesus said to him, “He who has bathed needs only to wash his feet; otherwise he is completely clean. And you are clean.’”*  
+   — **John 13:5-10 (NASB2020)**  
 
    > *“…so that He might sanctify her, having cleansed her by the washing of water with the word…”*  
    — **Ephesians 5:26 (NASB2020)**  
@@ -280,9 +280,6 @@ The Old Testament priests were consecrated in seven steps before serving in God�
    > *“For by one offering He has perfected for all time those who are sanctified.”*  
    — **Hebrews 10:14 (NASB2020)**  
 
-   > *“Therefore I urge you, brothers and sisters, … to present your bodies as a living and holy sacrifice.”*  
-   — **Romans 12:1 (NASB2020)**  
-
    > *“Through Him then let’s continually offer up a sacrifice of praise to God, that is, the fruit of lips praising His name.”*  
    — **Hebrews 13:15 (NASB2020)**  
 
@@ -304,7 +301,10 @@ In the same way, the New Testament believer is **fully consecrated at new birth*
 - Consecrated in ear, hand, and foot.  
 - Made complete forever by His one sacrifice.  
 
-📌 This means when we gather, we don’t come as casual attenders — we come as a **holy priesthood**, already consecrated in Christ, offering spiritual sacrifices that are acceptable to God (1 Peter 2:5).  
+📌 This means when we gather, we don’t come as casual attenders — we come as a **holy priesthood**, 
+
+> *"And coming to Him as to a living stone which has been rejected by people, but is choice and precious in the sight of God, you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer spiritual sacrifices that are acceptable to God through Jesus Christ."* **(1 Peter 2:4-5)**.  
+> *"and He made us into a kingdom, priests to His God and Father—to Him be the glory and the dominion forever and ever. Amen."* **(Revelation 1:6)**
 
 ---
 
@@ -314,10 +314,10 @@ So what about Paul’s warnings to “examine yourselves” (1 Corinthians 11:28
 
 These are not **requirements to make ourselves worthy** — Christ has already consecrated us fully. Instead, they are **acts of preparation** that flow out of what Christ has done:  
 
-- **Examine yourselves** → not to see if we can earn our way in, but to remember: *Am I walking in Christ’s cleansing, His Spirit, His righteousness?* (2 Corinthians 13:5).  
-- **Confess your sins** → the priest confessed over the bull; we confess ours knowing He is faithful to forgive (1 John 1:9).  
-- **Rid distractions** → set aside weights that entangle so we can focus wholly on Christ (Hebrews 12:1–2).  
-- **Prayer** → consecrates our minds and hearts as we prepare to enter worship (Philippians 4:6–7).  
+- **Examine yourselves** → not to see if we can earn our way in, but to remember: *Test yourselves to see if you are in the faith; examine yourselves! Or do you not recognize this about yourselves, that Jesus Christ is in you—unless indeed you fail the test?* **(2 Corinthians 13:5)**.  
+- **Confess your sins** → the priest confessed over the bull; *"If we confess our sins, He is faithful and righteous, so that He will forgive us our sins and cleanse us from all unrighteousness."* **(1 John 1:9)**.  
+- **Rid distractions** → *"Therefore, since we also have such a great cloud of witnesses surrounding us, let’s rid ourselves of every obstacle and the sin which so easily entangles us, and let’s run with endurance the race that is set before us, looking only at Jesus, the originator and perfecter of the faith, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God."* **(Hebrews 12:1–2)**.  
+- **Prayer** → consecrates our minds and hearts as we prepare to enter worship *"Do not be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God. 7And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus."* **(Philippians 4:6–7)**.  
 
 📌 These are the practical expressions of a heart that knows it has already been consecrated in Christ.  
 
