@@ -53,38 +53,38 @@ This is consistent with Revelation’s **heavenly overview** and the prophets’
 
 ### **1. Jesus’ word is enough to destroy anything**
 
-* **Hebrews 4:12** – *“For the word of God is living and active and sharper than any two-edged sword…”*
-* **Revelation 19:15** – *“From His mouth comes a sharp sword, so that with it He may strike down the nations…”*
+- **Hebrews 4:12** – *“For the word of God is living and active and sharper than any two-edged sword…”*
+- **Revelation 19:15** – *“From His mouth comes a sharp sword, so that with it He may strike down the nations…”*
 
 ### **2. His word holds everything together**
 
-* **Colossians 1:16–17** – *“All things have been created through Him and for Him. He is before all things, and in Him all things hold together.”*
-* **Hebrews 1:3** – *“…He upholds all things by the word of His power.”*
+- **Colossians 1:16–17** – *“All things have been created through Him and for Him. He is before all things, and in Him all things hold together.”*
+- **Hebrews 1:3** – *“…He upholds all things by the word of His power.”*
 
 ### **3. His word spoke Creation into existence**
 
-* **Genesis 1:3** – *“Then God said, ‘Let there be light’; and there was light.”*
-* **John 1:1, 3** – *“In the beginning was the Word… All things came into being through Him, and apart from Him nothing came into being that has come into being.”*
+- **Genesis 1:3** – *“Then God said, ‘Let there be light’; and there was light.”*
+- **John 1:1, 3** – *“In the beginning was the Word… All things came into being through Him, and apart from Him nothing came into being that has come into being.”*
 
 ### **4. Antichrist destroyed by Christ’s word**
 
-* **2 Thessalonians 2:8** – *“Then that lawless one will be revealed, whom the Lord will eliminate with the breath of His mouth and bring to an end by the appearance of His coming.”*
-* **Isaiah 11:4** – *“…He will strike the earth with the rod of His mouth, and with the breath of His lips He will slay the wicked.”*
+- **2 Thessalonians 2:8** – *“Then that lawless one will be revealed, whom the Lord will eliminate with the breath of His mouth and bring to an end by the appearance of His coming.”*
+- **Isaiah 11:4** – *“…He will strike the earth with the rod of His mouth, and with the breath of His lips He will slay the wicked.”*
 
 ### **5. His armies perish the same way / battle over quickly**
 
-* **Revelation 19:21** – *“And the rest were killed with the sword which came from the mouth of Him who sat on the horse, and all the birds were filled with their flesh.”*
-* **Zechariah 14:12** – *“Now this will be the plague with which the Lord will strike all the peoples who have gone to war against Jerusalem: their flesh will rot while they stand on their feet, their eyes will rot in their sockets, and their tongue will rot in their mouth.”*
+- **Revelation 19:21** – *“And the rest were killed with the sword which came from the mouth of Him who sat on the horse, and all the birds were filled with their flesh.”*
+- **Zechariah 14:12** – *“Now this will be the plague with which the Lord will strike all the peoples who have gone to war against Jerusalem: their flesh will rot while they stand on their feet, their eyes will rot in their sockets, and their tongue will rot in their mouth.”*
 
 ### **6. Armageddon, Age of the Gentiles, Tribulation end**
 
-* **Revelation 19:19** – *“And I saw the beast and the kings of the earth and their armies assembled to make war against Him who sat on the horse, and against His army.”*
-* **Daniel 2:44** – *“In the days of those kings the God of heaven will set up a kingdom which will never be destroyed… it will put an end to all these kingdoms, but it will itself endure forever.”*
+- **Revelation 19:19** – *“And I saw the beast and the kings of the earth and their armies assembled to make war against Him who sat on the horse, and against His army.”*
+- **Daniel 2:44** – *“In the days of those kings the God of heaven will set up a kingdom which will never be destroyed… it will put an end to all these kingdoms, but it will itself endure forever.”*
 
 ### **7. The earth finally at rest from war**
 
-* **Isaiah 2:4** – *“Nation will not lift up sword against nation, and never again will they learn war.”*
-* **Micah 4:3–4** – *“They will hammer their swords into plowshares… each of them will sit under his vine and under his fig tree, with no one to make them afraid.”*
+- **Isaiah 2:4** – *“Nation will not lift up sword against nation, and never again will they learn war.”*
+- **Micah 4:3–4** – *“They will hammer their swords into plowshares… each of them will sit under his vine and under his fig tree, with no one to make them afraid.”*
 
 ---
 

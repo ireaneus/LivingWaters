@@ -33,7 +33,7 @@ In Chapter 19 we read of Christ's climactic return to earth, accompanied by His 
 > 18. *so that you may eat the flesh of kings and the flesh of commanders and the flesh of mighty men and the flesh of horses and of those who sit on them and the flesh of all men, both free men and slaves, and small and great.”*  
 > 19. *And I saw the beast and the kings of the earth and their armies assembled to make war against Him who sat on the horse and against His army."*
 
-Our last study ended with the **Saving of Israel**, when God turns His covenant people back to Himself. 
+Our last study ended with the **Saving of Israel**, when God turns His covenant people back to Himself.
 
 But before Christ appears from glory, Scripture shows the **Antichrist’s final move**: gathering his armies against Jerusalem. The prophets describe this conflict in striking detail.
 
@@ -43,9 +43,9 @@ But before Christ appears from glory, Scripture shows the **Antichrist’s final
 
 > **Daniel 11:45** – *“He will pitch the tents of his royal pavilion between the seas and the beautiful holy mountain; yet he will come to his end, and no one will help him.”*
 
-* “The seas” = the **Mediterranean (Great Sea)**.
-* “The beautiful holy mountain” = **Mount Zion/Jerusalem**.
-* This places the Antichrist’s headquarters directly **west of Jerusalem**, preparing for his final assault.
+- “The seas” = the **Mediterranean (Great Sea)**.
+- “The beautiful holy mountain” = **Mount Zion/Jerusalem**.
+- This places the Antichrist’s headquarters directly **west of Jerusalem**, preparing for his final assault.
 
 ---
 
@@ -55,9 +55,9 @@ But before Christ appears from glory, Scripture shows the **Antichrist’s final
 > **Zechariah 14:2** – *“For I will gather all the nations against Jerusalem to battle, and the city will be taken…”*  
 > **Luke 21:20** – *“But when you see Jerusalem surrounded by armies, then recognize that her desolation is near.”*
 
-* The Antichrist gathers **all nations** for one final push.
-* Jerusalem is surrounded, and the city suffers greatly.
-* Yet God promises that the **siege will not be complete**, for Christ Himself will intervene.
+- The Antichrist gathers **all nations** for one final push.
+- Jerusalem is surrounded, and the city suffers greatly.
+- Yet God promises that the **siege will not be complete**, for Christ Himself will intervene.
 
 ---
 
@@ -65,11 +65,11 @@ But before Christ appears from glory, Scripture shows the **Antichrist’s final
 
 With the devastation of the Tribulation, technology is broken down and **warfare returns to a primitive style**. Prophets describe it with **horses, siege ramps, and swords**:
 
-* **Isaiah 29:3** – *“I will camp against you encircling you, and I will set siegeworks against you, and I will raise up battle towers against you.”*
-* **Ezekiel 4:2** – *“Lay siege… build a siege wall, raise up a ramp, pitch camps, and place battering rams against it all around.”*
-* **Ezekiel 38:4** – *“I will bring you out, and all your army, horses and horsemen, all of them magnificently dressed…”*
-* **Zechariah 14:15** – *"So also like this plague will be the plague on the horse, the mule, the camel, the donkey and all the cattle that will be in those camps."*.
-* **Revelation 19:18** – speaks of the “flesh of horses and of those who sit on them,” confirming **cavalry imagery** at Armageddon.
+- **Isaiah 29:3** – *“I will camp against you encircling you, and I will set siegeworks against you, and I will raise up battle towers against you.”*
+- **Ezekiel 4:2** – *“Lay siege… build a siege wall, raise up a ramp, pitch camps, and place battering rams against it all around.”*
+- **Ezekiel 38:4** – *“I will bring you out, and all your army, horses and horsemen, all of them magnificently dressed…”*
+- **Zechariah 14:15** – *"So also like this plague will be the plague on the horse, the mule, the camel, the donkey and all the cattle that will be in those camps."*.
+- **Revelation 19:18** – speaks of the “flesh of horses and of those who sit on them,” confirming **cavalry imagery** at Armageddon.
 
 This demonstrates the **literal fulfillment** of Old Testament prophecies of siege warfare.
 
@@ -79,9 +79,9 @@ This demonstrates the **literal fulfillment** of Old Testament prophecies of sie
 
 Even in this last battle, the **ancient walls of Jerusalem** play a defensive role:
 
-* **Lamentations 2:8-9** – *“The Lord determined to destroy the wall of the daughter of Zion… Her gates have sunk into the ground.”*
-* **Nahum 3:13** – *“…the gates of your land are opened wide to your enemies.”*
-* **Zechariah 2:5** – *“I will be a wall of fire around her, and I will be the glory in her midst.”*
+- **Lamentations 2:8-9** – *“The Lord determined to destroy the wall of the daughter of Zion… Her gates have sunk into the ground.”*
+- **Nahum 3:13** – *“…the gates of your land are opened wide to your enemies.”*
+- **Zechariah 2:5** – *“I will be a wall of fire around her, and I will be the glory in her midst.”*
 
 Though **stone walls provide temporary defense**, the **true protection of Israel is the Lord Himself**.
 
@@ -136,9 +136,9 @@ Part of the Antichrist's forces have arrived in Petra (Bozrah) intent on hunting
 
 > **Micah 2:12** – *“I will certainly assemble all of you, Jacob… like sheep in the fold.”*
 
-* The “woman” = Israel.
-* God provides a **prepared place** of safety.
-* Micah hints at a **sheepfold** (Petra = natural rock fortress).
+- The “woman” = Israel.
+- God provides a **prepared place** of safety.
+- Micah hints at a **sheepfold** (Petra = natural rock fortress).
 
 ---
 
@@ -146,9 +146,9 @@ Part of the Antichrist's forces have arrived in Petra (Bozrah) intent on hunting
 
 > **Jeremiah 49:13** – *“…Bozrah will become an object of horror, a disgrace, a ruin, and a curse.”*
 
-* Bozrah = capital city of Edom, often linked with Petra.
-* Antichrist’s forces move in to crush the Jewish remnant.
-* Instead of victory, **they become the target of God’s wrath**.
+- Bozrah = capital city of Edom, often linked with Petra.
+- Antichrist’s forces move in to crush the Jewish remnant.
+- Instead of victory, **they become the target of God’s wrath**.
 
 ---
 
@@ -158,8 +158,8 @@ Part of the Antichrist's forces have arrived in Petra (Bozrah) intent on hunting
 
 > **Isaiah 34:3** – *“…the mountains will be drenched with their blood.”*
 
-* The armies are described as a **sacrifice** offered up by God.
-* Their blood stains the mountains around Petra.
+- The armies are described as a **sacrifice** offered up by God.
+- Their blood stains the mountains around Petra.
 
 ---
 
@@ -169,9 +169,9 @@ Part of the Antichrist's forces have arrived in Petra (Bozrah) intent on hunting
 
 > **Isaiah 63:3, 5** – *“I have trodden the wine trough alone… I looked, but there was no one to help; so My own arm brought salvation to Me.”*
 
-* Jesus returns **with His armies behind Him**.
-* Yet **He fights alone** — salvation is His work.
-* His garments are stained with the blood of judgment.
+- Jesus returns **with His armies behind Him**.
+- Yet **He fights alone** — salvation is His work.
+- His garments are stained with the blood of judgment.
 
 ---
 
@@ -183,8 +183,8 @@ Part of the Antichrist's forces have arrived in Petra (Bozrah) intent on hunting
 
 > **Revelation 19:21** – *“The rest were killed with the sword… and all the birds were filled with their flesh.”*
 
-* Complete destruction of the Antichrist’s armies at Bozrah/Petra.
-* The **remnant is delivered**, fulfilling God’s covenant promises.
+- Complete destruction of the Antichrist’s armies at Bozrah/Petra.
+- The **remnant is delivered**, fulfilling God’s covenant promises.
 
 ---
 
