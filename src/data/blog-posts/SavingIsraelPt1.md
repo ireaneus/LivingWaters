@@ -4,10 +4,13 @@ slug: israel-saving-part1
 publishDate: 04 Sept 2025
 description: Armageddon leads Israel to repentance
 label: Article
---------------
+---
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Chapter 19 - The Coming of Christ](#chapter-19---the-coming-of-christ)
 - [Antichrist’s Position Between the Seas and the Holy Mountain](#antichrists-position-between-the-seas-and-the-holy-mountain)
 - [Stage III - The Siege of Jerusalem](#stage-iii---the-siege-of-jerusalem)
 - [Warfare in the Last Days](#warfare-in-the-last-days)

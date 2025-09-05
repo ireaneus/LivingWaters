@@ -1,20 +1,19 @@
 ---
-
 title: The Saving of Israel Part 2
 slug: israel-saving-part2
 publishDate: 05 Sept 2025
 description: Armageddon leads Israel to repentance
 label: Article
---------------
+---
 
 ## Table of Contents
 
-* [Table of Contents](#table-of-contents)
-* [Stage V - Jesus Arrives at Jerusalem](#stage-v---jesus-arrives-at-jerusalem)
-* [Jesus reaches Jerusalem](#jesus-reaches-jerusalem)
-* [By the Word of His Power](#by-the-word-of-his-power)
-* [The demise of the Antichrist](#the-demise-of-the-antichrist)
-* [The End of the Age](#the-end-of-the-age)
+- [Table of Contents](#table-of-contents)
+- [Stage V - Jesus Arrives at Jerusalem](#stage-v---jesus-arrives-at-jerusalem)
+- [Jesus reaches Jerusalem](#jesus-reaches-jerusalem)
+- [By the Word of His Power](#by-the-word-of-his-power)
+- [The demise of the Antichrist](#the-demise-of-the-antichrist)
+- [The End of the Age](#the-end-of-the-age)
 
 ## Stage V - Jesus Arrives at Jerusalem
 
