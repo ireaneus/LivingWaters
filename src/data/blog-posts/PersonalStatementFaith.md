@@ -22,6 +22,7 @@ label: article
 - [The Nature of Man](#the-nature-of-man)
 - [About Sin](#about-sin)
 - [Salvation](#salvation)
+- [Substitutionary Atonement](#substitutionary-atonement)
 - [The Church](#the-church)
 - [Heaven and Hell](#heaven-and-hell)
 - [The Resurrection](#the-resurrection)
@@ -389,6 +390,28 @@ Repentance is not a work that earns salvation but the evidence of a heart transf
 ### The Result of Salvation
 
 Salvation results in a restored relationship with God, adoption as His children, and the promise of eternal life. Through faith, believers are united with Christ, indwelt by the Holy Spirit, and sealed for eternity. *"For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life."* **(John 3:16)**. The ultimate purpose of salvation is the glory of God alone, showcasing His grace, love, and power. *"To Him who is able to keep you from stumbling... to the only God our Savior, through Jesus Christ our Lord, be glory."* **(Jude 1:24-25)**.
+
+---
+
+## Substitutionary Atonement
+
+[↑ Table of Contents](#table-of-contents)
+
+I believe that Jesus Christ, the sinless Son of God, willingly bore the penalty of our sin in our place—satisfying the justice of God, turning away His righteous wrath, and securing our justification. This is substitutionary (He died *for us*) and penal (He bore the *penalty* due to us), so that we are saved by grace alone through faith alone in Christ alone.
+
+*"But He was pierced for our transgressions, He was crushed for our iniquities; the chastening for our well-being fell upon Him, and by His wounds we are healed. All of us like sheep have gone astray, each of us has turned to his own way; but the Lord has caused the iniquity of us all to fall on Him."* **(Isaiah 53:5–6)**
+
+*"For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many."* **(Mark 10:45)**
+
+*"He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him."* **(2 Corinthians 5:21)**
+
+*"Being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith… so that He would be just and the justifier of the one who has faith in Jesus."* **(Romans 3:24–26)**
+
+*"He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed."* **(1 Peter 2:24)**
+
+**Therefore:** Christ’s atoning death fully satisfied divine justice, accomplished redemption once for all, and secured the imputation of His righteousness to believers. We do not contribute any merit; we receive this salvation by faith, to the glory of God alone.
+
+*See also:* **John 1:29; Romans 5:8–9; Galatians 3:13; Hebrews 9:22; 10:10–14; 1 John 2:2; 4:10.**
 
 ---
 
