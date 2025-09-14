@@ -301,7 +301,7 @@ In the same way, the New Testament believer is **fully consecrated at new birth*
 - Consecrated in ear, hand, and foot.  
 - Made complete forever by His one sacrifice.  
 
-📌 This means when we gather, we don’t come as casual attenders — we come as a **holy priesthood**, 
+📌 This means when we gather, we don’t come as casual attenders — we come as a **holy priesthood**,
 
 > *"And coming to Him as to a living stone which has been rejected by people, but is choice and precious in the sight of God, you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer spiritual sacrifices that are acceptable to God through Jesus Christ."* **(1 Peter 2:4-5)**.  
 > *"and He made us into a kingdom, priests to His God and Father—to Him be the glory and the dominion forever and ever. Amen."* **(Revelation 1:6)**

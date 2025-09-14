@@ -30,6 +30,10 @@ But remember: only the High Priest could enter the Holy of Holies, and even then
 
 ---
 
+### Brazen Alter
+
+Exodus 27 - 28
+
 ### Redeem Two Peoples (Stars and Sand)
 
 **Genesis 15:9-20**  

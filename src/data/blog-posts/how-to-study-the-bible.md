@@ -8,17 +8,14 @@ label: note
 
 ## Table of Contents
 
-| Section                              | Description                                                  |
-|--------------------------------------|--------------------------------------------------------------|
-| [Purpose of Bible Study](#purpose-of-bible-study) | Why careful study matters                                     |
-| [Core Principles of Interpretation](#core-principles-of-interpretation) | Observation, interpretation, evaluation, and correlation      |
-| [Four Rules of Hermeneutics](#four-rules-of-hermeneutics) | Golden rule, double reference, recurrence, and context        |
-| [New Testament Use of Old Testament](#new-testament-use-of-old-testament) | Fulfillment, typology, and summation                          |
-| [Messianic Prophecy](#messianic-prophecy)           | Categories and their fulfillment in Christ                    |
-| [Interpretive Examples](#interpretive-examples)     | NT quotations and cross-references                            |
-| [Footnotes](#footnotes)                             | Source documentation                                          |
-
----
+- [Table of Contents](#table-of-contents)
+- [Purpose of Bible Study](#purpose-of-bible-study)
+- [Core Principles of Interpretation](#core-principles-of-interpretation)
+- [Four Rules of Hermeneutics](#four-rules-of-hermeneutics)
+- [New Testament Use of Old Testament](#new-testament-use-of-old-testament)
+- [Messianic Prophecy](#messianic-prophecy)
+- [Interpretive Examples](#interpretive-examples)
+- [Footnotes](#footnotes)
 
 ## Purpose of Bible Study
 
