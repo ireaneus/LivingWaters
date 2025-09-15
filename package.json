@@ -1,5 +1,5 @@
 {
-  "name":  "livingwaters",
+  "name": "livingwaters",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
@@ -9,15 +9,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.4.1",
-    "@astrojs/svelte": "^7.0.6",
-    "astro": "^5.5.2",
+    "@astrojs/sitemap": "^3.5.1",
+    "@astrojs/svelte": "^7.1.1",
+    "astro": "^5.13.7",
     "reading-time": "^1.5.0",
     "rehype-external-links": "^3.0.0",
     "remark-gfm": "^4.0.0",
     "remark-smartypants": "^2.0.0"
   },
   "devDependencies": {
-    "@astrojs/mdx": "^4.3.0"
+    "@astrojs/mdx": "^4.3.5"
   }
 }
