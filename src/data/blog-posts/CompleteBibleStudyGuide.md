@@ -85,8 +85,8 @@ From Genesis to Revelation, **all of Scripture speaks exclusively and supremely 
 - There is **one intended meaning**, not many.
 - Let **Scripture interpret Scripture**.
 
-> **2 Peter 1:20–21**  
-> "But know this first of all, that no prophecy of Scripture is a matter of one’s own interpretation, for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God." *(NASB1995)*
+> **2 Peter 1:19–21**  
+> "So we have the prophetic word made more sure, to which you do well to pay attention as to a lamp shining in a dark place, until the  day dawns and the morning star arises  in your hearts. But know this first of all, that  no prophecy of Scripture is a matter of one’s own interpretation, for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God." *(NASB1995)*
 
 ---
 
