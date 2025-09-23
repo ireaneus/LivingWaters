@@ -115,7 +115,7 @@ Principles of Interpretation:
 - Golden Rule: “When the plain sense of Scripture makes common sense, seek no other sense. Take every word at its primary, ordinary, usual meaning unless the facts of the context indicate otherwise.”
 - Law of Context: A verse cannot be lifted out of its setting. “A text apart from its context becomes a pretext.”
 
-Interpretation answers what it means and prevents us from confusing our own ideas with God’s truth.
+*"the proper procedure to interpret the Scriptures is to first exegete the text in its own context and then check related passages and see exactly what the text actually teaches. However, when the text stops, then we must stop too and not engage in speculations as to how the prophecy may or may not be fulfilled. Then, if a current event actually fits exactly into a prophecy, then that prophecy is fulfilled, but not before."*[^3]
 
 ## 3. Application — *How does it change me?*
 
