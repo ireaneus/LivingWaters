@@ -13,9 +13,13 @@ label: study
 
 ## Opening (5 min)
 
+### 💬 Discussion Question
+
+> When was the last time somebody acted like your angel and truly encouraged or comforted you? Maybe they prayed 🙏 for you, truly listened to you, spoke words of life that made a difference in your walk with the Lord.
+
 ### 🌿 Personal Reflection to Open the Study
 
-As I was thinking about this study on *encouraging and comforting one another*, I realized — we recently  experienced that kind of *“one another”* moment.  
+As I was thinking, and working on this study on *encourage and comfort one another*, I realized — we recently  experienced that kind of *“one another”* moment.  
 
 When Nan and I left this last church because of doctrinal issues, it was another hard moment in our lives. We were just beginning to build relationships with some of them, we were being prayed for, and praying with them, we thought we arrived.
 
@@ -23,16 +27,9 @@ But there were close friends who came alongside us. They prayed with us, listene
 
 That kind of encouragement — truth spoken in love — gave us the courage to take the step we needed to take, and now we are attending Crossings - And bringing the friends who encouraged us along for the ride.
 
-## 💬 Discussion Question
-
 I think through this study tonight we’re going to see what it really means to be an encourager and a comforter for one another — and what that looks like for our church and this small group.
 
 I’ve shared one example of what it meant for someone to come alongside us and bring comfort when we were hurting.
-Now, to start our time together —
-
-**Ice-breaker question:**
-
-> When was a time someone came alongside you — maybe prayed with you, listened, or reminded you of truth — and it made all the difference?
 
 ---
 
