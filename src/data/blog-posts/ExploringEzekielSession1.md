@@ -243,9 +243,15 @@ b. **Romans 12:1–2** — *"Therefore I urge you, brethren, by the mercies of G
 
 c. **1 Corinthians 7:17** — *"Only, as the Lord has assigned to each one, as God has called each, in this manner let him walk. And so I direct in all the churches."*
 
+> *where God has placed you, walk worthy of the manner of the walk of Christ.*
+
 d. **Ephesians 1:4–6** — *"Just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will, to the praise of the glory of His grace, which He freely bestowed on us in the Beloved."*
 
+> *He has chosen me before the foundation of the world to be holy and blameless.*
+
 e. **Ephesians 2:10** — *"For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them."*
+
+> *He also created good works beforehand for us to do.*
 
 f. **1 Peter 2:9** — *"But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;"*
 
