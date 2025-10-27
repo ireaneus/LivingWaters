@@ -152,7 +152,7 @@ Using your Bible, answer the following questions.
 > - Led by the spirit of God
 
 8. **What did Ezekiel then see in verses 26 and 27, and what did he say this was, according to verse 28?**
-   1. *a throne with a figure, appearance of a man*, fire around His loins
+   1. *high above the Cherubim was a (deep blue) throne with a figure, appearance of a man*, fire around His loins
    2. *likeness of the glory of the Lord*
    3. *1 Tim 6:15-16, Heb 1:3, Col 1:15, Psa 99:1*
 
