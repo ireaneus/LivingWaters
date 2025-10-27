@@ -209,11 +209,19 @@ Using both your Bible and your copy of *Exploring Ezekiel*, answer the following
 > **Ezekiel 1:13-14; 26-28** - *"In the midst of the living beings there was something that looked like burning coals of fire, like torches darting back and forth among the living beings. The fire was bright, and lightning was flashing from the fire. And the living beings ran to and fro like bolts of lightning."* 26 - 28 *"Now above the expanse that was over their heads there was something resembling a throne, like lapis lazuli in appearance; and on that which resembled a throne, high up, was a figure with the appearance of a man. Then I noticed from the appearance of His loins and upward something like glowing metal that looked like fire all around within it, and from the appearance of His loins and downward I saw something like fire; and there was a radiance around Him. As the appearance of the rainbow in the clouds on a rainy day, so was the appearance of the surrounding radiance. Such was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell on my face and heard a voice speaking."*  
 > **Revelation 4:2-8** - *"Immediately I was in the Spirit; and behold, a throne was standing in heaven, and One sitting on the throne. And He who was sitting was like a jasper stone and a sardius in appearance; and there was a rainbow around the throne, like an emerald in appearance. Around the throne were twenty-four thrones; and upon the thrones I saw twenty-four elders sitting, clothed in white garments, and golden crowns on their heads. Out from the throne come flashes of lightning and sounds and peals of thunder. And there were seven lamps of fire burning before the throne, which are the seven Spirits of God; and before the throne there was something like a sea of glass, like crystal; and in the center and around the throne, four living creatures full of eyes in front and behind. The first creature was like a lion, and the second creature like a calf, and the third creature had a face like that of a man, and the fourth creature was like a flying eagle. And the four living creatures, each one of them having six wings, are full of eyes around and within; and day and night they do not cease to say, “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come.”*
 
+> *They each mention a throne and one who sits on it. Cherubim and Seraphim around it.*
+
 2. **What parallels can you find in Ezekiel 3:1–4, Jeremiah 15:16, and Revelation 10:9–11? Why do you think it was important for all three men to internalize God’s Word?**
+
+> *Reading words on paper, doesn't make you believe it, it just makes you have knowledge. knowledge puffs up but as Psalm 119 speaks on having the word in my heart, that I might not sin against thee*
 
 3. **What did Ezekiel do when he was brought before the Lord (Ezekiel 1:28)? When the prophet Isaiah “saw the Lord, high and exalted, seated on a throne” (Isaiah 6:1), how did he respond (verse 5)?**
 
+> *woe is me, I have seen the Lord, a man of unclean lips, living with unclean men*  
+
 4. **Both Ezekiel and Isaiah were prophets who loved God and were loyal to Him. Why, then, do you think they trembled so greatly in the Lord’s presence?**
+
+> *both experienced a Holy God visibly and being in the presence of holiness, just knowing  how totally depraved, shameful and we are nothing He is everything.*
 
 [↑ Table of Contents](#table-of-contents)
 
@@ -225,7 +233,11 @@ Using both your Bible and your copy of *Exploring Ezekiel*, answer the following
 
 a. **Psalm 139:13–16** — *"For You formed my inward parts; You wove me in my mother’s womb.I will give thanks to You, for I am fearfully and wonderfully made; Wonderful are Your works, And my soul knows it very well. My frame was not hidden from You, When I was made in secret, And skillfully wrought in the depths of the earth; Your eyes have seen my unformed substance; And in Your book were all written The days that were ordained for me, When as yet there was not one of them."*
 
+> *He leads me and guides my steps, He knows me in my inner being.  He knows me and when I will fail Him and when I serve Him.*
+
 b. **Romans 12:1–2** — *"Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect."*
+
+> *My life is hidden in Christ, I was bought with a price. The only thing I have to offer is  my body, my life is not my own.*
 
 c. **1 Corinthians 7:17** — *"Only, as the Lord has assigned to each one, as God has called each, in this manner let him walk. And so I direct in all the churches."*
 
