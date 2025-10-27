@@ -120,7 +120,9 @@ Using your Bible, answer the following questions.
 7. **Does the rest of Ezekiel chapter 1 ever identify the wheels in verses 15–21?**
    1. *Spirit of the living beings was in the wheels
 
-> **Why is it best not to speculate as to their exact identity and meaning? My question why should we not identify the meaning, God provided the description, we need to know why it is there, correct?**
+7a. **Why is it best not to speculate as to their exact identity and meaning?**
+
+### interpretation of the vision objects
 >
 > - **vs.4 Cloud** *We know the "cloud is God's glory, (Exodus cloud by day)*  
 > - **vs.7 legs** *were straight - Hebrew word for "right - or upright"; and look like man's legs, with feet of a calf hoove, burnished bronze (withstanding judgement - tested through fire, proven pure and holy)*  
