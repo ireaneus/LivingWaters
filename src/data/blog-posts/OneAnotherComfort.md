@@ -13,9 +13,13 @@ label: study
 
 ## Opening (5 min)
 
+### 💬 Discussion Question
+
+> When was the last time somebody acted like your angel and truly encouraged or comforted you? Maybe they prayed 🙏 for you, truly listened to you, spoke words of life that made a difference in your walk with the Lord.
+
 ### 🌿 Personal Reflection to Open the Study
 
-As I was thinking about this study on *encouraging and comforting one another*, I realized — we recently  experienced that kind of *“one another”* moment.  
+As I was thinking, and working on this study on *encourage and comfort one another*, I realized — we recently  experienced that kind of *“one another”* moment.  
 
 When Nan and I left this last church because of doctrinal issues, it was another hard moment in our lives. We were just beginning to build relationships with some of them, we were being prayed for, and praying with them, we thought we arrived.
 
@@ -23,16 +27,9 @@ But there were close friends who came alongside us. They prayed with us, listene
 
 That kind of encouragement — truth spoken in love — gave us the courage to take the step we needed to take, and now we are attending Crossings - And bringing the friends who encouraged us along for the ride.
 
-## 💬 Discussion Question
-
 I think through this study tonight we’re going to see what it really means to be an encourager and a comforter for one another — and what that looks like for our church and this small group.
 
 I’ve shared one example of what it meant for someone to come alongside us and bring comfort when we were hurting.
-Now, to start our time together —
-
-**Ice-breaker question:**
-
-> When was a time someone came alongside you — maybe prayed with you, listened, or reminded you of truth — and it made all the difference?
 
 ---
 
@@ -45,7 +42,9 @@ Twice, he gives the same instruction:
 > **1 Thessalonians 4:18** — “Therefore comfort one another with these words.”  
 > **1 Thessalonians 5:11** — “Therefore encourage one another and build up one another, just as you also are doing.”
 
-These verses set the tone: Christian encouragement and comfort are anchored in the *truth of the gospel and the hope of resurrection* — not in vague positivity.
+These verses set the tone: Christian encouragement and comfort are anchored in the *truth of the gospel and the hope of resurrection*
+
+**Revelation 2:10** *Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, so that you will be tested, and you will have tribulation for ten days. Be faithful until death, and I will give you the crown of life.*
 
 ---
 
@@ -88,11 +87,11 @@ Biblical comfort is **Spirit-led compassion rooted in divine truth** — not avo
 
 ---
 
-## 3. Exploring Other Encourage & Comfort Verses (20 min)
+## 3. Biblical definition of encouragement and comfort (20 min)
 
 > **Romans 12:15-16** *“Rejoice with those who rejoice, and weep with those who weep. Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation.”*
 
-> **Romans 15:1-2,5** *““Now we who are strong ought to bear the weaknesses of those without strength and not just please ourselves. Each of us is to please his neighbor for his good, to his edification.”Now may the God who gives perseverance and encouragement grant you to be of the same mind with one another according to Christ Jesus, so that with one accord you may with one voice glorify the God and Father of our Lord Jesus Christ”*
+> **Romans 15:1-2,5** *“Now we who are strong ought to bear the weaknesses of those without strength and not just please ourselves. Each of us is to please his neighbor for his good, to his edification. Now may the God who gives perseverance and encouragement grant you to be of the same mind with one another according to Christ Jesus, so that with one accord you may with one voice glorify the God and Father of our Lord Jesus Christ”*
 
 > **Hebrews 3:13** *“But encourage one another day after day, as long as it is still called “Today,” so that none of you will be hardened by the deceitfulness of sin.”*
 
@@ -110,19 +109,19 @@ These passages show that encouragement and comfort are **community disciplines**
 
 Q1. What do *encouragement* and *comfort* look like in practice within the church today?
 
-- Doing what the word of God says **(James 5:13-20, Hebrews 10:24-25, Romans 15:5)**
-  - Praying for and healing the sick - **James 5**
-  - Believing your prayers are heard by God  - **James 5**
-  - Confessing to one another our sins - being accountable to one another - **James 5**
-  - Stimulate on another to love and good deeds - **Hebrews 10:24-25**
-  - Regular assembling together - **Hebrews 10:24-25**
-  - Being like-minded - **Romans 12:15-16; 15:5, 2 Corinthans 13:11**
-  - Live in peace - **2 Corinthians 13:11**
-  - Rejoice and weep with those, associate with the lowly - **Romans 12:15-16**
-  - Bear one another's burdens - **Galatians 6:1-2**
-  - **1 Thessalonians 5:14** - *"We urge you, brethren, admonish the unruly, encourage the fainthearted, help the weak, be patient with everyone."*
-  - **Colossians 3:16** - *"Let the word of Christ richly dwell within you, with all wisdom teaching and admonishing one another with psalms and hymns and spiritual songs, singing with thankfulness in your hearts to God.”*
-  - **Philippians 2:1-2** - *“Therefore if there is any encouragement in Christ, if there is any  consolation of love, if there is any fellowship of the Spirit, if any affection and compassion, make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose.”*
+Answer.
+- Praying for and healing the sick - **James 5**
+- Believing your prayers are heard by God  - **James 5**
+- Confessing to one another our sins - being accountable to one another - **James 5**
+- Stimulate on another to love and good deeds - **Hebrews 10:24-25**
+- Regular assembling together - **Hebrews 10:24-25**
+- Being like-minded - **Romans 12:15-16; 15:5, 2 Corinthans 13:11**
+- Live in peace - **2 Corinthians 13:11**
+- Rejoice and weep with those, associate with the lowly - **Romans 12:15-16**
+- Bear one another's burdens - **Galatians 6:1-2**
+- **1 Thessalonians 5:14** - *"We urge you, brethren, admonish the unruly, encourage the fainthearted, help the weak, be patient with everyone."*
+- **Colossians 3:16** - *"Let the word of Christ richly dwell within you, with all wisdom teaching and admonishing one another with psalms and hymns and spiritual songs, singing with thankfulness in your hearts to God.”*
+- **Philippians 2:1-2** - *“Therefore if there is any encouragement in Christ, if there is any  consolation of love, if there is any fellowship of the Spirit, if any affection and compassion, make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose.”*
 
 Q2. How have you experienced the comfort of God through another believer?  
 
