@@ -6,6 +6,21 @@ description: The people of Israel had fallen far.
 label: book
 ---
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [**HOW TO USE THIS WORKBOOK**](#how-to-use-this-workbook)
+- [**EXPLORE THE BIBLE YOURSELF**](#explore-the-bible-yourself)
+- [**CAPTURE THE SCENE (What do I see?)**](#capture-the-scene-what-do-i-see)
+- [**ANALYZE THE MESSAGE (What does it mean?)**](#analyze-the-message-what-does-it-mean)
+- [**COMPARE THIS PASSAGE WITH THE REST OF SCRIPTURE (How is it supported elsewhere in the Bible?)**](#compare-this-passage-with-the-rest-of-scripture-how-is-it-supported-elsewhere-in-the-bible)
+- [**EXECUTE (How does this affect my life?)**](#execute-how-does-this-affect-my-life)
+- [**LESSON 1**](#lesson-1)
+- [**ANALYZE THE MESSAGE (What does it say and mean?)**](#analyze-the-message-what-does-it-say-and-mean)
+- [**COMPARE THIS PASSAGE WITH THE REST OF SCRIPTURE (How is it supported elsewhere in the Bible?)**](#compare-this-passage-with-the-rest-of-scripture-how-is-it-supported-elsewhere-in-the-bible-1)
+- [**EXECUTE (How does this affect my life?)**](#execute-how-does-this-affect-my-life-1)
+- [**CLOSING THOUGHTS**](#closing-thoughts)
+
 ## **HOW TO USE THIS WORKBOOK**
 
 What should you look for when you open your Bible? How do you draw out the meaning from what you are reading? And how do you make it work in your life?
