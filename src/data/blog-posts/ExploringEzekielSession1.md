@@ -1,8 +1,8 @@
 ---
-title: Experiencing God's Otherness (1-3)
+title: Exploring Ezekiel session 1
 slug: ezekiel-session1
 publishDate: 27 Oct 2025
-description: Exploring Ezekiel Lesson One Workbook - Experiencing God's Otherness.
+description: Experiencing God's Otherness.
 label: book
 ---
 
@@ -194,10 +194,10 @@ Using both your Bible and your copy of *Exploring Ezekiel*, answer the following
    1. *so that they are without excuse.*
 
 4. **In Ezekiel 3:7, God told the prophet, *“The house of Israel will not listen to you, because they will not listen to Me.”* Even though the people wanted nothing to do with God, the Lord chose to send Ezekiel to alert them about the consequences of their sin. What does this tell you about the character of God?**
-   1. It shows His Grace, once again demonstrating His mercy. Revealing to them the sins they are committing against Him.
+   1. *It shows His Grace, once again demonstrating His mercy. Revealing to them the sins they are committing against Him.*
 
 5. **In Ezekiel 3:17, God said to Ezekiel, *“Son of man, I have made you a watchman for the house of Israel.”* According to Ezekiel 33:6–9, what was Ezekiel’s responsibility as a watchman, and in what way would God hold him accountable?**
-   1. He is to take the Lord's message to the wicked of Israel and if he doesn't the blood of those shed will be on his head.
+   1. *He is to take the Lord's message to the wicked of Israel and if he doesn't the blood of those shed will be on his head.*
 
 ---
 
