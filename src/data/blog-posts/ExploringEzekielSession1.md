@@ -255,7 +255,11 @@ e. **Ephesians 2:10** — *"For we are His workmanship, created in Christ Jesus 
 
 f. **1 Peter 2:9** — *"But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;"*
 
+> *proclaim the Excellencies of Him.*
+
 2. **Every person whom God calls has a unique place in the body of Christ. Based on where God has put you, how do you think He wants to use you?**
+
+> *Evangelism and Prayer*
 
 3. **First Corinthians 12:7 says, “The manifestation of the Spirit is given to each one for the profit of all.” Every one of us is spiritually gifted in ways that benefit fellow believers. With that in mind, answer the following:**
 
