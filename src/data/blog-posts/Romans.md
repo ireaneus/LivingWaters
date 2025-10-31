@@ -23,7 +23,7 @@ Grace and peace to you from God our Father and the Lord Jesus Christ.*
 
 ## Chapter 2
 
-** Romans 2:1-4 God’s Righteous Judgment**  
+**Romans 2:1-4 God’s Righteous Judgment**  
 
 **(Psalm 75:1–10)**
 ​> *You, therefore, have no excuse, you who pass judgment on another. For on whatever grounds you judge the other, you are condemning yourself, because you who pass judgment do the same things. And we know that God’s judgment against those who do such things is based on truth. So when you, O man, pass judgment on others, yet do the same things, do you think you will escape God’s judgment? Or do you disregard the riches of His kindness, tolerance, and patience, not realizing that God’s kindness leads you to repentance?*
