@@ -44,7 +44,7 @@ Our study is to recognize those divine patterns so that we might truly understan
 
 - vs.1:5 *"Within it there were figures resembling four living beings. And this was their appearance: they had human form."*
 - It was the Cherubim, their description dominated Chapter 1
-  - and maybe God meant it that way.  Let's review this iwith the idea of applying the principles of studying the Bible.
+  - and maybe God meant it that way.  Let's review this with the idea of applying the principles of studying the Bible.
 
 > *What is God trying to say to us in Chapter 1?*
 
@@ -186,9 +186,9 @@ And here lies the marvel: those long-term prophecies still await complete fulfil
 
 1. **The Four Living Creatures Represent All Creation.**
    Each creature combines the features of different orders of life — man (intellect), lion (strength), ox (service), and eagle (swiftness). Together they symbolize the totality of God’s created order, all animated and directed by His Spirit. Creation itself exists to reflect His glory and respond in perfect obedience to His will. *(cf. Rev. 4:6–8)*
-   1. **“All Creation Moves by the Spirit of the Living Beings.”**
+1. **“All Creation Moves by the Spirit of the Living Beings.”**
 This reveals that all created life, including angelic beings, operates under divine impulse, not independent will. The wheels, living creatures, and the throne move in one perfect unity — illustrating that **the Spirit governs all creation**.
-   1. **“All Creation Upholds the Glory of God with Humility.”**
+1. **“All Creation Upholds the Glory of God with Humility.”**
 The cherubim cover themselves with their wings, acting as guardians of divine holiness. Their swift obedience and lowered posture reflect the created order’s proper position before the Creator: to exalt Him and not themselves.
 
 **Chapter 2 — The Commission of the Prophet**
@@ -207,18 +207,6 @@ The cherubim cover themselves with their wings, acting as guardians of divine ho
    > *“As for them, whether they listen or not—for they are a rebellious house—they will know that a prophet has been among them.”*
 
    The immediate events confirmed Ezekiel’s role as a true prophet so that future generations could trust his **long-term prophecies** — the restoration of Israel, the return of God’s glory to the Temple *(Ezek. 43)*, and the coming Messianic Kingdom *(Ezek. 37:24–28)*.
-
-**Interpretive Conclusion — What God Revealed**
-
-Through the vision and commission of Ezekiel, God declares:
-
-- **His glory rules all creation** — nothing moves apart from His Spirit.
-- **His throne is not limited by geography** — even in exile, He reigns.
-- **His word stands sure** — rebellion cannot silence revelation.
-- **His servants are upheld by His Spirit** — reverence prepares them; obedience sustains them.
-- **His purpose unfolds through time** — near-term fulfillment verifies the word; long-term prophecy awaits its appointed hour.
-
----
 
 ## Hermeneutical Bridge — From Ezekiel to Revelation
 
