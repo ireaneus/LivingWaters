@@ -104,25 +104,7 @@ In Lesson 2 I described Ezekiel’s vision as the *most breathtaking call narrat
 
 Thus, my statement that Ezekiel was the only prophet to see such a grand vision should be understood in this way: he was the only Old Testament prophet granted so vast and detailed a revelation of God’s glory in motion. In the New Testament, that same glory reappears to John, confirming the continuity of divine revelation.
 
-**3. The Bridegroom and the Bride — The Pattern of Redemption**
-
-Even the language of marriage follows God’s divine precedent.
-The imagery of the Bridegroom and Bride runs throughout Scripture as a pattern of covenant relationship—fulfilled ultimately in Christ and His Church.
-
-Old Testament Precedent:
-
-*“Let the bridegroom come out of his room and the bride out of her chamber.”*— **Joel 2:16**
-
-In its prophetic context, all of Joel’s Chapter 2 anticipates the Day of the LORD—a time of judgment and restoration. The imagery of the bridegroom and bride emerging from their chambers after a period of seven days, pictures all that the verses previously explains the 7 year tribulation.  The Bridegroom and Bride coming to the “Bride’s house”
-
-In Jewish wedding custom, the bridegroom and bride were secluded together for seven days, a private celebration before the public feast.
-This pattern becomes prophetic of the seven-year tribulation period, during which the Bride (the Church) is with the Bridegroom (Christ) in heaven while God completes His judgment and redemption on earth.
-
-New Testament Fulfillment:
-
-*“The marriage of the Lamb has come, and His bride has made herself ready.”*— **Revelation 19:7**
-
-**4. The Hebrew Writing Style — Chiastic Structure**
+### 4. The Hebrew Writing Style — Chiastic Structure
 
 Unlike Western writing, which moves in a straight line (beginning → middle → end), Hebrew thought often moves in a mirrored pattern called a Chiasm (from the Greek letter chi, shaped like an “X”).
 
@@ -154,7 +136,23 @@ The wife replies kindly, *“Oh son, you must go to church.”* The husband asks
 
 ---
 
-Ezekiel called as a prophet no one will listen to: **Matt. 23:37** *"Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, the way a hen gathers her chicks under her wings, and you were unwilling."*
+### Ezekiel 2:6–7 — Called to Speak, Whether They Listen or Not
 
-> **Ezek. 2:6** *“And you, son of man, neither fear them nor fear their words, though thistles and thorns are with you and you sit on scorpions; neither fear their words nor be dismayed at their presence, for they are a rebellious house.*  
-> **Ezek. 2:7** *“But you shall speak My words to them whether they listen or not, for they are rebellious."*
+> **Ezekiel 2:6–7 (NASB 1995)**  
+> “And you, *son of man*, neither *fear them* nor *fear their words*, though thistles and thorns are with you and you sit on scorpions; neither *fear* their words nor be dismayed at their presence, for they are a rebellious house.  
+> But you shall speak My words to them whether they listen or not, for they are rebellious.”
+
+- Second time God calls Ezekiel *"son of man"*
+- three times God says, *“Do not fear.”* (in verse 6 alone)
+- Second time *whether they listen or not*
+
+> **Matthew 23:37**
+> *"“Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, the way a hen gathers her chicks under her wings, and you were unwilling."*
+> 
+> **Proverbs 29:25** — “The fear of man brings a snare,  
+> But he who trusts in the LORD will be exalted.”  
+
+**Question:**
+
+> *What is God trying to say to us? If He is repeating Himself there is a reason.*
+---
