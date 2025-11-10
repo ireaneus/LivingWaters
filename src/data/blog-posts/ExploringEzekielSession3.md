@@ -17,8 +17,6 @@ label: book
 
 Last week, we explored Ezekiel Chapter 1 through Chapter 2, verse 5, under the theme *“Through Reverence and Readiness.”*
 
-*The Lord reigns, His glory fills creation, and His Word endures forever. God commissions His servants based on His unchanging authority, measuring faithfulness by obedience, not results.*
-
 We saw how Ezekiel’s encounter with the glory of God brought him to the ground in *reverence, humility,* and how the Spirit lifted him up—*ready to serve.*
 
 ### Tonight’s Theme
@@ -148,7 +146,7 @@ The wife replies kindly, *“Oh son, you must go to church.”* The husband asks
 
 > **Matthew 23:37**
 > *"“Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, the way a hen gathers her chicks under her wings, and you were unwilling."*
-> 
+>
 > **Proverbs 29:25** — “The fear of man brings a snare,  
 > But he who trusts in the LORD will be exalted.”  
 

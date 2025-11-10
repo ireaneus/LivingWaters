@@ -6,7 +6,7 @@ description: "For Scripture memorization and correlation of scripture - vetting"
 label: note
 ---
 
-## Scripture Reference categories
+## Table of Contents
 
 | Section              | Description                                          |
 |----------------------|------------------------------------------------------|
@@ -24,6 +24,7 @@ label: note
 | [Faith](#faith)                     | Faith comes by hearing                              |
 | [Repentance](#repentance)           | God's kindness leads to repentance                  |
 | [Granted](#granted)                 | Coming to Christ and belief granted by God          |
+| [Darkness](#darkness)               | Creation, Sin, Abyss                                |
 
 ---
 
@@ -69,8 +70,8 @@ label: note
 
 [↑ Table of Contents](#table-of-contents)
 
-> **John 16:13**  
->
+ **John 16:13**  
+
 > *But when He, the Spirit of truth, comes, He will guide you into all the truth; for He will not speak on His own initiative, but whatever He hears, He will speak; and He will disclose to you what is to come.*
 
 > **Ephesians 1:13–14**  
@@ -78,6 +79,25 @@ label: note
 > *In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise, who is given as a pledge of our inheritance, with a view to the redemption of God’s own possession, to the praise of His glory.*
 
 ---
+
+### Darkness
+
+[↑ Table of Contents](#table-of-contents)
+
+**Genesis 1:2-5**
+
+> *"The earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was moving over the surface of the waters. Then God said, “Let there be light”; and there was light. God saw that the light was good; and God separated the light from the darkness. God called the light day, and the darkness He called night. And there was evening and there was morning, one day."*
+
+**Isaiah 45:7**
+
+> *"The One forming light and creating darkness, Causing well-being and creating calamity; I am the Lord who does all these."*
+
+**Amos 4:13**
+> *"For behold, He who forms mountains and creates the wind And declares to man what are His thoughts, He who makes dawn into darkness And treads on the high places of the earth, The Lord God of hosts is His name."*
+
+**Psalms 104:20**
+
+> *"You appoint darkness and it becomes night, In which all the beasts of the forest prowl about."*
 
 ### God the Father
 
