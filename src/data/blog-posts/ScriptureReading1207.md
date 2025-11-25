@@ -16,7 +16,7 @@ label: devotional
 
 ### The Road to Emmaus
 
->13 And behold, two of them were going that very day to a village named Emmaus, which was about seven miles from Jerusalem.
+> 13 And behold, two of them were going that very day to a village named Emmaus, which was about seven miles from Jerusalem.
 > 14 And they were talking with each other about all these things which had taken place.
 > 15 While they were talking and discussing, Jesus Himself approached and began traveling with them.
 > 16 But their eyes were prevented from recognizing Him.
