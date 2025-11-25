@@ -35,3 +35,9 @@ label: devotional
 ### John 5:39
 
 > *You search the Scriptures because you think that in them you have eternal life; it is these that testify about Me;*
+
+---
+
+Have you ever noticed when you hear someone speaking from another room, you look towards the voice and if their shadow appears down the hallway you focus on the shadow as the voice continues to speak. But when they enter the room, your eyes turn to the person speaking?
+
+As you can see Jesus testified that all of Scripture points to Him. The people and stories are shadows of the one who is speaking. 
