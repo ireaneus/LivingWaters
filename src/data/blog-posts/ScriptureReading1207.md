@@ -8,9 +8,13 @@ label: devotional
 
 ![Illustration of lillies of the valley](/LivingWaters/assets/blog/welcome.webp)
 
-**Read:** Luke 24:13-48
+**Read:** Luke 24:13-27
 
 ---
+
+Have you ever noticed that when someone speaks from another room, you instinctively turn your head toward the sound? And if their shadow appears in the hallway, your eyes fix on the shadow while the voice continues. But the moment the person actually steps into the room, your eyes immediately shift from the shadow to the person.
+
+In the same way, Scripture is filled with shadows — people, stories, sacrifices, events — that point to the real Person who is speaking. Jesus Himself said that all of Scripture points to Him.
 
 ## Scripture
 
@@ -38,8 +42,26 @@ label: devotional
 
 ---
 
-Have you ever noticed when you hear someone speaking from another room, you look towards the voice and if their shadow appears down the hallway you focus on the shadow as the voice continues to speak. But when they enter the room, your eyes turn to the person speaking?
+### The Road to Emmaus Moment We All Wish We Had
 
-As you can see Jesus testified that all of Scripture points to Him. The people and stories are shadows of the one who is speaking. 
+Wouldn’t it be incredible to have been on that road with Jesus — listening to Him walk us through the Old Testament, showing how every thread of Scripture weaves together and finds its fulfillment in His life, death, and resurrection?
 
-Wouldn't it be nice if 
+And yet… in a very real sense, we do have something Jesus said was even better.
+
+He promised us His Spirit — the One who “reveals all things” (1 Corinthians 2:10) and who *“will guide you into all the truth”* (John 16:13).
+
+This is why, when we open God’s Word, we pray:
+
+*“Lord, reveal Yourself to me in Your holy Word.”*
+
+### A Glimpse of Heaven
+
+But I'm drifting into preaching — Pastor Wayne will do that, and he is a faithful man of God who will lead us closer to the Good Shepherd.
+
+Still… I can’t help imagining how it will be in Kingdom — to sit by a quiet stream with Jesus, maybe with close friends or family around us, and simply listen as He explains His Word.
+
+To sit at the feet of Jesus
+
+### Prayer
+
+Lord, we long to see you return, we are so thankful that you chose us, and saved us, and that we will spend eternity at your feet, glorifying and worshipping you.  But for today, Lord reveal Yourself to us, speak through Pastor Wayne, let his words be your words, for we long to hear from you.  Conform us to your image daily and forgive us where we fail you. Yours is the kingdom and the glory, in your son's name. Amen.
