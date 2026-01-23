@@ -151,6 +151,19 @@ label: note
 
 ---
 
+### Redemption 
+
+> **Hebrews 9:12**  
+>
+> *and not through the blood of goats and calves, but through His own blood, He entered the holy place once for all, having obtained eternal redemption.*
+
+> **Luke 1:68**  
+>
+> *Luke 1:68-69 NASB1995
+[68] “Blessed be the Lord God of Israel, For He has visited us and accomplished redemption for His people,*
+
+---
+
 ### Providence
 
 [↑ Table of Contents](#table-of-contents)
