@@ -2,7 +2,7 @@
 title: Bible Study of Romans 
 slug: study-romans
 publishDate: 15 Oct 2025
-description: Study of the book of Roma9
+description: Study of the book of Romans
 label: note
 ---
 
