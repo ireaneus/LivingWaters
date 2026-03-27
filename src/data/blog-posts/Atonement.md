@@ -2,27 +2,22 @@
 title: Guarding My Heart in Doctrinal Conversations 
 slug: defend-faith
 publishDate: 25 Feb 2026
-description: "It is easy, especially after studying weak or unbiblical theories of the atonement, to become dismissive or irritated. Some modern theories can sound shallow, man-centered, or logically inconsistent. However, Scripture calls us not only to defend truth, but to do so with humility and gentleness."
+description: It is easy, especially after studying weak or unbiblical theories of the atonement, to become dismissive or irritated. Some modern theories can sound shallow, man-centered, or logically inconsistent. However, Scripture calls us not only to defend truth, but to do so with humility and gentleness.
 label: article
 ---
 
-# Guarding My Heart in Doctrinal Conversations  
 *A Personal Discipline for Defending Truth with Humility*
 
 ---
 
 ## Table of Contents
 
-1. [Why This Matters](#why-this-matters)  
-2. [A Short Personal Discipline Before Speaking](#a-short-personal-discipline-before-speaking)  
-   - [1️⃣ Pause — Remember Who Opened Your Eyes](#1️⃣-pause--remember-who-opened-your-eyes)  
-   - [2️⃣ Re-center — My Goal Is Not to Win](#2️⃣-re-center--my-goal-is-not-to-win)  
-   - [3️⃣ Ask for the Right Spirit](#3️⃣-ask-for-the-right-spirit)  
-   - [4️⃣ Stay Anchored in Scripture](#4️⃣-stay-anchored-in-scripture)  
-   - [5️⃣ Remember What Sovereign Grace Produces](#5️⃣-remember-what-sovereign-grace-produces)  
-3. [A 30-Second Prayer Before Conversations](#a-30-second-prayer-before-conversations)  
-4. [A Conversation Template for Real-Life Discussions](#a-conversation-template-for-real-life-discussions)  
-5. [Final Reminder](#final-reminder)  
+- [Table of Contents](#table-of-contents)
+- [Why This Matters](#why-this-matters)
+- [A Short Personal Discipline Before Speaking](#a-short-personal-discipline-before-speaking)
+- [A 30-Second Prayer Before Conversations](#a-30-second-prayer-before-conversations)
+- [A Conversation Template for Real-Life Discussions](#a-conversation-template-for-real-life-discussions)
+- [Final Reminder](#final-reminder)
 
 ---
 
@@ -30,9 +25,9 @@ label: article
 
 It is easy, especially after studying weak or unbiblical theories of the atonement, to become dismissive or irritated. Some modern theories can sound shallow, man-centered, or logically inconsistent. However, Scripture calls us not only to defend truth, but to do so with humility and gentleness.
 
-- *“Contend earnestly for the faith which was once for all handed down to the saints.”* (**Jude 1:3**)  
-- *“The Lord’s bond-servant must not be quarrelsome… correcting those who are in opposition with gentleness.”* (**2 Timothy 2:24–25**)  
-- *“Speaking the truth in love.”* (**Ephesians 4:15**)  
+> *“Contend earnestly for the faith which was once for all handed down to the saints.”* (**Jude 1:3**)  
+> *“The Lord’s bond-servant must not be quarrelsome… correcting those who are in opposition with gentleness.”* (**2 Timothy 2:24–25**)  
+> *“Speaking the truth in love.”* (**Ephesians 4:15**)  
 
 Truth matters. But tone matters too.
 
@@ -44,10 +39,10 @@ Truth matters. But tone matters too.
 
 Pray:
 
-> “Lord, if I understand anything rightly, it is because You showed me.”
+*“Lord, if I understand anything rightly, it is because You showed me.”*
 
-- *“What do you have that you did not receive?”* (**1 Corinthians 4:7**)  
-- *“By the grace of God I am what I am.”* (**1 Corinthians 15:10**)  
+> *“What do you have that you did not receive?”* (**1 Corinthians 4:7**)  
+> *“By the grace of God I am what I am.”* (**1 Corinthians 15:10**)  
 
 This kills pride immediately.
 
@@ -57,10 +52,10 @@ This kills pride immediately.
 
 Pray:
 
-> “My goal is not to win an argument, but to honor Christ.”
+*“My goal is not to win an argument, but to honor Christ.”*
 
-- *“Let all that you do be done in love.”* (**1 Corinthians 16:14**)  
-- *“Speaking the truth in love.”* (**Ephesians 4:15**)  
+> *“Let all that you do be done in love.”* (**1 Corinthians 16:14**)  
+> *“Speaking the truth in love.”* (**Ephesians 4:15**)  
 
 Winning arguments is flesh. Winning souls is spiritual.
 
@@ -70,10 +65,10 @@ Winning arguments is flesh. Winning souls is spiritual.
 
 Pray:
 
-> “Give me firmness without harshness.”
+*“Give me firmness without harshness.”*
 
-- *“The Lord’s bond-servant must not be quarrelsome… correcting with gentleness.”* (**2 Timothy 2:24–25**)  
-- *“Let your speech always be with grace.”* (**Colossians 4:6**)  
+> *“The Lord’s bond-servant must not be quarrelsome… correcting with gentleness.”* (**2 Timothy 2:24–25**)  
+> *“Let your speech always be with grace.”* (**Colossians 4:6**)  
 
 Gentleness is controlled strength.
 
@@ -89,7 +84,7 @@ Commit beforehand:
 - I will avoid dismissive tone.  
 
 If I find myself thinking,  
-“This is just nonsense,”  
+*“This is just nonsense,”*  
 that is my cue to slow down.
 
 ---
@@ -104,7 +99,7 @@ If I believe:
 
 Then I do not need to force anything.
 
-- *“The anger of man does not achieve the righteousness of God.”* (**James 1:20**)  
+> *“The anger of man does not achieve the righteousness of God.”* (**James 1:20**)  
 
 Calm theology should produce calm demeanor.
 
@@ -112,7 +107,7 @@ Calm theology should produce calm demeanor.
 
 ## A 30-Second Prayer Before Conversations
 
-> “Father, You opened my eyes by grace. Guard me from pride. Let me defend truth without harshness. Help me love the person in front of me more than I love being right. Make my words clear, biblical, and gentle. I trust You to change hearts. Amen.”
+*“Father, You opened my eyes by grace. Guard me from pride. Let me defend truth without harshness. Help me love the person in front of me more than I love being right. Make my words clear, biblical, and gentle. I trust You to change hearts. Amen.”*
 
 ---
 
@@ -120,19 +115,18 @@ Calm theology should produce calm demeanor.
 
 When someone says:
 
-> “Everyone has the ability to choose God.”
+- *“Everyone has the ability to choose God.”*
+- *"Everyone will have a chance to choose God"*
 
 Instead of correcting immediately, use this pattern:
 
 ### Step 1 — Clarify
 
-“Help me understand what you mean by ability. Do you mean moral ability, spiritual ability, or opportunity?”
+*“Help me understand what you mean by ability or given a chance?"*
 
 ### Step 2 — Affirm What You Can
 
-“I agree that everyone is responsible to repent and believe.”
-
-(Responsibility does not equal ability.)
+*“I agree that everyone is responsible to repent and believe.”*
 
 ### Step 3 — Gently Introduce Scripture
 

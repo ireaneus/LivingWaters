@@ -9,9 +9,10 @@ label: book
 ## 📌 Introduction
 
 - Who is the author?
-- When did he write this?
-- Who is the audience? Why was he writing this?
-- Where did he write this letter?
+  - When did he write this?
+  - Why was he writing this?
+  - Where did he write this letter?
+- Who is the audience?
 
 **Golden Rule of Interpretation**  
 `When the plain sense of the scripture, makes common sense, seek no other sense`
