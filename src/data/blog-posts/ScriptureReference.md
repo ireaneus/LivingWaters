@@ -28,6 +28,11 @@ label: note
 
 ---
 
+### Prophet qualifications
+
+> **Deuteronomy 18:22 NASB1995**  
+>*[22] When a prophet speaks in the name of the Lord, if the thing does not come about or come true, that is the thing which the Lord has not spoken. The prophet has spoken it presumptuously; you shall not be afraid of him*
+
 ### Faith
 
 [↑ Table of Contents](#table-of-contents)
